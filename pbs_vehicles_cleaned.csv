@@ -1,0 +1,2916 @@
+Year,Province,Division,District,VehicleType,Count
+2015,Punjab,Rawalpindi,Attock,Auto Rickshaws,13689
+2015,Punjab,Rawalpindi,Attock,Mini Buses/Buses/Flying/Luxury Coaches,160
+2015,Punjab,Rawalpindi,Attock,Motor Cars/Jeeps/Station Wagons,6557
+2015,Punjab,Rawalpindi,Attock,Motor Cycles/Scooters,76669
+2015,Punjab,Rawalpindi,Attock,Other Vehicles,47
+2015,Punjab,Rawalpindi,Attock,Pickups/Delivery Vans,6098
+2015,Punjab,Rawalpindi,Attock,Taxis,100
+2015,Punjab,Rawalpindi,Attock,Tractors,9524
+2015,Punjab,Rawalpindi,Attock,Trucks,454
+2015,Punjab,Bahawalpur,Bahawalnagar,Auto Rickshaws,627
+2015,Punjab,Bahawalpur,Bahawalnagar,Mini Buses/Buses/Flying/Luxury Coaches,213
+2015,Punjab,Bahawalpur,Bahawalnagar,Motor Cars/Jeeps/Station Wagons,2670
+2015,Punjab,Bahawalpur,Bahawalnagar,Motor Cycles/Scooters,236387
+2015,Punjab,Bahawalpur,Bahawalnagar,Other Vehicles,141
+2015,Punjab,Bahawalpur,Bahawalnagar,Pickups/Delivery Vans,363
+2015,Punjab,Bahawalpur,Bahawalnagar,Taxis,186
+2015,Punjab,Bahawalpur,Bahawalnagar,Tractors,32600
+2015,Punjab,Bahawalpur,Bahawalnagar,Trucks,78
+2015,Punjab,Bahawalpur,Bahawalpur,Auto Rickshaws,5994
+2015,Punjab,Bahawalpur,Bahawalpur,Mini Buses/Buses/Flying/Luxury Coaches,1059
+2015,Punjab,Bahawalpur,Bahawalpur,Motor Cars/Jeeps/Station Wagons,17321
+2015,Punjab,Bahawalpur,Bahawalpur,Motor Cycles/Scooters,375230
+2015,Punjab,Bahawalpur,Bahawalpur,Other Vehicles,138
+2015,Punjab,Bahawalpur,Bahawalpur,Pickups/Delivery Vans,3984
+2015,Punjab,Bahawalpur,Bahawalpur,Taxis,3419
+2015,Punjab,Bahawalpur,Bahawalpur,Tractors,26845
+2015,Punjab,Bahawalpur,Bahawalpur,Trucks,504
+2015,Punjab,Sargodha,Bhakkar,Auto Rickshaws,12923
+2015,Punjab,Sargodha,Bhakkar,Mini Buses/Buses/Flying/Luxury Coaches,244
+2015,Punjab,Sargodha,Bhakkar,Motor Cars/Jeeps/Station Wagons,1462
+2015,Punjab,Sargodha,Bhakkar,Motor Cycles/Scooters,92821
+2015,Punjab,Sargodha,Bhakkar,Other Vehicles,36
+2015,Punjab,Sargodha,Bhakkar,Pickups/Delivery Vans,272
+2015,Punjab,Sargodha,Bhakkar,Taxis,68
+2015,Punjab,Sargodha,Bhakkar,Tractors,9373
+2015,Punjab,Sargodha,Bhakkar,Trucks,33
+2015,Punjab,Rawalpindi,Chakwal,Auto Rickshaws,8270
+2015,Punjab,Rawalpindi,Chakwal,Mini Buses/Buses/Flying/Luxury Coaches,237
+2015,Punjab,Rawalpindi,Chakwal,Motor Cars/Jeeps/Station Wagons,4752
+2015,Punjab,Rawalpindi,Chakwal,Motor Cycles/Scooters,78422
+2015,Punjab,Rawalpindi,Chakwal,Other Vehicles,28
+2015,Punjab,Rawalpindi,Chakwal,Pickups/Delivery Vans,4310
+2015,Punjab,Rawalpindi,Chakwal,Taxis,99
+2015,Punjab,Rawalpindi,Chakwal,Tractors,7449
+2015,Punjab,Rawalpindi,Chakwal,Trucks,124
+2015,Punjab,Faisalabad,Chiniot,Auto Rickshaws,5429
+2015,Punjab,Faisalabad,Chiniot,Mini Buses/Buses/Flying/Luxury Coaches,0
+2015,Punjab,Faisalabad,Chiniot,Motor Cars/Jeeps/Station Wagons,161
+2015,Punjab,Faisalabad,Chiniot,Motor Cycles/Scooters,36756
+2015,Punjab,Faisalabad,Chiniot,Other Vehicles,217
+2015,Punjab,Faisalabad,Chiniot,Pickups/Delivery Vans,397
+2015,Punjab,Faisalabad,Chiniot,Taxis,0
+2015,Punjab,Faisalabad,Chiniot,Tractors,889
+2015,Punjab,Faisalabad,Chiniot,Trucks,43
+2015,Punjab,D.G.Khan,D.G.Khan,Auto Rickshaws,580
+2015,Punjab,D.G.Khan,D.G.Khan,Mini Buses/Buses/Flying/Luxury Coaches,202
+2015,Punjab,D.G.Khan,D.G.Khan,Motor Cars/Jeeps/Station Wagons,7198
+2015,Punjab,D.G.Khan,D.G.Khan,Motor Cycles/Scooters,376253
+2015,Punjab,D.G.Khan,D.G.Khan,Other Vehicles,187
+2015,Punjab,D.G.Khan,D.G.Khan,Pickups/Delivery Vans,867
+2015,Punjab,D.G.Khan,D.G.Khan,Taxis,1451
+2015,Punjab,D.G.Khan,D.G.Khan,Tractors,71412
+2015,Punjab,D.G.Khan,D.G.Khan,Trucks,250
+2015,Punjab,Faisalabad,Faisalabad,Auto Rickshaws,21292
+2015,Punjab,Faisalabad,Faisalabad,Mini Buses/Buses/Flying/Luxury Coaches,5653
+2015,Punjab,Faisalabad,Faisalabad,Motor Cars/Jeeps/Station Wagons,86797
+2015,Punjab,Faisalabad,Faisalabad,Motor Cycles/Scooters,946623
+2015,Punjab,Faisalabad,Faisalabad,Other Vehicles,101
+2015,Punjab,Faisalabad,Faisalabad,Pickups/Delivery Vans,11943
+2015,Punjab,Faisalabad,Faisalabad,Taxis,3245
+2015,Punjab,Faisalabad,Faisalabad,Tractors,30476
+2015,Punjab,Faisalabad,Faisalabad,Trucks,4593
+2015,Punjab,Gujranwala,Gujranwala,Auto Rickshaws,7096
+2015,Punjab,Gujranwala,Gujranwala,Mini Buses/Buses/Flying/Luxury Coaches,2041
+2015,Punjab,Gujranwala,Gujranwala,Motor Cars/Jeeps/Station Wagons,25001
+2015,Punjab,Gujranwala,Gujranwala,Motor Cycles/Scooters,608883
+2015,Punjab,Gujranwala,Gujranwala,Other Vehicles,608
+2015,Punjab,Gujranwala,Gujranwala,Pickups/Delivery Vans,9037
+2015,Punjab,Gujranwala,Gujranwala,Taxis,2691
+2015,Punjab,Gujranwala,Gujranwala,Tractors,31421
+2015,Punjab,Gujranwala,Gujranwala,Trucks,1420
+2015,Punjab,Gujranwala,Gujrat,Auto Rickshaws,4824
+2015,Punjab,Gujranwala,Gujrat,Mini Buses/Buses/Flying/Luxury Coaches,2134
+2015,Punjab,Gujranwala,Gujrat,Motor Cars/Jeeps/Station Wagons,9891
+2015,Punjab,Gujranwala,Gujrat,Motor Cycles/Scooters,315640
+2015,Punjab,Gujranwala,Gujrat,Other Vehicles,118
+2015,Punjab,Gujranwala,Gujrat,Pickups/Delivery Vans,2575
+2015,Punjab,Gujranwala,Gujrat,Taxis,422
+2015,Punjab,Gujranwala,Gujrat,Tractors,19580
+2015,Punjab,Gujranwala,Gujrat,Trucks,610
+2015,Punjab,Gujranwala,Hafizabad,Auto Rickshaws,27
+2015,Punjab,Gujranwala,Hafizabad,Mini Buses/Buses/Flying/Luxury Coaches,14
+2015,Punjab,Gujranwala,Hafizabad,Motor Cars/Jeeps/Station Wagons,353
+2015,Punjab,Gujranwala,Hafizabad,Motor Cycles/Scooters,63646
+2015,Punjab,Gujranwala,Hafizabad,Other Vehicles,19
+2015,Punjab,Gujranwala,Hafizabad,Pickups/Delivery Vans,264
+2015,Punjab,Gujranwala,Hafizabad,Taxis,0
+2015,Punjab,Gujranwala,Hafizabad,Tractors,5771
+2015,Punjab,Gujranwala,Hafizabad,Trucks,6
+2015,Punjab,Faisalabad,Jhang,Auto Rickshaws,11278
+2015,Punjab,Faisalabad,Jhang,Mini Buses/Buses/Flying/Luxury Coaches,1127
+2015,Punjab,Faisalabad,Jhang,Motor Cars/Jeeps/Station Wagons,3510
+2015,Punjab,Faisalabad,Jhang,Motor Cycles/Scooters,169255
+2015,Punjab,Faisalabad,Jhang,Other Vehicles,62
+2015,Punjab,Faisalabad,Jhang,Pickups/Delivery Vans,1069
+2015,Punjab,Faisalabad,Jhang,Taxis,130
+2015,Punjab,Faisalabad,Jhang,Tractors,25938
+2015,Punjab,Faisalabad,Jhang,Trucks,455
+2015,Punjab,Rawalpindi,Jhelum,Auto Rickshaws,12097
+2015,Punjab,Rawalpindi,Jhelum,Mini Buses/Buses/Flying/Luxury Coaches,632
+2015,Punjab,Rawalpindi,Jhelum,Motor Cars/Jeeps/Station Wagons,17738
+2015,Punjab,Rawalpindi,Jhelum,Motor Cycles/Scooters,167159
+2015,Punjab,Rawalpindi,Jhelum,Other Vehicles,135
+2015,Punjab,Rawalpindi,Jhelum,Pickups/Delivery Vans,8510
+2015,Punjab,Rawalpindi,Jhelum,Taxis,234
+2015,Punjab,Rawalpindi,Jhelum,Tractors,6523
+2015,Punjab,Rawalpindi,Jhelum,Trucks,958
+2015,Punjab,Lahore,Kasur,Auto Rickshaws,1825
+2015,Punjab,Lahore,Kasur,Mini Buses/Buses/Flying/Luxury Coaches,259
+2015,Punjab,Lahore,Kasur,Motor Cars/Jeeps/Station Wagons,792
+2015,Punjab,Lahore,Kasur,Motor Cycles/Scooters,19818
+2015,Punjab,Lahore,Kasur,Other Vehicles,62
+2015,Punjab,Lahore,Kasur,Pickups/Delivery Vans,633
+2015,Punjab,Lahore,Kasur,Taxis,170
+2015,Punjab,Lahore,Kasur,Tractors,31519
+2015,Punjab,Lahore,Kasur,Trucks,174
+2015,Punjab,Multan,Khanewal,Auto Rickshaws,334
+2015,Punjab,Multan,Khanewal,Mini Buses/Buses/Flying/Luxury Coaches,39
+2015,Punjab,Multan,Khanewal,Motor Cars/Jeeps/Station Wagons,2569
+2015,Punjab,Multan,Khanewal,Motor Cycles/Scooters,198979
+2015,Punjab,Multan,Khanewal,Other Vehicles,63
+2015,Punjab,Multan,Khanewal,Pickups/Delivery Vans,261
+2015,Punjab,Multan,Khanewal,Taxis,516
+2015,Punjab,Multan,Khanewal,Tractors,24651
+2015,Punjab,Multan,Khanewal,Trucks,69
+2015,Punjab,Sargodha,Khushab,Auto Rickshaws,9643
+2015,Punjab,Sargodha,Khushab,Mini Buses/Buses/Flying/Luxury Coaches,367
+2015,Punjab,Sargodha,Khushab,Motor Cars/Jeeps/Station Wagons,1470
+2015,Punjab,Sargodha,Khushab,Motor Cycles/Scooters,82186
+2015,Punjab,Sargodha,Khushab,Other Vehicles,44
+2015,Punjab,Sargodha,Khushab,Pickups/Delivery Vans,643
+2015,Punjab,Sargodha,Khushab,Taxis,23
+2015,Punjab,Sargodha,Khushab,Tractors,14037
+2015,Punjab,Sargodha,Khushab,Trucks,261
+2015,Punjab,Lahore,Lahore,Auto Rickshaws,149562
+2015,Punjab,Lahore,Lahore,Mini Buses/Buses/Flying/Luxury Coaches,50519
+2015,Punjab,Lahore,Lahore,Motor Cars/Jeeps/Station Wagons,1070243
+2015,Punjab,Lahore,Lahore,Motor Cycles/Scooters,2763872
+2015,Punjab,Lahore,Lahore,Other Vehicles,22097
+2015,Punjab,Lahore,Lahore,Pickups/Delivery Vans,93667
+2015,Punjab,Lahore,Lahore,Taxis,17404
+2015,Punjab,Lahore,Lahore,Tractors,47356
+2015,Punjab,Lahore,Lahore,Trucks,29042
+2015,Punjab,D.G.Khan,Layyah,Auto Rickshaws,2645
+2015,Punjab,D.G.Khan,Layyah,Mini Buses/Buses/Flying/Luxury Coaches,99
+2015,Punjab,D.G.Khan,Layyah,Motor Cars/Jeeps/Station Wagons,3788
+2015,Punjab,D.G.Khan,Layyah,Motor Cycles/Scooters,117400
+2015,Punjab,D.G.Khan,Layyah,Other Vehicles,138
+2015,Punjab,D.G.Khan,Layyah,Pickups/Delivery Vans,398
+2015,Punjab,D.G.Khan,Layyah,Taxis,121
+2015,Punjab,D.G.Khan,Layyah,Tractors,12918
+2015,Punjab,D.G.Khan,Layyah,Trucks,45
+2015,Punjab,Multan,Lodhran,Auto Rickshaws,682
+2015,Punjab,Multan,Lodhran,Mini Buses/Buses/Flying/Luxury Coaches,39
+2015,Punjab,Multan,Lodhran,Motor Cars/Jeeps/Station Wagons,2382
+2015,Punjab,Multan,Lodhran,Motor Cycles/Scooters,57327
+2015,Punjab,Multan,Lodhran,Other Vehicles,27
+2015,Punjab,Multan,Lodhran,Pickups/Delivery Vans,140
+2015,Punjab,Multan,Lodhran,Taxis,110
+2015,Punjab,Multan,Lodhran,Tractors,13753
+2015,Punjab,Multan,Lodhran,Trucks,42
+2015,Punjab,Gujranwala,M.B.Din,Auto Rickshaws,1335
+2015,Punjab,Gujranwala,M.B.Din,Mini Buses/Buses/Flying/Luxury Coaches,39
+2015,Punjab,Gujranwala,M.B.Din,Motor Cars/Jeeps/Station Wagons,767
+2015,Punjab,Gujranwala,M.B.Din,Motor Cycles/Scooters,115265
+2015,Punjab,Gujranwala,M.B.Din,Other Vehicles,29
+2015,Punjab,Gujranwala,M.B.Din,Pickups/Delivery Vans,253
+2015,Punjab,Gujranwala,M.B.Din,Taxis,10
+2015,Punjab,Gujranwala,M.B.Din,Tractors,7323
+2015,Punjab,Gujranwala,M.B.Din,Trucks,19
+2015,Punjab,Sargodha,Mianwali,Auto Rickshaws,4850
+2015,Punjab,Sargodha,Mianwali,Mini Buses/Buses/Flying/Luxury Coaches,163
+2015,Punjab,Sargodha,Mianwali,Motor Cars/Jeeps/Station Wagons,2696
+2015,Punjab,Sargodha,Mianwali,Motor Cycles/Scooters,134664
+2015,Punjab,Sargodha,Mianwali,Other Vehicles,121
+2015,Punjab,Sargodha,Mianwali,Pickups/Delivery Vans,2374
+2015,Punjab,Sargodha,Mianwali,Taxis,225
+2015,Punjab,Sargodha,Mianwali,Tractors,9647
+2015,Punjab,Sargodha,Mianwali,Trucks,1173
+2015,Punjab,Multan,Multan,Auto Rickshaws,10392
+2015,Punjab,Multan,Multan,Mini Buses/Buses/Flying/Luxury Coaches,6847
+2015,Punjab,Multan,Multan,Motor Cars/Jeeps/Station Wagons,150283
+2015,Punjab,Multan,Multan,Motor Cycles/Scooters,948852
+2015,Punjab,Multan,Multan,Other Vehicles,1857
+2015,Punjab,Multan,Multan,Pickups/Delivery Vans,14032
+2015,Punjab,Multan,Multan,Taxis,5580
+2015,Punjab,Multan,Multan,Tractors,48463
+2015,Punjab,Multan,Multan,Trucks,3388
+2015,Punjab,D.G.Khan,Muzaffargarh,Auto Rickshaws,766
+2015,Punjab,D.G.Khan,Muzaffargarh,Mini Buses/Buses/Flying/Luxury Coaches,297
+2015,Punjab,D.G.Khan,Muzaffargarh,Motor Cars/Jeeps/Station Wagons,4186
+2015,Punjab,D.G.Khan,Muzaffargarh,Motor Cycles/Scooters,115853
+2015,Punjab,D.G.Khan,Muzaffargarh,Other Vehicles,44
+2015,Punjab,D.G.Khan,Muzaffargarh,Pickups/Delivery Vans,352
+2015,Punjab,D.G.Khan,Muzaffargarh,Taxis,129
+2015,Punjab,D.G.Khan,Muzaffargarh,Tractors,20821
+2015,Punjab,D.G.Khan,Muzaffargarh,Trucks,459
+2015,Punjab,Lahore,Nankana Sahib,Auto Rickshaws,31
+2015,Punjab,Lahore,Nankana Sahib,Mini Buses/Buses/Flying/Luxury Coaches,8
+2015,Punjab,Lahore,Nankana Sahib,Motor Cars/Jeeps/Station Wagons,147
+2015,Punjab,Lahore,Nankana Sahib,Motor Cycles/Scooters,24211
+2015,Punjab,Lahore,Nankana Sahib,Other Vehicles,20
+2015,Punjab,Lahore,Nankana Sahib,Pickups/Delivery Vans,44
+2015,Punjab,Lahore,Nankana Sahib,Taxis,0
+2015,Punjab,Lahore,Nankana Sahib,Tractors,1696
+2015,Punjab,Lahore,Nankana Sahib,Trucks,18
+2015,Punjab,Gujranwala,Narowal,Auto Rickshaws,866
+2015,Punjab,Gujranwala,Narowal,Mini Buses/Buses/Flying/Luxury Coaches,34
+2015,Punjab,Gujranwala,Narowal,Motor Cars/Jeeps/Station Wagons,228
+2015,Punjab,Gujranwala,Narowal,Motor Cycles/Scooters,53025
+2015,Punjab,Gujranwala,Narowal,Other Vehicles,17
+2015,Punjab,Gujranwala,Narowal,Pickups/Delivery Vans,222
+2015,Punjab,Gujranwala,Narowal,Taxis,365
+2015,Punjab,Gujranwala,Narowal,Tractors,8847
+2015,Punjab,Gujranwala,Narowal,Trucks,4
+2015,Punjab,Sahiwal,Okara,Auto Rickshaws,1264
+2015,Punjab,Sahiwal,Okara,Mini Buses/Buses/Flying/Luxury Coaches,422
+2015,Punjab,Sahiwal,Okara,Motor Cars/Jeeps/Station Wagons,3315
+2015,Punjab,Sahiwal,Okara,Motor Cycles/Scooters,184691
+2015,Punjab,Sahiwal,Okara,Other Vehicles,55
+2015,Punjab,Sahiwal,Okara,Pickups/Delivery Vans,941
+2015,Punjab,Sahiwal,Okara,Taxis,0
+2015,Punjab,Sahiwal,Okara,Tractors,24331
+2015,Punjab,Sahiwal,Okara,Trucks,581
+2015,Punjab,Sahiwal,Pakpattan,Auto Rickshaws,42
+2015,Punjab,Sahiwal,Pakpattan,Mini Buses/Buses/Flying/Luxury Coaches,265
+2015,Punjab,Sahiwal,Pakpattan,Motor Cars/Jeeps/Station Wagons,1472
+2015,Punjab,Sahiwal,Pakpattan,Motor Cycles/Scooters,69422
+2015,Punjab,Sahiwal,Pakpattan,Other Vehicles,20
+2015,Punjab,Sahiwal,Pakpattan,Pickups/Delivery Vans,240
+2015,Punjab,Sahiwal,Pakpattan,Taxis,0
+2015,Punjab,Sahiwal,Pakpattan,Tractors,9236
+2015,Punjab,Sahiwal,Pakpattan,Trucks,27
+2015,Punjab,Bahawalpur,R.Y.Khan,Auto Rickshaws,247
+2015,Punjab,Bahawalpur,R.Y.Khan,Mini Buses/Buses/Flying/Luxury Coaches,1161
+2015,Punjab,Bahawalpur,R.Y.Khan,Motor Cars/Jeeps/Station Wagons,13013
+2015,Punjab,Bahawalpur,R.Y.Khan,Motor Cycles/Scooters,541594
+2015,Punjab,Bahawalpur,R.Y.Khan,Other Vehicles,33
+2015,Punjab,Bahawalpur,R.Y.Khan,Pickups/Delivery Vans,4295
+2015,Punjab,Bahawalpur,R.Y.Khan,Taxis,143
+2015,Punjab,Bahawalpur,R.Y.Khan,Tractors,42656
+2015,Punjab,Bahawalpur,R.Y.Khan,Trucks,497
+2015,Punjab,D.G.Khan,Rajanpur,Auto Rickshaws,0
+2015,Punjab,D.G.Khan,Rajanpur,Mini Buses/Buses/Flying/Luxury Coaches,53
+2015,Punjab,D.G.Khan,Rajanpur,Motor Cars/Jeeps/Station Wagons,786
+2015,Punjab,D.G.Khan,Rajanpur,Motor Cycles/Scooters,37077
+2015,Punjab,D.G.Khan,Rajanpur,Other Vehicles,20
+2015,Punjab,D.G.Khan,Rajanpur,Pickups/Delivery Vans,296
+2015,Punjab,D.G.Khan,Rajanpur,Taxis,190
+2015,Punjab,D.G.Khan,Rajanpur,Tractors,2901
+2015,Punjab,D.G.Khan,Rajanpur,Trucks,31
+2015,Punjab,Rawalpindi,Rawalpindi,Auto Rickshaws,20264
+2015,Punjab,Rawalpindi,Rawalpindi,Mini Buses/Buses/Flying/Luxury Coaches,20362
+2015,Punjab,Rawalpindi,Rawalpindi,Motor Cars/Jeeps/Station Wagons,127468
+2015,Punjab,Rawalpindi,Rawalpindi,Motor Cycles/Scooters,557330
+2015,Punjab,Rawalpindi,Rawalpindi,Other Vehicles,1219
+2015,Punjab,Rawalpindi,Rawalpindi,Pickups/Delivery Vans,38862
+2015,Punjab,Rawalpindi,Rawalpindi,Taxis,6825
+2015,Punjab,Rawalpindi,Rawalpindi,Tractors,4313
+2015,Punjab,Rawalpindi,Rawalpindi,Trucks,9739
+2015,Punjab,Sahiwal,Sahiwal,Auto Rickshaws,626
+2015,Punjab,Sahiwal,Sahiwal,Mini Buses/Buses/Flying/Luxury Coaches,1114
+2015,Punjab,Sahiwal,Sahiwal,Motor Cars/Jeeps/Station Wagons,11222
+2015,Punjab,Sahiwal,Sahiwal,Motor Cycles/Scooters,291990
+2015,Punjab,Sahiwal,Sahiwal,Other Vehicles,86
+2015,Punjab,Sahiwal,Sahiwal,Pickups/Delivery Vans,2350
+2015,Punjab,Sahiwal,Sahiwal,Taxis,2797
+2015,Punjab,Sahiwal,Sahiwal,Tractors,55065
+2015,Punjab,Sahiwal,Sahiwal,Trucks,1530
+2015,Punjab,Sargodha,Sargodha,Auto Rickshaws,21965
+2015,Punjab,Sargodha,Sargodha,Mini Buses/Buses/Flying/Luxury Coaches,2432
+2015,Punjab,Sargodha,Sargodha,Motor Cars/Jeeps/Station Wagons,12379
+2015,Punjab,Sargodha,Sargodha,Motor Cycles/Scooters,377499
+2015,Punjab,Sargodha,Sargodha,Other Vehicles,133
+2015,Punjab,Sargodha,Sargodha,Pickups/Delivery Vans,5727
+2015,Punjab,Sargodha,Sargodha,Taxis,1421
+2015,Punjab,Sargodha,Sargodha,Tractors,34610
+2015,Punjab,Sargodha,Sargodha,Trucks,1274
+2015,Punjab,Lahore,Sheikhupura,Auto Rickshaws,3256
+2015,Punjab,Lahore,Sheikhupura,Mini Buses/Buses/Flying/Luxury Coaches,1067
+2015,Punjab,Lahore,Sheikhupura,Motor Cars/Jeeps/Station Wagons,4630
+2015,Punjab,Lahore,Sheikhupura,Motor Cycles/Scooters,41061
+2015,Punjab,Lahore,Sheikhupura,Other Vehicles,66
+2015,Punjab,Lahore,Sheikhupura,Pickups/Delivery Vans,786
+2015,Punjab,Lahore,Sheikhupura,Taxis,310
+2015,Punjab,Lahore,Sheikhupura,Tractors,26531
+2015,Punjab,Lahore,Sheikhupura,Trucks,563
+2015,Punjab,Gujranwala,Sialkot,Auto Rickshaws,10180
+2015,Punjab,Gujranwala,Sialkot,Mini Buses/Buses/Flying/Luxury Coaches,1588
+2015,Punjab,Gujranwala,Sialkot,Motor Cars/Jeeps/Station Wagons,30621
+2015,Punjab,Gujranwala,Sialkot,Motor Cycles/Scooters,481974
+2015,Punjab,Gujranwala,Sialkot,Other Vehicles,145
+2015,Punjab,Gujranwala,Sialkot,Pickups/Delivery Vans,8561
+2015,Punjab,Gujranwala,Sialkot,Taxis,581
+2015,Punjab,Gujranwala,Sialkot,Tractors,26231
+2015,Punjab,Gujranwala,Sialkot,Trucks,727
+2015,Punjab,Faisalabad,T.T.Singh,Auto Rickshaws,2076
+2015,Punjab,Faisalabad,T.T.Singh,Mini Buses/Buses/Flying/Luxury Coaches,115
+2015,Punjab,Faisalabad,T.T.Singh,Motor Cars/Jeeps/Station Wagons,1851
+2015,Punjab,Faisalabad,T.T.Singh,Motor Cycles/Scooters,161418
+2015,Punjab,Faisalabad,T.T.Singh,Other Vehicles,47
+2015,Punjab,Faisalabad,T.T.Singh,Pickups/Delivery Vans,273
+2015,Punjab,Faisalabad,T.T.Singh,Taxis,108
+2015,Punjab,Faisalabad,T.T.Singh,Tractors,14768
+2015,Punjab,Faisalabad,T.T.Singh,Trucks,94
+2015,Punjab,Multan,Vehari,Auto Rickshaws,2
+2015,Punjab,Multan,Vehari,Mini Buses/Buses/Flying/Luxury Coaches,120
+2015,Punjab,Multan,Vehari,Motor Cars/Jeeps/Station Wagons,4810
+2015,Punjab,Multan,Vehari,Motor Cycles/Scooters,299564
+2015,Punjab,Multan,Vehari,Other Vehicles,145
+2015,Punjab,Multan,Vehari,Pickups/Delivery Vans,515
+2015,Punjab,Multan,Vehari,Taxis,1006
+2015,Punjab,Multan,Vehari,Tractors,40251
+2015,Punjab,Multan,Vehari,Trucks,101
+2016,Punjab,Rawalpindi,Attock,Auto Rickshaws,17571
+2016,Punjab,Rawalpindi,Attock,Mini Buses/Buses/Flying/Luxury Coaches,156
+2016,Punjab,Rawalpindi,Attock,Motor Cars/Jeeps/Station Wagons,6977
+2016,Punjab,Rawalpindi,Attock,Motor Cycles/Scooters,98486
+2016,Punjab,Rawalpindi,Attock,Other Vehicles,51
+2016,Punjab,Rawalpindi,Attock,Pickups/Delivery Vans,6125
+2016,Punjab,Rawalpindi,Attock,Taxis,100
+2016,Punjab,Rawalpindi,Attock,Tractors,10089
+2016,Punjab,Rawalpindi,Attock,Trucks,495
+2016,Punjab,Bahawalpur,Bahawalnagar,Auto Rickshaws,702
+2016,Punjab,Bahawalpur,Bahawalnagar,Mini Buses/Buses/Flying/Luxury Coaches,284
+2016,Punjab,Bahawalpur,Bahawalnagar,Motor Cars/Jeeps/Station Wagons,2954
+2016,Punjab,Bahawalpur,Bahawalnagar,Motor Cycles/Scooters,286256
+2016,Punjab,Bahawalpur,Bahawalnagar,Other Vehicles,141
+2016,Punjab,Bahawalpur,Bahawalnagar,Pickups/Delivery Vans,410
+2016,Punjab,Bahawalpur,Bahawalnagar,Taxis,186
+2016,Punjab,Bahawalpur,Bahawalnagar,Tractors,34632
+2016,Punjab,Bahawalpur,Bahawalnagar,Trucks,78
+2016,Punjab,Bahawalpur,Bahawalpur,Auto Rickshaws,7268
+2016,Punjab,Bahawalpur,Bahawalpur,Mini Buses/Buses/Flying/Luxury Coaches,1006
+2016,Punjab,Bahawalpur,Bahawalpur,Motor Cars/Jeeps/Station Wagons,26169
+2016,Punjab,Bahawalpur,Bahawalpur,Motor Cycles/Scooters,449986
+2016,Punjab,Bahawalpur,Bahawalpur,Other Vehicles,106
+2016,Punjab,Bahawalpur,Bahawalpur,Pickups/Delivery Vans,5246
+2016,Punjab,Bahawalpur,Bahawalpur,Taxis,3979
+2016,Punjab,Bahawalpur,Bahawalpur,Tractors,27764
+2016,Punjab,Bahawalpur,Bahawalpur,Trucks,519
+2016,Punjab,Sargodha,Bhakkar,Auto Rickshaws,10948
+2016,Punjab,Sargodha,Bhakkar,Mini Buses/Buses/Flying/Luxury Coaches,204
+2016,Punjab,Sargodha,Bhakkar,Motor Cars/Jeeps/Station Wagons,1602
+2016,Punjab,Sargodha,Bhakkar,Motor Cycles/Scooters,114028
+2016,Punjab,Sargodha,Bhakkar,Other Vehicles,32
+2016,Punjab,Sargodha,Bhakkar,Pickups/Delivery Vans,400
+2016,Punjab,Sargodha,Bhakkar,Taxis,68
+2016,Punjab,Sargodha,Bhakkar,Tractors,10382
+2016,Punjab,Sargodha,Bhakkar,Trucks,33
+2016,Punjab,Rawalpindi,Chakwal,Auto Rickshaws,12408
+2016,Punjab,Rawalpindi,Chakwal,Mini Buses/Buses/Flying/Luxury Coaches,164
+2016,Punjab,Rawalpindi,Chakwal,Motor Cars/Jeeps/Station Wagons,4923
+2016,Punjab,Rawalpindi,Chakwal,Motor Cycles/Scooters,104972
+2016,Punjab,Rawalpindi,Chakwal,Other Vehicles,31
+2016,Punjab,Rawalpindi,Chakwal,Pickups/Delivery Vans,3644
+2016,Punjab,Rawalpindi,Chakwal,Taxis,99
+2016,Punjab,Rawalpindi,Chakwal,Tractors,8271
+2016,Punjab,Rawalpindi,Chakwal,Trucks,168
+2016,Punjab,Faisalabad,Chiniot,Auto Rickshaws,7179
+2016,Punjab,Faisalabad,Chiniot,Mini Buses/Buses/Flying/Luxury Coaches,23
+2016,Punjab,Faisalabad,Chiniot,Motor Cars/Jeeps/Station Wagons,181
+2016,Punjab,Faisalabad,Chiniot,Motor Cycles/Scooters,50012
+2016,Punjab,Faisalabad,Chiniot,Other Vehicles,2
+2016,Punjab,Faisalabad,Chiniot,Pickups/Delivery Vans,528
+2016,Punjab,Faisalabad,Chiniot,Tractors,1008
+2016,Punjab,Faisalabad,Chiniot,Trucks,43
+2016,Punjab,D.G.Khan,D.G.Khan,Auto Rickshaws,626
+2016,Punjab,D.G.Khan,D.G.Khan,Mini Buses/Buses/Flying/Luxury Coaches,329
+2016,Punjab,D.G.Khan,D.G.Khan,Motor Cars/Jeeps/Station Wagons,8044
+2016,Punjab,D.G.Khan,D.G.Khan,Motor Cycles/Scooters,450194
+2016,Punjab,D.G.Khan,D.G.Khan,Other Vehicles,185
+2016,Punjab,D.G.Khan,D.G.Khan,Pickups/Delivery Vans,890
+2016,Punjab,D.G.Khan,D.G.Khan,Taxis,1452
+2016,Punjab,D.G.Khan,D.G.Khan,Tractors,73982
+2016,Punjab,D.G.Khan,D.G.Khan,Trucks,253
+2016,Punjab,Faisalabad,Faisalabad,Auto Rickshaws,24236
+2016,Punjab,Faisalabad,Faisalabad,Mini Buses/Buses/Flying/Luxury Coaches,5736
+2016,Punjab,Faisalabad,Faisalabad,Motor Cars/Jeeps/Station Wagons,89477
+2016,Punjab,Faisalabad,Faisalabad,Motor Cycles/Scooters,1112180
+2016,Punjab,Faisalabad,Faisalabad,Other Vehicles,104
+2016,Punjab,Faisalabad,Faisalabad,Pickups/Delivery Vans,11902
+2016,Punjab,Faisalabad,Faisalabad,Taxis,4659
+2016,Punjab,Faisalabad,Faisalabad,Tractors,31108
+2016,Punjab,Faisalabad,Faisalabad,Trucks,4593
+2016,Punjab,Gujranwala,Gujranwala,Auto Rickshaws,5037
+2016,Punjab,Gujranwala,Gujranwala,Mini Buses/Buses/Flying/Luxury Coaches,2097
+2016,Punjab,Gujranwala,Gujranwala,Motor Cars/Jeeps/Station Wagons,26260
+2016,Punjab,Gujranwala,Gujranwala,Motor Cycles/Scooters,712390
+2016,Punjab,Gujranwala,Gujranwala,Other Vehicles,353
+2016,Punjab,Gujranwala,Gujranwala,Pickups/Delivery Vans,7665
+2016,Punjab,Gujranwala,Gujranwala,Taxis,2103
+2016,Punjab,Gujranwala,Gujranwala,Tractors,32170
+2016,Punjab,Gujranwala,Gujranwala,Trucks,1446
+2016,Punjab,Gujranwala,Gujrat,Auto Rickshaws,3659
+2016,Punjab,Gujranwala,Gujrat,Mini Buses/Buses/Flying/Luxury Coaches,2168
+2016,Punjab,Gujranwala,Gujrat,Motor Cars/Jeeps/Station Wagons,10944
+2016,Punjab,Gujranwala,Gujrat,Motor Cycles/Scooters,372795
+2016,Punjab,Gujranwala,Gujrat,Other Vehicles,91
+2016,Punjab,Gujranwala,Gujrat,Pickups/Delivery Vans,2869
+2016,Punjab,Gujranwala,Gujrat,Taxis,422
+2016,Punjab,Gujranwala,Gujrat,Tractors,20237
+2016,Punjab,Gujranwala,Gujrat,Trucks,620
+2016,Punjab,Gujranwala,Hafizabad,Auto Rickshaws,18
+2016,Punjab,Gujranwala,Hafizabad,Mini Buses/Buses/Flying/Luxury Coaches,17
+2016,Punjab,Gujranwala,Hafizabad,Motor Cars/Jeeps/Station Wagons,376
+2016,Punjab,Gujranwala,Hafizabad,Motor Cycles/Scooters,77969
+2016,Punjab,Gujranwala,Hafizabad,Other Vehicles,31
+2016,Punjab,Gujranwala,Hafizabad,Pickups/Delivery Vans,273
+2016,Punjab,Gujranwala,Hafizabad,Taxis,0
+2016,Punjab,Gujranwala,Hafizabad,Tractors,6103
+2016,Punjab,Gujranwala,Hafizabad,Trucks,6
+2016,Punjab,Faisalabad,Jhang,Auto Rickshaws,14399
+2016,Punjab,Faisalabad,Jhang,Mini Buses/Buses/Flying/Luxury Coaches,1332
+2016,Punjab,Faisalabad,Jhang,Motor Cars/Jeeps/Station Wagons,3573
+2016,Punjab,Faisalabad,Jhang,Motor Cycles/Scooters,198071
+2016,Punjab,Faisalabad,Jhang,Other Vehicles,255
+2016,Punjab,Faisalabad,Jhang,Pickups/Delivery Vans,610
+2016,Punjab,Faisalabad,Jhang,Taxis,131
+2016,Punjab,Faisalabad,Jhang,Tractors,26926
+2016,Punjab,Faisalabad,Jhang,Trucks,376
+2016,Punjab,Rawalpindi,Jhelum,Auto Rickshaws,15540
+2016,Punjab,Rawalpindi,Jhelum,Mini Buses/Buses/Flying/Luxury Coaches,705
+2016,Punjab,Rawalpindi,Jhelum,Motor Cars/Jeeps/Station Wagons,18710
+2016,Punjab,Rawalpindi,Jhelum,Motor Cycles/Scooters,197869
+2016,Punjab,Rawalpindi,Jhelum,Other Vehicles,140
+2016,Punjab,Rawalpindi,Jhelum,Pickups/Delivery Vans,8211
+2016,Punjab,Rawalpindi,Jhelum,Taxis,234
+2016,Punjab,Rawalpindi,Jhelum,Tractors,6972
+2016,Punjab,Rawalpindi,Jhelum,Trucks,960
+2016,Punjab,Lahore,Kasur,Auto Rickshaws,1942
+2016,Punjab,Lahore,Kasur,Mini Buses/Buses/Flying/Luxury Coaches,177
+2016,Punjab,Lahore,Kasur,Motor Cars/Jeeps/Station Wagons,920
+2016,Punjab,Lahore,Kasur,Motor Cycles/Scooters,23515
+2016,Punjab,Lahore,Kasur,Other Vehicles,52
+2016,Punjab,Lahore,Kasur,Pickups/Delivery Vans,744
+2016,Punjab,Lahore,Kasur,Taxis,171
+2016,Punjab,Lahore,Kasur,Tractors,32160
+2016,Punjab,Lahore,Kasur,Trucks,174
+2016,Punjab,Multan,Khanewal,Auto Rickshaws,675
+2016,Punjab,Multan,Khanewal,Mini Buses/Buses/Flying/Luxury Coaches,82
+2016,Punjab,Multan,Khanewal,Motor Cars/Jeeps/Station Wagons,2889
+2016,Punjab,Multan,Khanewal,Motor Cycles/Scooters,232800
+2016,Punjab,Multan,Khanewal,Other Vehicles,37
+2016,Punjab,Multan,Khanewal,Pickups/Delivery Vans,281
+2016,Punjab,Multan,Khanewal,Taxis,516
+2016,Punjab,Multan,Khanewal,Tractors,25309
+2016,Punjab,Multan,Khanewal,Trucks,110
+2016,Punjab,Sargodha,Khushab,Auto Rickshaws,8934
+2016,Punjab,Sargodha,Khushab,Mini Buses/Buses/Flying/Luxury Coaches,369
+2016,Punjab,Sargodha,Khushab,Motor Cars/Jeeps/Station Wagons,1872
+2016,Punjab,Sargodha,Khushab,Motor Cycles/Scooters,98699
+2016,Punjab,Sargodha,Khushab,Other Vehicles,45
+2016,Punjab,Sargodha,Khushab,Pickups/Delivery Vans,710
+2016,Punjab,Sargodha,Khushab,Taxis,23
+2016,Punjab,Sargodha,Khushab,Tractors,14466
+2016,Punjab,Sargodha,Khushab,Trucks,262
+2016,Punjab,Lahore,Lahore,Auto Rickshaws,171818
+2016,Punjab,Lahore,Lahore,Mini Buses/Buses/Flying/Luxury Coaches,48350
+2016,Punjab,Lahore,Lahore,Motor Cars/Jeeps/Station Wagons,1251556
+2016,Punjab,Lahore,Lahore,Motor Cycles/Scooters,3228438
+2016,Punjab,Lahore,Lahore,Other Vehicles,21269
+2016,Punjab,Lahore,Lahore,Pickups/Delivery Vans,100581
+2016,Punjab,Lahore,Lahore,Taxis,17404
+2016,Punjab,Lahore,Lahore,Tractors,50434
+2016,Punjab,Lahore,Lahore,Trucks,30739
+2016,Punjab,D.G.Khan,Layyah,Auto Rickshaws,4585
+2016,Punjab,D.G.Khan,Layyah,Mini Buses/Buses/Flying/Luxury Coaches,202
+2016,Punjab,D.G.Khan,Layyah,Motor Cars/Jeeps/Station Wagons,3998
+2016,Punjab,D.G.Khan,Layyah,Motor Cycles/Scooters,146314
+2016,Punjab,D.G.Khan,Layyah,Other Vehicles,140
+2016,Punjab,D.G.Khan,Layyah,Pickups/Delivery Vans,477
+2016,Punjab,D.G.Khan,Layyah,Taxis,121
+2016,Punjab,D.G.Khan,Layyah,Tractors,14217
+2016,Punjab,D.G.Khan,Layyah,Trucks,47
+2016,Punjab,Multan,Lodhran,Auto Rickshaws,886
+2016,Punjab,Multan,Lodhran,Mini Buses/Buses/Flying/Luxury Coaches,31
+2016,Punjab,Multan,Lodhran,Motor Cars/Jeeps/Station Wagons,2467
+2016,Punjab,Multan,Lodhran,Motor Cycles/Scooters,64404
+2016,Punjab,Multan,Lodhran,Other Vehicles,28
+2016,Punjab,Multan,Lodhran,Pickups/Delivery Vans,141
+2016,Punjab,Multan,Lodhran,Taxis,110
+2016,Punjab,Multan,Lodhran,Tractors,14302
+2016,Punjab,Multan,Lodhran,Trucks,44
+2016,Punjab,Gujranwala,M.B.Din,Auto Rickshaws,1443
+2016,Punjab,Gujranwala,M.B.Din,Mini Buses/Buses/Flying/Luxury Coaches,31
+2016,Punjab,Gujranwala,M.B.Din,Motor Cars/Jeeps/Station Wagons,819
+2016,Punjab,Gujranwala,M.B.Din,Motor Cycles/Scooters,136258
+2016,Punjab,Gujranwala,M.B.Din,Other Vehicles,29
+2016,Punjab,Gujranwala,M.B.Din,Pickups/Delivery Vans,310
+2016,Punjab,Gujranwala,M.B.Din,Taxis,10
+2016,Punjab,Gujranwala,M.B.Din,Tractors,7755
+2016,Punjab,Gujranwala,M.B.Din,Trucks,15
+2016,Punjab,Sargodha,Mianwali,Auto Rickshaws,4080
+2016,Punjab,Sargodha,Mianwali,Mini Buses/Buses/Flying/Luxury Coaches,241
+2016,Punjab,Sargodha,Mianwali,Motor Cars/Jeeps/Station Wagons,3088
+2016,Punjab,Sargodha,Mianwali,Motor Cycles/Scooters,159723
+2016,Punjab,Sargodha,Mianwali,Other Vehicles,120
+2016,Punjab,Sargodha,Mianwali,Pickups/Delivery Vans,2393
+2016,Punjab,Sargodha,Mianwali,Taxis,225
+2016,Punjab,Sargodha,Mianwali,Tractors,10351
+2016,Punjab,Sargodha,Mianwali,Trucks,1174
+2016,Punjab,Multan,Multan,Auto Rickshaws,12170
+2016,Punjab,Multan,Multan,Mini Buses/Buses/Flying/Luxury Coaches,7487
+2016,Punjab,Multan,Multan,Motor Cars/Jeeps/Station Wagons,161583
+2016,Punjab,Multan,Multan,Motor Cycles/Scooters,1108781
+2016,Punjab,Multan,Multan,Other Vehicles,1292
+2016,Punjab,Multan,Multan,Pickups/Delivery Vans,16856
+2016,Punjab,Multan,Multan,Taxis,5856
+2016,Punjab,Multan,Multan,Tractors,49556
+2016,Punjab,Multan,Multan,Trucks,3460
+2016,Punjab,D.G.Khan,Muzaffargarh,Auto Rickshaws,1044
+2016,Punjab,D.G.Khan,Muzaffargarh,Mini Buses/Buses/Flying/Luxury Coaches,267
+2016,Punjab,D.G.Khan,Muzaffargarh,Motor Cars/Jeeps/Station Wagons,4425
+2016,Punjab,D.G.Khan,Muzaffargarh,Motor Cycles/Scooters,137400
+2016,Punjab,D.G.Khan,Muzaffargarh,Other Vehicles,44
+2016,Punjab,D.G.Khan,Muzaffargarh,Pickups/Delivery Vans,395
+2016,Punjab,D.G.Khan,Muzaffargarh,Taxis,129
+2016,Punjab,D.G.Khan,Muzaffargarh,Tractors,21993
+2016,Punjab,D.G.Khan,Muzaffargarh,Trucks,467
+2016,Punjab,Lahore,Nankana Sahib,Auto Rickshaws,40
+2016,Punjab,Lahore,Nankana Sahib,Mini Buses/Buses/Flying/Luxury Coaches,17
+2016,Punjab,Lahore,Nankana Sahib,Motor Cars/Jeeps/Station Wagons,165
+2016,Punjab,Lahore,Nankana Sahib,Motor Cycles/Scooters,27095
+2016,Punjab,Lahore,Nankana Sahib,Other Vehicles,18
+2016,Punjab,Lahore,Nankana Sahib,Pickups/Delivery Vans,55
+2016,Punjab,Lahore,Nankana Sahib,Taxis,0
+2016,Punjab,Lahore,Nankana Sahib,Tractors,1779
+2016,Punjab,Lahore,Nankana Sahib,Trucks,22
+2016,Punjab,Gujranwala,Narowal,Auto Rickshaws,7541
+2016,Punjab,Gujranwala,Narowal,Mini Buses/Buses/Flying/Luxury Coaches,35
+2016,Punjab,Gujranwala,Narowal,Motor Cars/Jeeps/Station Wagons,243
+2016,Punjab,Gujranwala,Narowal,Motor Cycles/Scooters,59516
+2016,Punjab,Gujranwala,Narowal,Other Vehicles,17
+2016,Punjab,Gujranwala,Narowal,Pickups/Delivery Vans,231
+2016,Punjab,Gujranwala,Narowal,Taxis,365
+2016,Punjab,Gujranwala,Narowal,Tractors,9329
+2016,Punjab,Gujranwala,Narowal,Trucks,4
+2016,Punjab,Sahiwal,Okara,Auto Rickshaws,2054
+2016,Punjab,Sahiwal,Okara,Mini Buses/Buses/Flying/Luxury Coaches,415
+2016,Punjab,Sahiwal,Okara,Motor Cars/Jeeps/Station Wagons,3474
+2016,Punjab,Sahiwal,Okara,Motor Cycles/Scooters,227667
+2016,Punjab,Sahiwal,Okara,Other Vehicles,60
+2016,Punjab,Sahiwal,Okara,Pickups/Delivery Vans,373
+2016,Punjab,Sahiwal,Okara,Taxis,0
+2016,Punjab,Sahiwal,Okara,Tractors,25484
+2016,Punjab,Sahiwal,Okara,Trucks,554
+2016,Punjab,Sahiwal,Pakpattan,Auto Rickshaws,68
+2016,Punjab,Sahiwal,Pakpattan,Mini Buses/Buses/Flying/Luxury Coaches,256
+2016,Punjab,Sahiwal,Pakpattan,Motor Cars/Jeeps/Station Wagons,1754
+2016,Punjab,Sahiwal,Pakpattan,Motor Cycles/Scooters,81268
+2016,Punjab,Sahiwal,Pakpattan,Other Vehicles,21
+2016,Punjab,Sahiwal,Pakpattan,Pickups/Delivery Vans,253
+2016,Punjab,Sahiwal,Pakpattan,Taxis,0
+2016,Punjab,Sahiwal,Pakpattan,Tractors,9943
+2016,Punjab,Sahiwal,Pakpattan,Trucks,27
+2016,Punjab,Bahawalpur,R.Y.Khan,Auto Rickshaws,285
+2016,Punjab,Bahawalpur,R.Y.Khan,Mini Buses/Buses/Flying/Luxury Coaches,1198
+2016,Punjab,Bahawalpur,R.Y.Khan,Motor Cars/Jeeps/Station Wagons,16793
+2016,Punjab,Bahawalpur,R.Y.Khan,Motor Cycles/Scooters,647897
+2016,Punjab,Bahawalpur,R.Y.Khan,Other Vehicles,28
+2016,Punjab,Bahawalpur,R.Y.Khan,Pickups/Delivery Vans,4389
+2016,Punjab,Bahawalpur,R.Y.Khan,Taxis,143
+2016,Punjab,Bahawalpur,R.Y.Khan,Tractors,45043
+2016,Punjab,Bahawalpur,R.Y.Khan,Trucks,501
+2016,Punjab,D.G.Khan,Rajanpur,Auto Rickshaws,2
+2016,Punjab,D.G.Khan,Rajanpur,Mini Buses/Buses/Flying/Luxury Coaches,53
+2016,Punjab,D.G.Khan,Rajanpur,Motor Cars/Jeeps/Station Wagons,964
+2016,Punjab,D.G.Khan,Rajanpur,Motor Cycles/Scooters,39812
+2016,Punjab,D.G.Khan,Rajanpur,Other Vehicles,21
+2016,Punjab,D.G.Khan,Rajanpur,Pickups/Delivery Vans,302
+2016,Punjab,D.G.Khan,Rajanpur,Taxis,190
+2016,Punjab,D.G.Khan,Rajanpur,Tractors,3266
+2016,Punjab,D.G.Khan,Rajanpur,Trucks,31
+2016,Punjab,Rawalpindi,Rawalpindi,Auto Rickshaws,26527
+2016,Punjab,Rawalpindi,Rawalpindi,Mini Buses/Buses/Flying/Luxury Coaches,15223
+2016,Punjab,Rawalpindi,Rawalpindi,Motor Cars/Jeeps/Station Wagons,140793
+2016,Punjab,Rawalpindi,Rawalpindi,Motor Cycles/Scooters,691810
+2016,Punjab,Rawalpindi,Rawalpindi,Other Vehicles,1310
+2016,Punjab,Rawalpindi,Rawalpindi,Pickups/Delivery Vans,44074
+2016,Punjab,Rawalpindi,Rawalpindi,Taxis,7596
+2016,Punjab,Rawalpindi,Rawalpindi,Tractors,4602
+2016,Punjab,Rawalpindi,Rawalpindi,Trucks,9879
+2016,Punjab,Sahiwal,Sahiwal,Auto Rickshaws,793
+2016,Punjab,Sahiwal,Sahiwal,Mini Buses/Buses/Flying/Luxury Coaches,1022
+2016,Punjab,Sahiwal,Sahiwal,Motor Cars/Jeeps/Station Wagons,11913
+2016,Punjab,Sahiwal,Sahiwal,Motor Cycles/Scooters,337193
+2016,Punjab,Sahiwal,Sahiwal,Other Vehicles,88
+2016,Punjab,Sahiwal,Sahiwal,Pickups/Delivery Vans,2525
+2016,Punjab,Sahiwal,Sahiwal,Taxis,2934
+2016,Punjab,Sahiwal,Sahiwal,Tractors,55858
+2016,Punjab,Sahiwal,Sahiwal,Trucks,1535
+2016,Punjab,Sargodha,Sargodha,Auto Rickshaws,18339
+2016,Punjab,Sargodha,Sargodha,Mini Buses/Buses/Flying/Luxury Coaches,2361
+2016,Punjab,Sargodha,Sargodha,Motor Cars/Jeeps/Station Wagons,13762
+2016,Punjab,Sargodha,Sargodha,Motor Cycles/Scooters,436407
+2016,Punjab,Sargodha,Sargodha,Other Vehicles,123
+2016,Punjab,Sargodha,Sargodha,Pickups/Delivery Vans,4934
+2016,Punjab,Sargodha,Sargodha,Taxis,1712
+2016,Punjab,Sargodha,Sargodha,Tractors,33437
+2016,Punjab,Sargodha,Sargodha,Trucks,1287
+2016,Punjab,Lahore,Sheikhupura,Auto Rickshaws,3495
+2016,Punjab,Lahore,Sheikhupura,Mini Buses/Buses/Flying/Luxury Coaches,949
+2016,Punjab,Lahore,Sheikhupura,Motor Cars/Jeeps/Station Wagons,4744
+2016,Punjab,Lahore,Sheikhupura,Motor Cycles/Scooters,44406
+2016,Punjab,Lahore,Sheikhupura,Other Vehicles,64
+2016,Punjab,Lahore,Sheikhupura,Pickups/Delivery Vans,625
+2016,Punjab,Lahore,Sheikhupura,Taxis,310
+2016,Punjab,Lahore,Sheikhupura,Tractors,27060
+2016,Punjab,Lahore,Sheikhupura,Trucks,763
+2016,Punjab,Gujranwala,Sialkot,Auto Rickshaws,10711
+2016,Punjab,Gujranwala,Sialkot,Mini Buses/Buses/Flying/Luxury Coaches,1278
+2016,Punjab,Gujranwala,Sialkot,Motor Cars/Jeeps/Station Wagons,32120
+2016,Punjab,Gujranwala,Sialkot,Motor Cycles/Scooters,565904
+2016,Punjab,Gujranwala,Sialkot,Other Vehicles,110
+2016,Punjab,Gujranwala,Sialkot,Pickups/Delivery Vans,8176
+2016,Punjab,Gujranwala,Sialkot,Taxis,581
+2016,Punjab,Gujranwala,Sialkot,Tractors,27011
+2016,Punjab,Gujranwala,Sialkot,Trucks,520
+2016,Punjab,Faisalabad,T.T.Singh,Auto Rickshaws,2066
+2016,Punjab,Faisalabad,T.T.Singh,Mini Buses/Buses/Flying/Luxury Coaches,108
+2016,Punjab,Faisalabad,T.T.Singh,Motor Cars/Jeeps/Station Wagons,1884
+2016,Punjab,Faisalabad,T.T.Singh,Motor Cycles/Scooters,190926
+2016,Punjab,Faisalabad,T.T.Singh,Other Vehicles,43
+2016,Punjab,Faisalabad,T.T.Singh,Pickups/Delivery Vans,219
+2016,Punjab,Faisalabad,T.T.Singh,Taxis,108
+2016,Punjab,Faisalabad,T.T.Singh,Tractors,15384
+2016,Punjab,Faisalabad,T.T.Singh,Trucks,88
+2016,Punjab,Multan,Vehari,Auto Rickshaws,195
+2016,Punjab,Multan,Vehari,Mini Buses/Buses/Flying/Luxury Coaches,256
+2016,Punjab,Multan,Vehari,Motor Cars/Jeeps/Station Wagons,4947
+2016,Punjab,Multan,Vehari,Motor Cycles/Scooters,232800
+2016,Punjab,Multan,Vehari,Other Vehicles,140
+2016,Punjab,Multan,Vehari,Pickups/Delivery Vans,529
+2016,Punjab,Multan,Vehari,Taxis,1006
+2016,Punjab,Multan,Vehari,Tractors,41235
+2016,Punjab,Multan,Vehari,Trucks,101
+2017,Punjab,Rawalpindi,Attock,Auto Rickshaws,20383
+2017,Punjab,Rawalpindi,Attock,Mini Buses/Buses/Flying/Luxury Coaches,1532
+2017,Punjab,Rawalpindi,Attock,Motor Cars/Jeeps/Station Wagons,27887
+2017,Punjab,Rawalpindi,Attock,Motor Cycles/Scooters,109047
+2017,Punjab,Rawalpindi,Attock,Other Vehicles,70
+2017,Punjab,Rawalpindi,Attock,Pickups/Delivery Vans,7028
+2017,Punjab,Rawalpindi,Attock,Taxis,1002
+2017,Punjab,Rawalpindi,Attock,Tractors,10339
+2017,Punjab,Rawalpindi,Attock,Trucks,1139
+2017,Punjab,Bahawalpur,Bahawalnagar,Auto Rickshaws,444
+2017,Punjab,Bahawalpur,Bahawalnagar,Mini Buses/Buses/Flying/Luxury Coaches,630
+2017,Punjab,Bahawalpur,Bahawalnagar,Motor Cars/Jeeps/Station Wagons,8360
+2017,Punjab,Bahawalpur,Bahawalnagar,Motor Cycles/Scooters,277477
+2017,Punjab,Bahawalpur,Bahawalnagar,Other Vehicles,82
+2017,Punjab,Bahawalpur,Bahawalnagar,Pickups/Delivery Vans,2983
+2017,Punjab,Bahawalpur,Bahawalnagar,Taxis,1258
+2017,Punjab,Bahawalpur,Bahawalnagar,Tractors,29812
+2017,Punjab,Bahawalpur,Bahawalnagar,Trucks,799
+2017,Punjab,Bahawalpur,Bahawalpur,Auto Rickshaws,7625
+2017,Punjab,Bahawalpur,Bahawalpur,Mini Buses/Buses/Flying/Luxury Coaches,1750
+2017,Punjab,Bahawalpur,Bahawalpur,Motor Cars/Jeeps/Station Wagons,32227
+2017,Punjab,Bahawalpur,Bahawalpur,Motor Cycles/Scooters,461101
+2017,Punjab,Bahawalpur,Bahawalpur,Other Vehicles,71
+2017,Punjab,Bahawalpur,Bahawalpur,Pickups/Delivery Vans,4877
+2017,Punjab,Bahawalpur,Bahawalpur,Taxis,2494
+2017,Punjab,Bahawalpur,Bahawalpur,Tractors,22961
+2017,Punjab,Bahawalpur,Bahawalpur,Trucks,1561
+2017,Punjab,Sargodha,Bhakkar,Auto Rickshaws,22110
+2017,Punjab,Sargodha,Bhakkar,Mini Buses/Buses/Flying/Luxury Coaches,654
+2017,Punjab,Sargodha,Bhakkar,Motor Cars/Jeeps/Station Wagons,4334
+2017,Punjab,Sargodha,Bhakkar,Motor Cycles/Scooters,117395
+2017,Punjab,Sargodha,Bhakkar,Other Vehicles,22
+2017,Punjab,Sargodha,Bhakkar,Pickups/Delivery Vans,2175
+2017,Punjab,Sargodha,Bhakkar,Taxis,455
+2017,Punjab,Sargodha,Bhakkar,Tractors,8380
+2017,Punjab,Sargodha,Bhakkar,Trucks,219
+2017,Punjab,Rawalpindi,Chakwal,Auto Rickshaws,13476
+2017,Punjab,Rawalpindi,Chakwal,Mini Buses/Buses/Flying/Luxury Coaches,1157
+2017,Punjab,Rawalpindi,Chakwal,Motor Cars/Jeeps/Station Wagons,9798
+2017,Punjab,Rawalpindi,Chakwal,Motor Cycles/Scooters,122434
+2017,Punjab,Rawalpindi,Chakwal,Other Vehicles,31
+2017,Punjab,Rawalpindi,Chakwal,Pickups/Delivery Vans,4227
+2017,Punjab,Rawalpindi,Chakwal,Taxis,558
+2017,Punjab,Rawalpindi,Chakwal,Tractors,7699
+2017,Punjab,Rawalpindi,Chakwal,Trucks,759
+2017,Punjab,Faisalabad,Chiniot,Auto Rickshaws,10153
+2017,Punjab,Faisalabad,Chiniot,Mini Buses/Buses/Flying/Luxury Coaches,164
+2017,Punjab,Faisalabad,Chiniot,Motor Cars/Jeeps/Station Wagons,2854
+2017,Punjab,Faisalabad,Chiniot,Motor Cycles/Scooters,61265
+2017,Punjab,Faisalabad,Chiniot,Other Vehicles,11
+2017,Punjab,Faisalabad,Chiniot,Pickups/Delivery Vans,1684
+2017,Punjab,Faisalabad,Chiniot,Taxis,214
+2017,Punjab,Faisalabad,Chiniot,Tractors,1949
+2017,Punjab,Faisalabad,Chiniot,Trucks,1176
+2017,Punjab,D.G.Khan,D.G.Khan,Auto Rickshaws,638
+2017,Punjab,D.G.Khan,D.G.Khan,Mini Buses/Buses/Flying/Luxury Coaches,1145
+2017,Punjab,D.G.Khan,D.G.Khan,Motor Cars/Jeeps/Station Wagons,13640
+2017,Punjab,D.G.Khan,D.G.Khan,Motor Cycles/Scooters,456252
+2017,Punjab,D.G.Khan,D.G.Khan,Other Vehicles,122
+2017,Punjab,D.G.Khan,D.G.Khan,Pickups/Delivery Vans,3070
+2017,Punjab,D.G.Khan,D.G.Khan,Taxis,1554
+2017,Punjab,D.G.Khan,D.G.Khan,Tractors,57071
+2017,Punjab,D.G.Khan,D.G.Khan,Trucks,1089
+2017,Punjab,Faisalabad,Faisalabad,Auto Rickshaws,22152
+2017,Punjab,Faisalabad,Faisalabad,Mini Buses/Buses/Flying/Luxury Coaches,8030
+2017,Punjab,Faisalabad,Faisalabad,Motor Cars/Jeeps/Station Wagons,92132
+2017,Punjab,Faisalabad,Faisalabad,Motor Cycles/Scooters,1120119
+2017,Punjab,Faisalabad,Faisalabad,Other Vehicles,181
+2017,Punjab,Faisalabad,Faisalabad,Pickups/Delivery Vans,15511
+2017,Punjab,Faisalabad,Faisalabad,Taxis,3286
+2017,Punjab,Faisalabad,Faisalabad,Tractors,25428
+2017,Punjab,Faisalabad,Faisalabad,Trucks,8766
+2017,Punjab,Gujranwala,Gujranwala,Auto Rickshaws,15715
+2017,Punjab,Gujranwala,Gujranwala,Mini Buses/Buses/Flying/Luxury Coaches,4195
+2017,Punjab,Gujranwala,Gujranwala,Motor Cars/Jeeps/Station Wagons,36337
+2017,Punjab,Gujranwala,Gujranwala,Motor Cycles/Scooters,658623
+2017,Punjab,Gujranwala,Gujranwala,Other Vehicles,690
+2017,Punjab,Gujranwala,Gujranwala,Pickups/Delivery Vans,8745
+2017,Punjab,Gujranwala,Gujranwala,Taxis,2338
+2017,Punjab,Gujranwala,Gujranwala,Tractors,27794
+2017,Punjab,Gujranwala,Gujranwala,Trucks,1876
+2017,Punjab,Gujranwala,Gujrat,Auto Rickshaws,11569
+2017,Punjab,Gujranwala,Gujrat,Mini Buses/Buses/Flying/Luxury Coaches,4159
+2017,Punjab,Gujranwala,Gujrat,Motor Cars/Jeeps/Station Wagons,22706
+2017,Punjab,Gujranwala,Gujrat,Motor Cycles/Scooters,349388
+2017,Punjab,Gujranwala,Gujrat,Other Vehicles,77
+2017,Punjab,Gujranwala,Gujrat,Pickups/Delivery Vans,5281
+2017,Punjab,Gujranwala,Gujrat,Taxis,745
+2017,Punjab,Gujranwala,Gujrat,Tractors,16597
+2017,Punjab,Gujranwala,Gujrat,Trucks,988
+2017,Punjab,Gujranwala,Hafizabad,Auto Rickshaws,186
+2017,Punjab,Gujranwala,Hafizabad,Mini Buses/Buses/Flying/Luxury Coaches,262
+2017,Punjab,Gujranwala,Hafizabad,Motor Cars/Jeeps/Station Wagons,2925
+2017,Punjab,Gujranwala,Hafizabad,Motor Cycles/Scooters,80429
+2017,Punjab,Gujranwala,Hafizabad,Other Vehicles,20
+2017,Punjab,Gujranwala,Hafizabad,Pickups/Delivery Vans,721
+2017,Punjab,Gujranwala,Hafizabad,Taxis,346
+2017,Punjab,Gujranwala,Hafizabad,Tractors,5303
+2017,Punjab,Gujranwala,Hafizabad,Trucks,165
+2017,Punjab,Faisalabad,Jhang,Auto Rickshaws,15052
+2017,Punjab,Faisalabad,Jhang,Mini Buses/Buses/Flying/Luxury Coaches,2099
+2017,Punjab,Faisalabad,Jhang,Motor Cars/Jeeps/Station Wagons,6249
+2017,Punjab,Faisalabad,Jhang,Motor Cycles/Scooters,176862
+2017,Punjab,Faisalabad,Jhang,Other Vehicles,139
+2017,Punjab,Faisalabad,Jhang,Pickups/Delivery Vans,1805
+2017,Punjab,Faisalabad,Jhang,Taxis,755
+2017,Punjab,Faisalabad,Jhang,Tractors,21589
+2017,Punjab,Faisalabad,Jhang,Trucks,1419
+2017,Punjab,Rawalpindi,Jhelum,Auto Rickshaws,14724
+2017,Punjab,Rawalpindi,Jhelum,Mini Buses/Buses/Flying/Luxury Coaches,1110
+2017,Punjab,Rawalpindi,Jhelum,Motor Cars/Jeeps/Station Wagons,20602
+2017,Punjab,Rawalpindi,Jhelum,Motor Cycles/Scooters,184649
+2017,Punjab,Rawalpindi,Jhelum,Other Vehicles,90
+2017,Punjab,Rawalpindi,Jhelum,Pickups/Delivery Vans,3230
+2017,Punjab,Rawalpindi,Jhelum,Taxis,272
+2017,Punjab,Rawalpindi,Jhelum,Tractors,6232
+2017,Punjab,Rawalpindi,Jhelum,Trucks,437
+2017,Punjab,Lahore,Kasur,Auto Rickshaws,369
+2017,Punjab,Lahore,Kasur,Mini Buses/Buses/Flying/Luxury Coaches,628
+2017,Punjab,Lahore,Kasur,Motor Cars/Jeeps/Station Wagons,2950
+2017,Punjab,Lahore,Kasur,Motor Cycles/Scooters,19529
+2017,Punjab,Lahore,Kasur,Other Vehicles,38
+2017,Punjab,Lahore,Kasur,Pickups/Delivery Vans,2115
+2017,Punjab,Lahore,Kasur,Taxis,505
+2017,Punjab,Lahore,Kasur,Tractors,27226
+2017,Punjab,Lahore,Kasur,Trucks,1452
+2017,Punjab,Multan,Khanewal,Auto Rickshaws,595
+2017,Punjab,Multan,Khanewal,Mini Buses/Buses/Flying/Luxury Coaches,520
+2017,Punjab,Multan,Khanewal,Motor Cars/Jeeps/Station Wagons,8615
+2017,Punjab,Multan,Khanewal,Motor Cycles/Scooters,205249
+2017,Punjab,Multan,Khanewal,Other Vehicles,22
+2017,Punjab,Multan,Khanewal,Pickups/Delivery Vans,2072
+2017,Punjab,Multan,Khanewal,Taxis,1168
+2017,Punjab,Multan,Khanewal,Tractors,20878
+2017,Punjab,Multan,Khanewal,Trucks,709
+2017,Punjab,Sargodha,Khushab,Auto Rickshaws,11730
+2017,Punjab,Sargodha,Khushab,Mini Buses/Buses/Flying/Luxury Coaches,804
+2017,Punjab,Sargodha,Khushab,Motor Cars/Jeeps/Station Wagons,6354
+2017,Punjab,Sargodha,Khushab,Motor Cycles/Scooters,99807
+2017,Punjab,Sargodha,Khushab,Other Vehicles,27
+2017,Punjab,Sargodha,Khushab,Pickups/Delivery Vans,1826
+2017,Punjab,Sargodha,Khushab,Taxis,368
+2017,Punjab,Sargodha,Khushab,Tractors,12015
+2017,Punjab,Sargodha,Khushab,Trucks,1702
+2017,Punjab,Lahore,Lahore,Auto Rickshaws,180296
+2017,Punjab,Lahore,Lahore,Mini Buses/Buses/Flying/Luxury Coaches,50398
+2017,Punjab,Lahore,Lahore,Motor Cars/Jeeps/Station Wagons,1194064
+2017,Punjab,Lahore,Lahore,Motor Cycles/Scooters,3706449
+2017,Punjab,Lahore,Lahore,Other Vehicles,13100
+2017,Punjab,Lahore,Lahore,Pickups/Delivery Vans,87059
+2017,Punjab,Lahore,Lahore,Taxis,16349
+2017,Punjab,Lahore,Lahore,Tractors,53915
+2017,Punjab,Lahore,Lahore,Trucks,29424
+2017,Punjab,D.G.Khan,Layyah,Auto Rickshaws,7263
+2017,Punjab,D.G.Khan,Layyah,Mini Buses/Buses/Flying/Luxury Coaches,644
+2017,Punjab,D.G.Khan,Layyah,Motor Cars/Jeeps/Station Wagons,5398
+2017,Punjab,D.G.Khan,Layyah,Motor Cycles/Scooters,149234
+2017,Punjab,D.G.Khan,Layyah,Other Vehicles,86
+2017,Punjab,D.G.Khan,Layyah,Pickups/Delivery Vans,2080
+2017,Punjab,D.G.Khan,Layyah,Taxis,921
+2017,Punjab,D.G.Khan,Layyah,Tractors,11526
+2017,Punjab,D.G.Khan,Layyah,Trucks,464
+2017,Punjab,Multan,Lodhran,Auto Rickshaws,385
+2017,Punjab,Multan,Lodhran,Mini Buses/Buses/Flying/Luxury Coaches,172
+2017,Punjab,Multan,Lodhran,Motor Cars/Jeeps/Station Wagons,5451
+2017,Punjab,Multan,Lodhran,Motor Cycles/Scooters,56042
+2017,Punjab,Multan,Lodhran,Other Vehicles,16
+2017,Punjab,Multan,Lodhran,Pickups/Delivery Vans,689
+2017,Punjab,Multan,Lodhran,Taxis,537
+2017,Punjab,Multan,Lodhran,Tractors,11878
+2017,Punjab,Multan,Lodhran,Trucks,307
+2017,Punjab,Gujranwala,M.B.Din,Auto Rickshaws,2470
+2017,Punjab,Gujranwala,M.B.Din,Mini Buses/Buses/Flying/Luxury Coaches,483
+2017,Punjab,Gujranwala,M.B.Din,Motor Cars/Jeeps/Station Wagons,7980
+2017,Punjab,Gujranwala,M.B.Din,Motor Cycles/Scooters,131489
+2017,Punjab,Gujranwala,M.B.Din,Other Vehicles,27
+2017,Punjab,Gujranwala,M.B.Din,Pickups/Delivery Vans,1934
+2017,Punjab,Gujranwala,M.B.Din,Taxis,350
+2017,Punjab,Gujranwala,M.B.Din,Tractors,6044
+2017,Punjab,Gujranwala,M.B.Din,Trucks,311
+2017,Punjab,Sargodha,Mianwali,Auto Rickshaws,7594
+2017,Punjab,Sargodha,Mianwali,Mini Buses/Buses/Flying/Luxury Coaches,942
+2017,Punjab,Sargodha,Mianwali,Motor Cars/Jeeps/Station Wagons,6912
+2017,Punjab,Sargodha,Mianwali,Motor Cycles/Scooters,149195
+2017,Punjab,Sargodha,Mianwali,Other Vehicles,78
+2017,Punjab,Sargodha,Mianwali,Pickups/Delivery Vans,4194
+2017,Punjab,Sargodha,Mianwali,Taxis,542
+2017,Punjab,Sargodha,Mianwali,Tractors,8862
+2017,Punjab,Sargodha,Mianwali,Trucks,863
+2017,Punjab,Multan,Multan,Auto Rickshaws,16938
+2017,Punjab,Multan,Multan,Mini Buses/Buses/Flying/Luxury Coaches,8279
+2017,Punjab,Multan,Multan,Motor Cars/Jeeps/Station Wagons,110766
+2017,Punjab,Multan,Multan,Motor Cycles/Scooters,1028851
+2017,Punjab,Multan,Multan,Other Vehicles,733
+2017,Punjab,Multan,Multan,Pickups/Delivery Vans,12854
+2017,Punjab,Multan,Multan,Taxis,4526
+2017,Punjab,Multan,Multan,Tractors,39080
+2017,Punjab,Multan,Multan,Trucks,5213
+2017,Punjab,D.G.Khan,Muzaffargarh,Auto Rickshaws,662
+2017,Punjab,D.G.Khan,Muzaffargarh,Mini Buses/Buses/Flying/Luxury Coaches,573
+2017,Punjab,D.G.Khan,Muzaffargarh,Motor Cars/Jeeps/Station Wagons,5473
+2017,Punjab,D.G.Khan,Muzaffargarh,Motor Cycles/Scooters,119270
+2017,Punjab,D.G.Khan,Muzaffargarh,Other Vehicles,35
+2017,Punjab,D.G.Khan,Muzaffargarh,Pickups/Delivery Vans,1613
+2017,Punjab,D.G.Khan,Muzaffargarh,Taxis,964
+2017,Punjab,D.G.Khan,Muzaffargarh,Tractors,18025
+2017,Punjab,D.G.Khan,Muzaffargarh,Trucks,1642
+2017,Punjab,Lahore,Nankana Sahib,Auto Rickshaws,131
+2017,Punjab,Lahore,Nankana Sahib,Mini Buses/Buses/Flying/Luxury Coaches,240
+2017,Punjab,Lahore,Nankana Sahib,Motor Cars/Jeeps/Station Wagons,3484
+2017,Punjab,Lahore,Nankana Sahib,Motor Cycles/Scooters,28893
+2017,Punjab,Lahore,Nankana Sahib,Other Vehicles,19
+2017,Punjab,Lahore,Nankana Sahib,Pickups/Delivery Vans,749
+2017,Punjab,Lahore,Nankana Sahib,Taxis,437
+2017,Punjab,Lahore,Nankana Sahib,Tractors,1958
+2017,Punjab,Lahore,Nankana Sahib,Trucks,419
+2017,Punjab,Gujranwala,Narowal,Auto Rickshaws,1811
+2017,Punjab,Gujranwala,Narowal,Mini Buses/Buses/Flying/Luxury Coaches,294
+2017,Punjab,Gujranwala,Narowal,Motor Cars/Jeeps/Station Wagons,1807
+2017,Punjab,Gujranwala,Narowal,Motor Cycles/Scooters,41028
+2017,Punjab,Gujranwala,Narowal,Other Vehicles,15
+2017,Punjab,Gujranwala,Narowal,Pickups/Delivery Vans,895
+2017,Punjab,Gujranwala,Narowal,Taxis,341
+2017,Punjab,Gujranwala,Narowal,Tractors,9357
+2017,Punjab,Gujranwala,Narowal,Trucks,286
+2017,Punjab,Sahiwal,Okara,Auto Rickshaws,3276
+2017,Punjab,Sahiwal,Okara,Mini Buses/Buses/Flying/Luxury Coaches,815
+2017,Punjab,Sahiwal,Okara,Motor Cars/Jeeps/Station Wagons,8284
+2017,Punjab,Sahiwal,Okara,Motor Cycles/Scooters,270167
+2017,Punjab,Sahiwal,Okara,Other Vehicles,46
+2017,Punjab,Sahiwal,Okara,Pickups/Delivery Vans,2554
+2017,Punjab,Sahiwal,Okara,Taxis,885
+2017,Punjab,Sahiwal,Okara,Tractors,21547
+2017,Punjab,Sahiwal,Okara,Trucks,1672
+2017,Punjab,Sahiwal,Pakpattan,Auto Rickshaws,332
+2017,Punjab,Sahiwal,Pakpattan,Mini Buses/Buses/Flying/Luxury Coaches,442
+2017,Punjab,Sahiwal,Pakpattan,Motor Cars/Jeeps/Station Wagons,4560
+2017,Punjab,Sahiwal,Pakpattan,Motor Cycles/Scooters,93103
+2017,Punjab,Sahiwal,Pakpattan,Other Vehicles,24
+2017,Punjab,Sahiwal,Pakpattan,Pickups/Delivery Vans,1010
+2017,Punjab,Sahiwal,Pakpattan,Taxis,478
+2017,Punjab,Sahiwal,Pakpattan,Tractors,9995
+2017,Punjab,Sahiwal,Pakpattan,Trucks,459
+2017,Punjab,Bahawalpur,R.Y.Khan,Auto Rickshaws,418
+2017,Punjab,Bahawalpur,R.Y.Khan,Mini Buses/Buses/Flying/Luxury Coaches,1745
+2017,Punjab,Bahawalpur,R.Y.Khan,Motor Cars/Jeeps/Station Wagons,15817
+2017,Punjab,Bahawalpur,R.Y.Khan,Motor Cycles/Scooters,638460
+2017,Punjab,Bahawalpur,R.Y.Khan,Other Vehicles,69
+2017,Punjab,Bahawalpur,R.Y.Khan,Pickups/Delivery Vans,4062
+2017,Punjab,Bahawalpur,R.Y.Khan,Taxis,1692
+2017,Punjab,Bahawalpur,R.Y.Khan,Tractors,38582
+2017,Punjab,Bahawalpur,R.Y.Khan,Trucks,1005
+2017,Punjab,D.G.Khan,Rajanpur,Auto Rickshaws,4
+2017,Punjab,D.G.Khan,Rajanpur,Mini Buses/Buses/Flying/Luxury Coaches,106
+2017,Punjab,D.G.Khan,Rajanpur,Motor Cars/Jeeps/Station Wagons,1505
+2017,Punjab,D.G.Khan,Rajanpur,Motor Cycles/Scooters,24834
+2017,Punjab,D.G.Khan,Rajanpur,Other Vehicles,22
+2017,Punjab,D.G.Khan,Rajanpur,Pickups/Delivery Vans,482
+2017,Punjab,D.G.Khan,Rajanpur,Taxis,334
+2017,Punjab,D.G.Khan,Rajanpur,Tractors,3046
+2017,Punjab,D.G.Khan,Rajanpur,Trucks,60
+2017,Punjab,Rawalpindi,Rawalpindi,Auto Rickshaws,27612
+2017,Punjab,Rawalpindi,Rawalpindi,Mini Buses/Buses/Flying/Luxury Coaches,15329
+2017,Punjab,Rawalpindi,Rawalpindi,Motor Cars/Jeeps/Station Wagons,173446
+2017,Punjab,Rawalpindi,Rawalpindi,Motor Cycles/Scooters,697761
+2017,Punjab,Rawalpindi,Rawalpindi,Other Vehicles,811
+2017,Punjab,Rawalpindi,Rawalpindi,Pickups/Delivery Vans,49480
+2017,Punjab,Rawalpindi,Rawalpindi,Taxis,15082
+2017,Punjab,Rawalpindi,Rawalpindi,Tractors,3930
+2017,Punjab,Rawalpindi,Rawalpindi,Trucks,6975
+2017,Punjab,Sahiwal,Sahiwal,Auto Rickshaws,2918
+2017,Punjab,Sahiwal,Sahiwal,Mini Buses/Buses/Flying/Luxury Coaches,2205
+2017,Punjab,Sahiwal,Sahiwal,Motor Cars/Jeeps/Station Wagons,21728
+2017,Punjab,Sahiwal,Sahiwal,Motor Cycles/Scooters,349375
+2017,Punjab,Sahiwal,Sahiwal,Other Vehicles,66
+2017,Punjab,Sahiwal,Sahiwal,Pickups/Delivery Vans,3791
+2017,Punjab,Sahiwal,Sahiwal,Taxis,1585
+2017,Punjab,Sahiwal,Sahiwal,Tractors,47611
+2017,Punjab,Sahiwal,Sahiwal,Trucks,2256
+2017,Punjab,Sargodha,Sargodha,Auto Rickshaws,37232
+2017,Punjab,Sargodha,Sargodha,Mini Buses/Buses/Flying/Luxury Coaches,3364
+2017,Punjab,Sargodha,Sargodha,Motor Cars/Jeeps/Station Wagons,30042
+2017,Punjab,Sargodha,Sargodha,Motor Cycles/Scooters,408024
+2017,Punjab,Sargodha,Sargodha,Other Vehicles,86
+2017,Punjab,Sargodha,Sargodha,Pickups/Delivery Vans,5712
+2017,Punjab,Sargodha,Sargodha,Taxis,1482
+2017,Punjab,Sargodha,Sargodha,Tractors,28358
+2017,Punjab,Sargodha,Sargodha,Trucks,5658
+2017,Punjab,Lahore,Sheikhupura,Auto Rickshaws,4046
+2017,Punjab,Lahore,Sheikhupura,Mini Buses/Buses/Flying/Luxury Coaches,2166
+2017,Punjab,Lahore,Sheikhupura,Motor Cars/Jeeps/Station Wagons,8475
+2017,Punjab,Lahore,Sheikhupura,Motor Cycles/Scooters,28798
+2017,Punjab,Lahore,Sheikhupura,Other Vehicles,47
+2017,Punjab,Lahore,Sheikhupura,Pickups/Delivery Vans,2036
+2017,Punjab,Lahore,Sheikhupura,Taxis,625
+2017,Punjab,Lahore,Sheikhupura,Tractors,21850
+2017,Punjab,Lahore,Sheikhupura,Trucks,1683
+2017,Punjab,Gujranwala,Sialkot,Auto Rickshaws,23624
+2017,Punjab,Gujranwala,Sialkot,Mini Buses/Buses/Flying/Luxury Coaches,2476
+2017,Punjab,Gujranwala,Sialkot,Motor Cars/Jeeps/Station Wagons,35110
+2017,Punjab,Gujranwala,Sialkot,Motor Cycles/Scooters,527616
+2017,Punjab,Gujranwala,Sialkot,Other Vehicles,57
+2017,Punjab,Gujranwala,Sialkot,Pickups/Delivery Vans,6688
+2017,Punjab,Gujranwala,Sialkot,Taxis,820
+2017,Punjab,Gujranwala,Sialkot,Tractors,21682
+2017,Punjab,Gujranwala,Sialkot,Trucks,638
+2017,Punjab,Faisalabad,T.T.Singh,Auto Rickshaws,500
+2017,Punjab,Faisalabad,T.T.Singh,Mini Buses/Buses/Flying/Luxury Coaches,634
+2017,Punjab,Faisalabad,T.T.Singh,Motor Cars/Jeeps/Station Wagons,8263
+2017,Punjab,Faisalabad,T.T.Singh,Motor Cycles/Scooters,173795
+2017,Punjab,Faisalabad,T.T.Singh,Other Vehicles,24
+2017,Punjab,Faisalabad,T.T.Singh,Pickups/Delivery Vans,1926
+2017,Punjab,Faisalabad,T.T.Singh,Taxis,735
+2017,Punjab,Faisalabad,T.T.Singh,Tractors,12626
+2017,Punjab,Faisalabad,T.T.Singh,Trucks,762
+2017,Punjab,Multan,Vehari,Auto Rickshaws,403
+2017,Punjab,Multan,Vehari,Mini Buses/Buses/Flying/Luxury Coaches,822
+2017,Punjab,Multan,Vehari,Motor Cars/Jeeps/Station Wagons,11545
+2017,Punjab,Multan,Vehari,Motor Cycles/Scooters,302082
+2017,Punjab,Multan,Vehari,Other Vehicles,80
+2017,Punjab,Multan,Vehari,Pickups/Delivery Vans,2570
+2017,Punjab,Multan,Vehari,Taxis,1190
+2017,Punjab,Multan,Vehari,Tractors,33150
+2017,Punjab,Multan,Vehari,Trucks,966
+2018,Punjab,Rawalpindi,Attock,Auto Rickshaws,21268
+2018,Punjab,Rawalpindi,Attock,Mini Buses/Buses/Flying/Luxury Coaches,2908
+2018,Punjab,Rawalpindi,Attock,Motor Cars/Jeeps/Station Wagons,22388
+2018,Punjab,Rawalpindi,Attock,Motor Cycles/Scooters,115874
+2018,Punjab,Rawalpindi,Attock,Other Vehicles,72
+2018,Punjab,Rawalpindi,Attock,Pickups/Delivery Vans,7166
+2018,Punjab,Rawalpindi,Attock,Taxis,1002
+2018,Punjab,Rawalpindi,Attock,Tractors,10542
+2018,Punjab,Rawalpindi,Attock,Trucks,1140
+2018,Punjab,Bahawalpur,Bahawalnagar,Auto Rickshaws,534
+2018,Punjab,Bahawalpur,Bahawalnagar,Mini Buses/Buses/Flying/Luxury Coaches,977
+2018,Punjab,Bahawalpur,Bahawalnagar,Motor Cars/Jeeps/Station Wagons,7427
+2018,Punjab,Bahawalpur,Bahawalnagar,Motor Cycles/Scooters,277447
+2018,Punjab,Bahawalpur,Bahawalnagar,Other Vehicles,24
+2018,Punjab,Bahawalpur,Bahawalnagar,Pickups/Delivery Vans,3324
+2018,Punjab,Bahawalpur,Bahawalnagar,Taxis,1258
+2018,Punjab,Bahawalpur,Bahawalnagar,Tractors,24991
+2018,Punjab,Bahawalpur,Bahawalnagar,Trucks,800
+2018,Punjab,Bahawalpur,Bahawalpur,Auto Rickshaws,8070
+2018,Punjab,Bahawalpur,Bahawalpur,Mini Buses/Buses/Flying/Luxury Coaches,2494
+2018,Punjab,Bahawalpur,Bahawalpur,Motor Cars/Jeeps/Station Wagons,27267
+2018,Punjab,Bahawalpur,Bahawalpur,Motor Cycles/Scooters,490162
+2018,Punjab,Bahawalpur,Bahawalpur,Other Vehicles,52
+2018,Punjab,Bahawalpur,Bahawalpur,Pickups/Delivery Vans,4962
+2018,Punjab,Bahawalpur,Bahawalpur,Taxis,2494
+2018,Punjab,Bahawalpur,Bahawalpur,Tractors,18157
+2018,Punjab,Bahawalpur,Bahawalpur,Trucks,1564
+2018,Punjab,Sargodha,Bhakkar,Auto Rickshaws,24012
+2018,Punjab,Sargodha,Bhakkar,Mini Buses/Buses/Flying/Luxury Coaches,1104
+2018,Punjab,Sargodha,Bhakkar,Motor Cars/Jeeps/Station Wagons,3891
+2018,Punjab,Sargodha,Bhakkar,Motor Cycles/Scooters,127022
+2018,Punjab,Sargodha,Bhakkar,Other Vehicles,8
+2018,Punjab,Sargodha,Bhakkar,Pickups/Delivery Vans,2202
+2018,Punjab,Sargodha,Bhakkar,Taxis,455
+2018,Punjab,Sargodha,Bhakkar,Tractors,8700
+2018,Punjab,Sargodha,Bhakkar,Trucks,220
+2018,Punjab,Rawalpindi,Chakwal,Auto Rickshaws,14902
+2018,Punjab,Rawalpindi,Chakwal,Mini Buses/Buses/Flying/Luxury Coaches,2150
+2018,Punjab,Rawalpindi,Chakwal,Motor Cars/Jeeps/Station Wagons,6883
+2018,Punjab,Rawalpindi,Chakwal,Motor Cycles/Scooters,130368
+2018,Punjab,Rawalpindi,Chakwal,Other Vehicles,30
+2018,Punjab,Rawalpindi,Chakwal,Pickups/Delivery Vans,4284
+2018,Punjab,Rawalpindi,Chakwal,Taxis,558
+2018,Punjab,Rawalpindi,Chakwal,Tractors,7126
+2018,Punjab,Rawalpindi,Chakwal,Trucks,760
+2018,Punjab,Faisalabad,Chiniot,Auto Rickshaws,11009
+2018,Punjab,Faisalabad,Chiniot,Mini Buses/Buses/Flying/Luxury Coaches,304
+2018,Punjab,Faisalabad,Chiniot,Motor Cars/Jeeps/Station Wagons,2871
+2018,Punjab,Faisalabad,Chiniot,Motor Cycles/Scooters,67918
+2018,Punjab,Faisalabad,Chiniot,Other Vehicles,12
+2018,Punjab,Faisalabad,Chiniot,Pickups/Delivery Vans,1698
+2018,Punjab,Faisalabad,Chiniot,Taxis,214
+2018,Punjab,Faisalabad,Chiniot,Tractors,2018
+2018,Punjab,Faisalabad,Chiniot,Trucks,1177
+2018,Punjab,D.G.Khan,D.G.Khan,Auto Rickshaws,642
+2018,Punjab,D.G.Khan,D.G.Khan,Mini Buses/Buses/Flying/Luxury Coaches,1961
+2018,Punjab,D.G.Khan,D.G.Khan,Motor Cars/Jeeps/Station Wagons,9770
+2018,Punjab,D.G.Khan,D.G.Khan,Motor Cycles/Scooters,489869
+2018,Punjab,D.G.Khan,D.G.Khan,Other Vehicles,57
+2018,Punjab,D.G.Khan,D.G.Khan,Pickups/Delivery Vans,3086
+2018,Punjab,D.G.Khan,D.G.Khan,Taxis,1554
+2018,Punjab,D.G.Khan,D.G.Khan,Tractors,40159
+2018,Punjab,D.G.Khan,D.G.Khan,Trucks,1091
+2018,Punjab,Faisalabad,Faisalabad,Auto Rickshaws,23168
+2018,Punjab,Faisalabad,Faisalabad,Mini Buses/Buses/Flying/Luxury Coaches,7575
+2018,Punjab,Faisalabad,Faisalabad,Motor Cars/Jeeps/Station Wagons,85495
+2018,Punjab,Faisalabad,Faisalabad,Motor Cycles/Scooters,1209772
+2018,Punjab,Faisalabad,Faisalabad,Other Vehicles,180
+2018,Punjab,Faisalabad,Faisalabad,Pickups/Delivery Vans,15766
+2018,Punjab,Faisalabad,Faisalabad,Taxis,3286
+2018,Punjab,Faisalabad,Faisalabad,Tractors,19748
+2018,Punjab,Faisalabad,Faisalabad,Trucks,8811
+2018,Punjab,Gujranwala,Gujranwala,Auto Rickshaws,17306
+2018,Punjab,Gujranwala,Gujranwala,Mini Buses/Buses/Flying/Luxury Coaches,3632
+2018,Punjab,Gujranwala,Gujranwala,Motor Cars/Jeeps/Station Wagons,32691
+2018,Punjab,Gujranwala,Gujranwala,Motor Cycles/Scooters,710210
+2018,Punjab,Gujranwala,Gujranwala,Other Vehicles,679
+2018,Punjab,Gujranwala,Gujranwala,Pickups/Delivery Vans,8910
+2018,Punjab,Gujranwala,Gujranwala,Taxis,2338
+2018,Punjab,Gujranwala,Gujranwala,Tractors,23418
+2018,Punjab,Gujranwala,Gujranwala,Trucks,1888
+2018,Punjab,Gujranwala,Gujrat,Auto Rickshaws,12130
+2018,Punjab,Gujranwala,Gujrat,Mini Buses/Buses/Flying/Luxury Coaches,3402
+2018,Punjab,Gujranwala,Gujrat,Motor Cars/Jeeps/Station Wagons,19724
+2018,Punjab,Gujranwala,Gujrat,Motor Cycles/Scooters,372850
+2018,Punjab,Gujranwala,Gujrat,Other Vehicles,62
+2018,Punjab,Gujranwala,Gujrat,Pickups/Delivery Vans,5573
+2018,Punjab,Gujranwala,Gujrat,Taxis,745
+2018,Punjab,Gujranwala,Gujrat,Tractors,12958
+2018,Punjab,Gujranwala,Gujrat,Trucks,992
+2018,Punjab,Gujranwala,Hafizabad,Auto Rickshaws,232
+2018,Punjab,Gujranwala,Hafizabad,Mini Buses/Buses/Flying/Luxury Coaches,506
+2018,Punjab,Gujranwala,Hafizabad,Motor Cars/Jeeps/Station Wagons,2910
+2018,Punjab,Gujranwala,Hafizabad,Motor Cycles/Scooters,85400
+2018,Punjab,Gujranwala,Hafizabad,Other Vehicles,10
+2018,Punjab,Gujranwala,Hafizabad,Pickups/Delivery Vans,721
+2018,Punjab,Gujranwala,Hafizabad,Taxis,346
+2018,Punjab,Gujranwala,Hafizabad,Tractors,4504
+2018,Punjab,Gujranwala,Hafizabad,Trucks,165
+2018,Punjab,Faisalabad,Jhang,Auto Rickshaws,16337
+2018,Punjab,Faisalabad,Jhang,Mini Buses/Buses/Flying/Luxury Coaches,1528
+2018,Punjab,Faisalabad,Jhang,Motor Cars/Jeeps/Station Wagons,5281
+2018,Punjab,Faisalabad,Jhang,Motor Cycles/Scooters,190364
+2018,Punjab,Faisalabad,Jhang,Other Vehicles,24
+2018,Punjab,Faisalabad,Jhang,Pickups/Delivery Vans,1846
+2018,Punjab,Faisalabad,Jhang,Taxis,755
+2018,Punjab,Faisalabad,Jhang,Tractors,16253
+2018,Punjab,Faisalabad,Jhang,Trucks,1420
+2018,Punjab,Rawalpindi,Jhelum,Auto Rickshaws,16093
+2018,Punjab,Rawalpindi,Jhelum,Mini Buses/Buses/Flying/Luxury Coaches,1515
+2018,Punjab,Rawalpindi,Jhelum,Motor Cars/Jeeps/Station Wagons,11817
+2018,Punjab,Rawalpindi,Jhelum,Motor Cycles/Scooters,197026
+2018,Punjab,Rawalpindi,Jhelum,Other Vehicles,36
+2018,Punjab,Rawalpindi,Jhelum,Pickups/Delivery Vans,3530
+2018,Punjab,Rawalpindi,Jhelum,Taxis,272
+2018,Punjab,Rawalpindi,Jhelum,Tractors,5492
+2018,Punjab,Rawalpindi,Jhelum,Trucks,438
+2018,Punjab,Lahore,Kasur,Auto Rickshaws,374
+2018,Punjab,Lahore,Kasur,Mini Buses/Buses/Flying/Luxury Coaches,1080
+2018,Punjab,Lahore,Kasur,Motor Cars/Jeeps/Station Wagons,2429
+2018,Punjab,Lahore,Kasur,Motor Cycles/Scooters,20127
+2018,Punjab,Lahore,Kasur,Other Vehicles,31
+2018,Punjab,Lahore,Kasur,Pickups/Delivery Vans,2292
+2018,Punjab,Lahore,Kasur,Taxis,505
+2018,Punjab,Lahore,Kasur,Tractors,22292
+2018,Punjab,Lahore,Kasur,Trucks,1452
+2018,Punjab,Multan,Khanewal,Auto Rickshaws,613
+2018,Punjab,Multan,Khanewal,Mini Buses/Buses/Flying/Luxury Coaches,958
+2018,Punjab,Multan,Khanewal,Motor Cars/Jeeps/Station Wagons,7956
+2018,Punjab,Multan,Khanewal,Motor Cycles/Scooters,220882
+2018,Punjab,Multan,Khanewal,Other Vehicles,22
+2018,Punjab,Multan,Khanewal,Pickups/Delivery Vans,2114
+2018,Punjab,Multan,Khanewal,Taxis,1168
+2018,Punjab,Multan,Khanewal,Tractors,16446
+2018,Punjab,Multan,Khanewal,Trucks,709
+2018,Punjab,Sargodha,Khushab,Auto Rickshaws,12577
+2018,Punjab,Sargodha,Khushab,Mini Buses/Buses/Flying/Luxury Coaches,1240
+2018,Punjab,Sargodha,Khushab,Motor Cars/Jeeps/Station Wagons,5373
+2018,Punjab,Sargodha,Khushab,Motor Cycles/Scooters,106670
+2018,Punjab,Sargodha,Khushab,Other Vehicles,25
+2018,Punjab,Sargodha,Khushab,Pickups/Delivery Vans,1864
+2018,Punjab,Sargodha,Khushab,Taxis,368
+2018,Punjab,Sargodha,Khushab,Tractors,9565
+2018,Punjab,Sargodha,Khushab,Trucks,1704
+2018,Punjab,Lahore,Lahore,Auto Rickshaws,185622
+2018,Punjab,Lahore,Lahore,Mini Buses/Buses/Flying/Luxury Coaches,52447
+2018,Punjab,Lahore,Lahore,Motor Cars/Jeeps/Station Wagons,1032194
+2018,Punjab,Lahore,Lahore,Motor Cycles/Scooters,3909108
+2018,Punjab,Lahore,Lahore,Other Vehicles,4640
+2018,Punjab,Lahore,Lahore,Pickups/Delivery Vans,89966
+2018,Punjab,Lahore,Lahore,Taxis,16397
+2018,Punjab,Lahore,Lahore,Tractors,55054
+2018,Punjab,Lahore,Lahore,Trucks,30312
+2018,Punjab,D.G.Khan,Layyah,Auto Rickshaws,8114
+2018,Punjab,D.G.Khan,Layyah,Mini Buses/Buses/Flying/Luxury Coaches,1086
+2018,Punjab,D.G.Khan,Layyah,Motor Cars/Jeeps/Station Wagons,4915
+2018,Punjab,D.G.Khan,Layyah,Motor Cycles/Scooters,160268
+2018,Punjab,D.G.Khan,Layyah,Other Vehicles,32
+2018,Punjab,D.G.Khan,Layyah,Pickups/Delivery Vans,2094
+2018,Punjab,D.G.Khan,Layyah,Taxis,921
+2018,Punjab,D.G.Khan,Layyah,Tractors,12035
+2018,Punjab,D.G.Khan,Layyah,Trucks,464
+2018,Punjab,Multan,Lodhran,Auto Rickshaws,443
+2018,Punjab,Multan,Lodhran,Mini Buses/Buses/Flying/Luxury Coaches,313
+2018,Punjab,Multan,Lodhran,Motor Cars/Jeeps/Station Wagons,4155
+2018,Punjab,Multan,Lodhran,Motor Cycles/Scooters,59254
+2018,Punjab,Multan,Lodhran,Other Vehicles,16
+2018,Punjab,Multan,Lodhran,Pickups/Delivery Vans,730
+2018,Punjab,Multan,Lodhran,Taxis,537
+2018,Punjab,Multan,Lodhran,Tractors,9455
+2018,Punjab,Multan,Lodhran,Trucks,307
+2018,Punjab,Gujranwala,M.B.Din,Auto Rickshaws,2936
+2018,Punjab,Gujranwala,M.B.Din,Mini Buses/Buses/Flying/Luxury Coaches,935
+2018,Punjab,Gujranwala,M.B.Din,Motor Cars/Jeeps/Station Wagons,7826
+2018,Punjab,Gujranwala,M.B.Din,Motor Cycles/Scooters,139259
+2018,Punjab,Gujranwala,M.B.Din,Other Vehicles,28
+2018,Punjab,Gujranwala,M.B.Din,Pickups/Delivery Vans,1941
+2018,Punjab,Gujranwala,M.B.Din,Taxis,350
+2018,Punjab,Gujranwala,M.B.Din,Tractors,6280
+2018,Punjab,Gujranwala,M.B.Din,Trucks,311
+2018,Punjab,Sargodha,Mianwali,Auto Rickshaws,8012
+2018,Punjab,Sargodha,Mianwali,Mini Buses/Buses/Flying/Luxury Coaches,1644
+2018,Punjab,Sargodha,Mianwali,Motor Cars/Jeeps/Station Wagons,5425
+2018,Punjab,Sargodha,Mianwali,Motor Cycles/Scooters,162112
+2018,Punjab,Sargodha,Mianwali,Other Vehicles,33
+2018,Punjab,Sargodha,Mianwali,Pickups/Delivery Vans,4366
+2018,Punjab,Sargodha,Mianwali,Taxis,542
+2018,Punjab,Sargodha,Mianwali,Tractors,9082
+2018,Punjab,Sargodha,Mianwali,Trucks,864
+2018,Punjab,Multan,Multan,Auto Rickshaws,18460
+2018,Punjab,Multan,Multan,Mini Buses/Buses/Flying/Luxury Coaches,4884
+2018,Punjab,Multan,Multan,Motor Cars/Jeeps/Station Wagons,98303
+2018,Punjab,Multan,Multan,Motor Cycles/Scooters,1104695
+2018,Punjab,Multan,Multan,Other Vehicles,156
+2018,Punjab,Multan,Multan,Pickups/Delivery Vans,13590
+2018,Punjab,Multan,Multan,Taxis,4529
+2018,Punjab,Multan,Multan,Tractors,28603
+2018,Punjab,Multan,Multan,Trucks,5267
+2018,Punjab,D.G.Khan,Muzaffargarh,Auto Rickshaws,666
+2018,Punjab,D.G.Khan,Muzaffargarh,Mini Buses/Buses/Flying/Luxury Coaches,511
+2018,Punjab,D.G.Khan,Muzaffargarh,Motor Cars/Jeeps/Station Wagons,4339
+2018,Punjab,D.G.Khan,Muzaffargarh,Motor Cycles/Scooters,128905
+2018,Punjab,D.G.Khan,Muzaffargarh,Other Vehicles,35
+2018,Punjab,D.G.Khan,Muzaffargarh,Pickups/Delivery Vans,1615
+2018,Punjab,D.G.Khan,Muzaffargarh,Taxis,964
+2018,Punjab,D.G.Khan,Muzaffargarh,Tractors,14057
+2018,Punjab,D.G.Khan,Muzaffargarh,Trucks,1642
+2018,Punjab,Lahore,Nankana Sahib,Auto Rickshaws,131
+2018,Punjab,Lahore,Nankana Sahib,Mini Buses/Buses/Flying/Luxury Coaches,464
+2018,Punjab,Lahore,Nankana Sahib,Motor Cars/Jeeps/Station Wagons,3492
+2018,Punjab,Lahore,Nankana Sahib,Motor Cycles/Scooters,29758
+2018,Punjab,Lahore,Nankana Sahib,Other Vehicles,18
+2018,Punjab,Lahore,Nankana Sahib,Pickups/Delivery Vans,752
+2018,Punjab,Lahore,Nankana Sahib,Taxis,437
+2018,Punjab,Lahore,Nankana Sahib,Tractors,1989
+2018,Punjab,Lahore,Nankana Sahib,Trucks,419
+2018,Punjab,Gujranwala,Narowal,Auto Rickshaws,2061
+2018,Punjab,Gujranwala,Narowal,Mini Buses/Buses/Flying/Luxury Coaches,552
+2018,Punjab,Gujranwala,Narowal,Motor Cars/Jeeps/Station Wagons,1696
+2018,Punjab,Gujranwala,Narowal,Motor Cycles/Scooters,43786
+2018,Punjab,Gujranwala,Narowal,Other Vehicles,16
+2018,Punjab,Gujranwala,Narowal,Pickups/Delivery Vans,974
+2018,Punjab,Gujranwala,Narowal,Taxis,341
+2018,Punjab,Gujranwala,Narowal,Tractors,9622
+2018,Punjab,Gujranwala,Narowal,Trucks,286
+2018,Punjab,Sahiwal,Okara,Auto Rickshaws,3578
+2018,Punjab,Sahiwal,Okara,Mini Buses/Buses/Flying/Luxury Coaches,1215
+2018,Punjab,Sahiwal,Okara,Motor Cars/Jeeps/Station Wagons,7766
+2018,Punjab,Sahiwal,Okara,Motor Cycles/Scooters,286860
+2018,Punjab,Sahiwal,Okara,Other Vehicles,47
+2018,Punjab,Sahiwal,Okara,Pickups/Delivery Vans,2862
+2018,Punjab,Sahiwal,Okara,Taxis,886
+2018,Punjab,Sahiwal,Okara,Tractors,17609
+2018,Punjab,Sahiwal,Okara,Trucks,1673
+2018,Punjab,Sahiwal,Pakpattan,Auto Rickshaws,334
+2018,Punjab,Sahiwal,Pakpattan,Mini Buses/Buses/Flying/Luxury Coaches,627
+2018,Punjab,Sahiwal,Pakpattan,Motor Cars/Jeeps/Station Wagons,4102
+2018,Punjab,Sahiwal,Pakpattan,Motor Cycles/Scooters,99234
+2018,Punjab,Sahiwal,Pakpattan,Other Vehicles,23
+2018,Punjab,Sahiwal,Pakpattan,Pickups/Delivery Vans,1180
+2018,Punjab,Sahiwal,Pakpattan,Taxis,478
+2018,Punjab,Sahiwal,Pakpattan,Tractors,10255
+2018,Punjab,Sahiwal,Pakpattan,Trucks,459
+2018,Punjab,Bahawalpur,R.Y.Khan,Auto Rickshaws,470
+2018,Punjab,Bahawalpur,R.Y.Khan,Mini Buses/Buses/Flying/Luxury Coaches,1589
+2018,Punjab,Bahawalpur,R.Y.Khan,Motor Cars/Jeeps/Station Wagons,14392
+2018,Punjab,Bahawalpur,R.Y.Khan,Motor Cycles/Scooters,682585
+2018,Punjab,Bahawalpur,R.Y.Khan,Other Vehicles,70
+2018,Punjab,Bahawalpur,R.Y.Khan,Pickups/Delivery Vans,4134
+2018,Punjab,Bahawalpur,R.Y.Khan,Taxis,1692
+2018,Punjab,Bahawalpur,R.Y.Khan,Tractors,32120
+2018,Punjab,Bahawalpur,R.Y.Khan,Trucks,1006
+2018,Punjab,D.G.Khan,Rajanpur,Auto Rickshaws,4
+2018,Punjab,D.G.Khan,Rajanpur,Mini Buses/Buses/Flying/Luxury Coaches,159
+2018,Punjab,D.G.Khan,Rajanpur,Motor Cars/Jeeps/Station Wagons,886
+2018,Punjab,D.G.Khan,Rajanpur,Motor Cycles/Scooters,25522
+2018,Punjab,D.G.Khan,Rajanpur,Other Vehicles,22
+2018,Punjab,D.G.Khan,Rajanpur,Pickups/Delivery Vans,486
+2018,Punjab,D.G.Khan,Rajanpur,Taxis,334
+2018,Punjab,D.G.Khan,Rajanpur,Tractors,3264
+2018,Punjab,D.G.Khan,Rajanpur,Trucks,60
+2018,Punjab,Rawalpindi,Rawalpindi,Auto Rickshaws,29490
+2018,Punjab,Rawalpindi,Rawalpindi,Mini Buses/Buses/Flying/Luxury Coaches,15435
+2018,Punjab,Rawalpindi,Rawalpindi,Motor Cars/Jeeps/Station Wagons,144709
+2018,Punjab,Rawalpindi,Rawalpindi,Motor Cycles/Scooters,762394
+2018,Punjab,Rawalpindi,Rawalpindi,Other Vehicles,424
+2018,Punjab,Rawalpindi,Rawalpindi,Pickups/Delivery Vans,52363
+2018,Punjab,Rawalpindi,Rawalpindi,Taxis,15082
+2018,Punjab,Rawalpindi,Rawalpindi,Tractors,4038
+2018,Punjab,Rawalpindi,Rawalpindi,Trucks,7056
+2018,Punjab,Sahiwal,Sahiwal,Auto Rickshaws,2956
+2018,Punjab,Sahiwal,Sahiwal,Mini Buses/Buses/Flying/Luxury Coaches,1983
+2018,Punjab,Sahiwal,Sahiwal,Motor Cars/Jeeps/Station Wagons,19019
+2018,Punjab,Sahiwal,Sahiwal,Motor Cycles/Scooters,370700
+2018,Punjab,Sahiwal,Sahiwal,Other Vehicles,38
+2018,Punjab,Sahiwal,Sahiwal,Pickups/Delivery Vans,3892
+2018,Punjab,Sahiwal,Sahiwal,Taxis,1588
+2018,Punjab,Sahiwal,Sahiwal,Tractors,39364
+2018,Punjab,Sahiwal,Sahiwal,Trucks,2266
+2018,Punjab,Sargodha,Sargodha,Auto Rickshaws,40434
+2018,Punjab,Sargodha,Sargodha,Mini Buses/Buses/Flying/Luxury Coaches,3123
+2018,Punjab,Sargodha,Sargodha,Motor Cars/Jeeps/Station Wagons,26450
+2018,Punjab,Sargodha,Sargodha,Motor Cycles/Scooters,438517
+2018,Punjab,Sargodha,Sargodha,Other Vehicles,78
+2018,Punjab,Sargodha,Sargodha,Pickups/Delivery Vans,5971
+2018,Punjab,Sargodha,Sargodha,Taxis,1482
+2018,Punjab,Sargodha,Sargodha,Tractors,23278
+2018,Punjab,Sargodha,Sargodha,Trucks,5662
+2018,Punjab,Lahore,Sheikhupura,Auto Rickshaws,4046
+2018,Punjab,Lahore,Sheikhupura,Mini Buses/Buses/Flying/Luxury Coaches,1975
+2018,Punjab,Lahore,Sheikhupura,Motor Cars/Jeeps/Station Wagons,7250
+2018,Punjab,Lahore,Sheikhupura,Motor Cycles/Scooters,29751
+2018,Punjab,Lahore,Sheikhupura,Other Vehicles,46
+2018,Punjab,Lahore,Sheikhupura,Pickups/Delivery Vans,2044
+2018,Punjab,Lahore,Sheikhupura,Taxis,625
+2018,Punjab,Lahore,Sheikhupura,Tractors,16641
+2018,Punjab,Lahore,Sheikhupura,Trucks,1688
+2018,Punjab,Gujranwala,Sialkot,Auto Rickshaws,26678
+2018,Punjab,Gujranwala,Sialkot,Mini Buses/Buses/Flying/Luxury Coaches,3674
+2018,Punjab,Gujranwala,Sialkot,Motor Cars/Jeeps/Station Wagons,31573
+2018,Punjab,Gujranwala,Sialkot,Motor Cycles/Scooters,569270
+2018,Punjab,Gujranwala,Sialkot,Other Vehicles,54
+2018,Punjab,Gujranwala,Sialkot,Pickups/Delivery Vans,7356
+2018,Punjab,Gujranwala,Sialkot,Taxis,820
+2018,Punjab,Gujranwala,Sialkot,Tractors,16353
+2018,Punjab,Gujranwala,Sialkot,Trucks,638
+2018,Punjab,Faisalabad,T.T.Singh,Auto Rickshaws,519
+2018,Punjab,Faisalabad,T.T.Singh,Mini Buses/Buses/Flying/Luxury Coaches,1161
+2018,Punjab,Faisalabad,T.T.Singh,Motor Cars/Jeeps/Station Wagons,7806
+2018,Punjab,Faisalabad,T.T.Singh,Motor Cycles/Scooters,187134
+2018,Punjab,Faisalabad,T.T.Singh,Other Vehicles,16
+2018,Punjab,Faisalabad,T.T.Singh,Pickups/Delivery Vans,1986
+2018,Punjab,Faisalabad,T.T.Singh,Taxis,735
+2018,Punjab,Faisalabad,T.T.Singh,Tractors,12957
+2018,Punjab,Faisalabad,T.T.Singh,Trucks,762
+2018,Punjab,Multan,Vehari,Auto Rickshaws,428
+2018,Punjab,Multan,Vehari,Mini Buses/Buses/Flying/Luxury Coaches,1388
+2018,Punjab,Multan,Vehari,Motor Cars/Jeeps/Station Wagons,10706
+2018,Punjab,Multan,Vehari,Motor Cycles/Scooters,322986
+2018,Punjab,Multan,Vehari,Other Vehicles,16
+2018,Punjab,Multan,Vehari,Pickups/Delivery Vans,2594
+2018,Punjab,Multan,Vehari,Taxis,1193
+2018,Punjab,Multan,Vehari,Tractors,25064
+2018,Punjab,Multan,Vehari,Trucks,966
+2019,Punjab,Rawalpindi,Attock,Auto Rickshaws,22153
+2019,Punjab,Rawalpindi,Attock,Mini Buses/Buses/Flying/Luxury Coaches,2919
+2019,Punjab,Rawalpindi,Attock,Motor Cars/Jeeps/Station Wagons,22433
+2019,Punjab,Rawalpindi,Attock,Motor Cycles/Scooters,122700
+2019,Punjab,Rawalpindi,Attock,Other Vehicles,75
+2019,Punjab,Rawalpindi,Attock,Pickups/Delivery Vans,7305
+2019,Punjab,Rawalpindi,Attock,Taxis,1002
+2019,Punjab,Rawalpindi,Attock,Tractors,10745
+2019,Punjab,Rawalpindi,Attock,Trucks,1142
+2019,Punjab,Bahawalpur,Bahawalnagar,Auto Rickshaws,625
+2019,Punjab,Bahawalpur,Bahawalnagar,Mini Buses/Buses/Flying/Luxury Coaches,980
+2019,Punjab,Bahawalpur,Bahawalnagar,Motor Cars/Jeeps/Station Wagons,7445
+2019,Punjab,Bahawalpur,Bahawalnagar,Motor Cycles/Scooters,322840
+2019,Punjab,Bahawalpur,Bahawalnagar,Other Vehicles,24
+2019,Punjab,Bahawalpur,Bahawalnagar,Pickups/Delivery Vans,3666
+2019,Punjab,Bahawalpur,Bahawalnagar,Taxis,1259
+2019,Punjab,Bahawalpur,Bahawalnagar,Tractors,20171
+2019,Punjab,Bahawalpur,Bahawalnagar,Trucks,800
+2019,Punjab,Bahawalpur,Bahawalpur,Auto Rickshaws,8516
+2019,Punjab,Bahawalpur,Bahawalpur,Mini Buses/Buses/Flying/Luxury Coaches,2504
+2019,Punjab,Bahawalpur,Bahawalpur,Motor Cars/Jeeps/Station Wagons,28367
+2019,Punjab,Bahawalpur,Bahawalpur,Motor Cycles/Scooters,519224
+2019,Punjab,Bahawalpur,Bahawalpur,Other Vehicles,55
+2019,Punjab,Bahawalpur,Bahawalpur,Pickups/Delivery Vans,5048
+2019,Punjab,Bahawalpur,Bahawalpur,Taxis,2494
+2019,Punjab,Bahawalpur,Bahawalpur,Tractors,13354
+2019,Punjab,Bahawalpur,Bahawalpur,Trucks,1568
+2019,Punjab,Sargodha,Bhakkar,Auto Rickshaws,25915
+2019,Punjab,Sargodha,Bhakkar,Mini Buses/Buses/Flying/Luxury Coaches,1104
+2019,Punjab,Sargodha,Bhakkar,Motor Cars/Jeeps/Station Wagons,3917
+2019,Punjab,Sargodha,Bhakkar,Motor Cycles/Scooters,136649
+2019,Punjab,Sargodha,Bhakkar,Other Vehicles,8
+2019,Punjab,Sargodha,Bhakkar,Pickups/Delivery Vans,2228
+2019,Punjab,Sargodha,Bhakkar,Taxis,455
+2019,Punjab,Sargodha,Bhakkar,Tractors,9020
+2019,Punjab,Sargodha,Bhakkar,Trucks,221
+2019,Punjab,Rawalpindi,Chakwal,Auto Rickshaws,16328
+2019,Punjab,Rawalpindi,Chakwal,Mini Buses/Buses/Flying/Luxury Coaches,2157
+2019,Punjab,Rawalpindi,Chakwal,Motor Cars/Jeeps/Station Wagons,6901
+2019,Punjab,Rawalpindi,Chakwal,Motor Cycles/Scooters,138303
+2019,Punjab,Rawalpindi,Chakwal,Other Vehicles,31
+2019,Punjab,Rawalpindi,Chakwal,Pickups/Delivery Vans,4341
+2019,Punjab,Rawalpindi,Chakwal,Taxis,558
+2019,Punjab,Rawalpindi,Chakwal,Tractors,6554
+2019,Punjab,Rawalpindi,Chakwal,Trucks,761
+2019,Punjab,Faisalabad,Chiniot,Auto Rickshaws,11865
+2019,Punjab,Faisalabad,Chiniot,Mini Buses/Buses/Flying/Luxury Coaches,305
+2019,Punjab,Faisalabad,Chiniot,Motor Cars/Jeeps/Station Wagons,2880
+2019,Punjab,Faisalabad,Chiniot,Motor Cycles/Scooters,74570
+2019,Punjab,Faisalabad,Chiniot,Other Vehicles,12
+2019,Punjab,Faisalabad,Chiniot,Pickups/Delivery Vans,1712
+2019,Punjab,Faisalabad,Chiniot,Taxis,214
+2019,Punjab,Faisalabad,Chiniot,Tractors,2088
+2019,Punjab,Faisalabad,Chiniot,Trucks,1178
+2019,Punjab,D.G.Khan,D.G.Khan,Auto Rickshaws,647
+2019,Punjab,D.G.Khan,D.G.Khan,Mini Buses/Buses/Flying/Luxury Coaches,1969
+2019,Punjab,D.G.Khan,D.G.Khan,Motor Cars/Jeeps/Station Wagons,9838
+2019,Punjab,D.G.Khan,D.G.Khan,Motor Cycles/Scooters,523486
+2019,Punjab,D.G.Khan,D.G.Khan,Other Vehicles,58
+2019,Punjab,D.G.Khan,D.G.Khan,Pickups/Delivery Vans,3102
+2019,Punjab,D.G.Khan,D.G.Khan,Taxis,1554
+2019,Punjab,D.G.Khan,D.G.Khan,Tractors,23248
+2019,Punjab,D.G.Khan,D.G.Khan,Trucks,1093
+2019,Punjab,Faisalabad,Faisalabad,Auto Rickshaws,24184
+2019,Punjab,Faisalabad,Faisalabad,Mini Buses/Buses/Flying/Luxury Coaches,7642
+2019,Punjab,Faisalabad,Faisalabad,Motor Cars/Jeeps/Station Wagons,86530
+2019,Punjab,Faisalabad,Faisalabad,Motor Cycles/Scooters,1299426
+2019,Punjab,Faisalabad,Faisalabad,Other Vehicles,186
+2019,Punjab,Faisalabad,Faisalabad,Pickups/Delivery Vans,16021
+2019,Punjab,Faisalabad,Faisalabad,Taxis,3286
+2019,Punjab,Faisalabad,Faisalabad,Tractors,14068
+2019,Punjab,Faisalabad,Faisalabad,Trucks,8856
+2019,Punjab,Gujranwala,Gujranwala,Auto Rickshaws,18897
+2019,Punjab,Gujranwala,Gujranwala,Mini Buses/Buses/Flying/Luxury Coaches,3642
+2019,Punjab,Gujranwala,Gujranwala,Motor Cars/Jeeps/Station Wagons,32948
+2019,Punjab,Gujranwala,Gujranwala,Motor Cycles/Scooters,761796
+2019,Punjab,Gujranwala,Gujranwala,Other Vehicles,681
+2019,Punjab,Gujranwala,Gujranwala,Pickups/Delivery Vans,9075
+2019,Punjab,Gujranwala,Gujranwala,Taxis,2338
+2019,Punjab,Gujranwala,Gujranwala,Tractors,19042
+2019,Punjab,Gujranwala,Gujranwala,Trucks,1899
+2019,Punjab,Gujranwala,Gujrat,Auto Rickshaws,12690
+2019,Punjab,Gujranwala,Gujrat,Mini Buses/Buses/Flying/Luxury Coaches,3404
+2019,Punjab,Gujranwala,Gujrat,Motor Cars/Jeeps/Station Wagons,19746
+2019,Punjab,Gujranwala,Gujrat,Motor Cycles/Scooters,396311
+2019,Punjab,Gujranwala,Gujrat,Other Vehicles,66
+2019,Punjab,Gujranwala,Gujrat,Pickups/Delivery Vans,5865
+2019,Punjab,Gujranwala,Gujrat,Taxis,745
+2019,Punjab,Gujranwala,Gujrat,Tractors,9318
+2019,Punjab,Gujranwala,Gujrat,Trucks,997
+2019,Punjab,Gujranwala,Hafizabad,Auto Rickshaws,278
+2019,Punjab,Gujranwala,Hafizabad,Mini Buses/Buses/Flying/Luxury Coaches,506
+2019,Punjab,Gujranwala,Hafizabad,Motor Cars/Jeeps/Station Wagons,2916
+2019,Punjab,Gujranwala,Hafizabad,Motor Cycles/Scooters,90371
+2019,Punjab,Gujranwala,Hafizabad,Other Vehicles,10
+2019,Punjab,Gujranwala,Hafizabad,Pickups/Delivery Vans,721
+2019,Punjab,Gujranwala,Hafizabad,Taxis,346
+2019,Punjab,Gujranwala,Hafizabad,Tractors,3704
+2019,Punjab,Gujranwala,Hafizabad,Trucks,165
+2019,Punjab,Faisalabad,Jhang,Auto Rickshaws,17622
+2019,Punjab,Faisalabad,Jhang,Mini Buses/Buses/Flying/Luxury Coaches,1542
+2019,Punjab,Faisalabad,Jhang,Motor Cars/Jeeps/Station Wagons,5306
+2019,Punjab,Faisalabad,Jhang,Motor Cycles/Scooters,203866
+2019,Punjab,Faisalabad,Jhang,Other Vehicles,24
+2019,Punjab,Faisalabad,Jhang,Pickups/Delivery Vans,1888
+2019,Punjab,Faisalabad,Jhang,Taxis,755
+2019,Punjab,Faisalabad,Jhang,Tractors,10916
+2019,Punjab,Faisalabad,Jhang,Trucks,1422
+2019,Punjab,Rawalpindi,Jhelum,Auto Rickshaws,17462
+2019,Punjab,Rawalpindi,Jhelum,Mini Buses/Buses/Flying/Luxury Coaches,1516
+2019,Punjab,Rawalpindi,Jhelum,Motor Cars/Jeeps/Station Wagons,11852
+2019,Punjab,Rawalpindi,Jhelum,Motor Cycles/Scooters,209402
+2019,Punjab,Rawalpindi,Jhelum,Other Vehicles,40
+2019,Punjab,Rawalpindi,Jhelum,Pickups/Delivery Vans,3829
+2019,Punjab,Rawalpindi,Jhelum,Taxis,272
+2019,Punjab,Rawalpindi,Jhelum,Tractors,4752
+2019,Punjab,Rawalpindi,Jhelum,Trucks,440
+2019,Punjab,Lahore,Kasur,Auto Rickshaws,380
+2019,Punjab,Lahore,Kasur,Mini Buses/Buses/Flying/Luxury Coaches,1082
+2019,Punjab,Lahore,Kasur,Motor Cars/Jeeps/Station Wagons,2439
+2019,Punjab,Lahore,Kasur,Motor Cycles/Scooters,20725
+2019,Punjab,Lahore,Kasur,Other Vehicles,31
+2019,Punjab,Lahore,Kasur,Pickups/Delivery Vans,2468
+2019,Punjab,Lahore,Kasur,Taxis,505
+2019,Punjab,Lahore,Kasur,Tractors,17358
+2019,Punjab,Lahore,Kasur,Trucks,1452
+2019,Punjab,Multan,Khanewal,Auto Rickshaws,631
+2019,Punjab,Multan,Khanewal,Mini Buses/Buses/Flying/Luxury Coaches,965
+2019,Punjab,Multan,Khanewal,Motor Cars/Jeeps/Station Wagons,7976
+2019,Punjab,Multan,Khanewal,Motor Cycles/Scooters,236515
+2019,Punjab,Multan,Khanewal,Other Vehicles,23
+2019,Punjab,Multan,Khanewal,Pickups/Delivery Vans,2157
+2019,Punjab,Multan,Khanewal,Taxis,1168
+2019,Punjab,Multan,Khanewal,Tractors,12015
+2019,Punjab,Multan,Khanewal,Trucks,709
+2019,Punjab,Sargodha,Khushab,Auto Rickshaws,13424
+2019,Punjab,Sargodha,Khushab,Mini Buses/Buses/Flying/Luxury Coaches,1242
+2019,Punjab,Sargodha,Khushab,Motor Cars/Jeeps/Station Wagons,5386
+2019,Punjab,Sargodha,Khushab,Motor Cycles/Scooters,113534
+2019,Punjab,Sargodha,Khushab,Other Vehicles,25
+2019,Punjab,Sargodha,Khushab,Pickups/Delivery Vans,1901
+2019,Punjab,Sargodha,Khushab,Taxis,368
+2019,Punjab,Sargodha,Khushab,Tractors,7114
+2019,Punjab,Sargodha,Khushab,Trucks,1705
+2019,Punjab,Lahore,Lahore,Auto Rickshaws,190949
+2019,Punjab,Lahore,Lahore,Mini Buses/Buses/Flying/Luxury Coaches,57008
+2019,Punjab,Lahore,Lahore,Motor Cars/Jeeps/Station Wagons,1141474
+2019,Punjab,Lahore,Lahore,Motor Cycles/Scooters,4111767
+2019,Punjab,Lahore,Lahore,Other Vehicles,5098
+2019,Punjab,Lahore,Lahore,Pickups/Delivery Vans,92873
+2019,Punjab,Lahore,Lahore,Taxis,16445
+2019,Punjab,Lahore,Lahore,Tractors,56193
+2019,Punjab,Lahore,Lahore,Trucks,31199
+2019,Punjab,D.G.Khan,Layyah,Auto Rickshaws,8964
+2019,Punjab,D.G.Khan,Layyah,Mini Buses/Buses/Flying/Luxury Coaches,1089
+2019,Punjab,D.G.Khan,Layyah,Motor Cars/Jeeps/Station Wagons,4961
+2019,Punjab,D.G.Khan,Layyah,Motor Cycles/Scooters,171302
+2019,Punjab,D.G.Khan,Layyah,Other Vehicles,32
+2019,Punjab,D.G.Khan,Layyah,Pickups/Delivery Vans,2109
+2019,Punjab,D.G.Khan,Layyah,Taxis,921
+2019,Punjab,D.G.Khan,Layyah,Tractors,12544
+2019,Punjab,D.G.Khan,Layyah,Trucks,465
+2019,Punjab,Multan,Lodhran,Auto Rickshaws,501
+2019,Punjab,Multan,Lodhran,Mini Buses/Buses/Flying/Luxury Coaches,314
+2019,Punjab,Multan,Lodhran,Motor Cars/Jeeps/Station Wagons,4178
+2019,Punjab,Multan,Lodhran,Motor Cycles/Scooters,62466
+2019,Punjab,Multan,Lodhran,Other Vehicles,16
+2019,Punjab,Multan,Lodhran,Pickups/Delivery Vans,772
+2019,Punjab,Multan,Lodhran,Taxis,537
+2019,Punjab,Multan,Lodhran,Tractors,7031
+2019,Punjab,Multan,Lodhran,Trucks,307
+2019,Punjab,Gujranwala,M.B.Din,Auto Rickshaws,3401
+2019,Punjab,Gujranwala,M.B.Din,Mini Buses/Buses/Flying/Luxury Coaches,936
+2019,Punjab,Gujranwala,M.B.Din,Motor Cars/Jeeps/Station Wagons,7839
+2019,Punjab,Gujranwala,M.B.Din,Motor Cycles/Scooters,147029
+2019,Punjab,Gujranwala,M.B.Din,Other Vehicles,28
+2019,Punjab,Gujranwala,M.B.Din,Pickups/Delivery Vans,1948
+2019,Punjab,Gujranwala,M.B.Din,Taxis,350
+2019,Punjab,Gujranwala,M.B.Din,Tractors,6517
+2019,Punjab,Gujranwala,M.B.Din,Trucks,311
+2019,Punjab,Sargodha,Mianwali,Auto Rickshaws,8429
+2019,Punjab,Sargodha,Mianwali,Mini Buses/Buses/Flying/Luxury Coaches,1646
+2019,Punjab,Sargodha,Mianwali,Motor Cars/Jeeps/Station Wagons,5433
+2019,Punjab,Sargodha,Mianwali,Motor Cycles/Scooters,175028
+2019,Punjab,Sargodha,Mianwali,Other Vehicles,34
+2019,Punjab,Sargodha,Mianwali,Pickups/Delivery Vans,4537
+2019,Punjab,Sargodha,Mianwali,Taxis,542
+2019,Punjab,Sargodha,Mianwali,Tractors,9301
+2019,Punjab,Sargodha,Mianwali,Trucks,866
+2019,Punjab,Multan,Multan,Auto Rickshaws,19983
+2019,Punjab,Multan,Multan,Mini Buses/Buses/Flying/Luxury Coaches,4960
+2019,Punjab,Multan,Multan,Motor Cars/Jeeps/Station Wagons,103977
+2019,Punjab,Multan,Multan,Motor Cycles/Scooters,1180539
+2019,Punjab,Multan,Multan,Other Vehicles,161
+2019,Punjab,Multan,Multan,Pickups/Delivery Vans,14327
+2019,Punjab,Multan,Multan,Taxis,4532
+2019,Punjab,Multan,Multan,Tractors,18127
+2019,Punjab,Multan,Multan,Trucks,5321
+2019,Punjab,D.G.Khan,Muzaffargarh,Auto Rickshaws,669
+2019,Punjab,D.G.Khan,Muzaffargarh,Mini Buses/Buses/Flying/Luxury Coaches,512
+2019,Punjab,D.G.Khan,Muzaffargarh,Motor Cars/Jeeps/Station Wagons,4373
+2019,Punjab,D.G.Khan,Muzaffargarh,Motor Cycles/Scooters,138540
+2019,Punjab,D.G.Khan,Muzaffargarh,Other Vehicles,35
+2019,Punjab,D.G.Khan,Muzaffargarh,Pickups/Delivery Vans,1617
+2019,Punjab,D.G.Khan,Muzaffargarh,Taxis,964
+2019,Punjab,D.G.Khan,Muzaffargarh,Tractors,10089
+2019,Punjab,D.G.Khan,Muzaffargarh,Trucks,1642
+2019,Punjab,Lahore,Nankana Sahib,Auto Rickshaws,131
+2019,Punjab,Lahore,Nankana Sahib,Mini Buses/Buses/Flying/Luxury Coaches,464
+2019,Punjab,Lahore,Nankana Sahib,Motor Cars/Jeeps/Station Wagons,3499
+2019,Punjab,Lahore,Nankana Sahib,Motor Cycles/Scooters,30623
+2019,Punjab,Lahore,Nankana Sahib,Other Vehicles,18
+2019,Punjab,Lahore,Nankana Sahib,Pickups/Delivery Vans,754
+2019,Punjab,Lahore,Nankana Sahib,Taxis,437
+2019,Punjab,Lahore,Nankana Sahib,Tractors,2020
+2019,Punjab,Lahore,Nankana Sahib,Trucks,419
+2019,Punjab,Gujranwala,Narowal,Auto Rickshaws,2311
+2019,Punjab,Gujranwala,Narowal,Mini Buses/Buses/Flying/Luxury Coaches,552
+2019,Punjab,Gujranwala,Narowal,Motor Cars/Jeeps/Station Wagons,1703
+2019,Punjab,Gujranwala,Narowal,Motor Cycles/Scooters,46543
+2019,Punjab,Gujranwala,Narowal,Other Vehicles,16
+2019,Punjab,Gujranwala,Narowal,Pickups/Delivery Vans,1052
+2019,Punjab,Gujranwala,Narowal,Taxis,341
+2019,Punjab,Gujranwala,Narowal,Tractors,9886
+2019,Punjab,Gujranwala,Narowal,Trucks,286
+2019,Punjab,Sahiwal,Okara,Auto Rickshaws,3879
+2019,Punjab,Sahiwal,Okara,Mini Buses/Buses/Flying/Luxury Coaches,1216
+2019,Punjab,Sahiwal,Okara,Motor Cars/Jeeps/Station Wagons,7800
+2019,Punjab,Sahiwal,Okara,Motor Cycles/Scooters,303553
+2019,Punjab,Sahiwal,Okara,Other Vehicles,48
+2019,Punjab,Sahiwal,Okara,Pickups/Delivery Vans,3170
+2019,Punjab,Sahiwal,Okara,Taxis,886
+2019,Punjab,Sahiwal,Okara,Tractors,13672
+2019,Punjab,Sahiwal,Okara,Trucks,1674
+2019,Punjab,Sahiwal,Pakpattan,Auto Rickshaws,336
+2019,Punjab,Sahiwal,Pakpattan,Mini Buses/Buses/Flying/Luxury Coaches,627
+2019,Punjab,Sahiwal,Pakpattan,Motor Cars/Jeeps/Station Wagons,4116
+2019,Punjab,Sahiwal,Pakpattan,Motor Cycles/Scooters,105365
+2019,Punjab,Sahiwal,Pakpattan,Other Vehicles,25
+2019,Punjab,Sahiwal,Pakpattan,Pickups/Delivery Vans,1350
+2019,Punjab,Sahiwal,Pakpattan,Taxis,478
+2019,Punjab,Sahiwal,Pakpattan,Tractors,10515
+2019,Punjab,Sahiwal,Pakpattan,Trucks,459
+2019,Punjab,Bahawalpur,R.Y.Khan,Auto Rickshaws,521
+2019,Punjab,Bahawalpur,R.Y.Khan,Mini Buses/Buses/Flying/Luxury Coaches,1615
+2019,Punjab,Bahawalpur,R.Y.Khan,Motor Cars/Jeeps/Station Wagons,14648
+2019,Punjab,Bahawalpur,R.Y.Khan,Motor Cycles/Scooters,726710
+2019,Punjab,Bahawalpur,R.Y.Khan,Other Vehicles,70
+2019,Punjab,Bahawalpur,R.Y.Khan,Pickups/Delivery Vans,4206
+2019,Punjab,Bahawalpur,R.Y.Khan,Taxis,1692
+2019,Punjab,Bahawalpur,R.Y.Khan,Tractors,25659
+2019,Punjab,Bahawalpur,R.Y.Khan,Trucks,1006
+2019,Punjab,D.G.Khan,Rajanpur,Auto Rickshaws,4
+2019,Punjab,D.G.Khan,Rajanpur,Mini Buses/Buses/Flying/Luxury Coaches,159
+2019,Punjab,D.G.Khan,Rajanpur,Motor Cars/Jeeps/Station Wagons,892
+2019,Punjab,D.G.Khan,Rajanpur,Motor Cycles/Scooters,26210
+2019,Punjab,D.G.Khan,Rajanpur,Other Vehicles,22
+2019,Punjab,D.G.Khan,Rajanpur,Pickups/Delivery Vans,489
+2019,Punjab,D.G.Khan,Rajanpur,Taxis,334
+2019,Punjab,D.G.Khan,Rajanpur,Tractors,3481
+2019,Punjab,D.G.Khan,Rajanpur,Trucks,60
+2019,Punjab,Rawalpindi,Rawalpindi,Auto Rickshaws,31368
+2019,Punjab,Rawalpindi,Rawalpindi,Mini Buses/Buses/Flying/Luxury Coaches,15821
+2019,Punjab,Rawalpindi,Rawalpindi,Motor Cars/Jeeps/Station Wagons,149143
+2019,Punjab,Rawalpindi,Rawalpindi,Motor Cycles/Scooters,827026
+2019,Punjab,Rawalpindi,Rawalpindi,Other Vehicles,460
+2019,Punjab,Rawalpindi,Rawalpindi,Pickups/Delivery Vans,55246
+2019,Punjab,Rawalpindi,Rawalpindi,Taxis,15083
+2019,Punjab,Rawalpindi,Rawalpindi,Tractors,4145
+2019,Punjab,Rawalpindi,Rawalpindi,Trucks,7137
+2019,Punjab,Sahiwal,Sahiwal,Auto Rickshaws,2995
+2019,Punjab,Sahiwal,Sahiwal,Mini Buses/Buses/Flying/Luxury Coaches,1989
+2019,Punjab,Sahiwal,Sahiwal,Motor Cars/Jeeps/Station Wagons,19163
+2019,Punjab,Sahiwal,Sahiwal,Motor Cycles/Scooters,392026
+2019,Punjab,Sahiwal,Sahiwal,Other Vehicles,39
+2019,Punjab,Sahiwal,Sahiwal,Pickups/Delivery Vans,3993
+2019,Punjab,Sahiwal,Sahiwal,Taxis,1590
+2019,Punjab,Sahiwal,Sahiwal,Tractors,31117
+2019,Punjab,Sahiwal,Sahiwal,Trucks,2277
+2019,Punjab,Sargodha,Sargodha,Auto Rickshaws,43636
+2019,Punjab,Sargodha,Sargodha,Mini Buses/Buses/Flying/Luxury Coaches,3142
+2019,Punjab,Sargodha,Sargodha,Motor Cars/Jeeps/Station Wagons,26555
+2019,Punjab,Sargodha,Sargodha,Motor Cycles/Scooters,469010
+2019,Punjab,Sargodha,Sargodha,Other Vehicles,87
+2019,Punjab,Sargodha,Sargodha,Pickups/Delivery Vans,6230
+2019,Punjab,Sargodha,Sargodha,Taxis,1482
+2019,Punjab,Sargodha,Sargodha,Tractors,18199
+2019,Punjab,Sargodha,Sargodha,Trucks,5666
+2019,Punjab,Lahore,Sheikhupura,Auto Rickshaws,4046
+2019,Punjab,Lahore,Sheikhupura,Mini Buses/Buses/Flying/Luxury Coaches,1976
+2019,Punjab,Lahore,Sheikhupura,Motor Cars/Jeeps/Station Wagons,7268
+2019,Punjab,Lahore,Sheikhupura,Motor Cycles/Scooters,30704
+2019,Punjab,Lahore,Sheikhupura,Other Vehicles,47
+2019,Punjab,Lahore,Sheikhupura,Pickups/Delivery Vans,2052
+2019,Punjab,Lahore,Sheikhupura,Taxis,625
+2019,Punjab,Lahore,Sheikhupura,Tractors,11431
+2019,Punjab,Lahore,Sheikhupura,Trucks,1693
+2019,Punjab,Gujranwala,Sialkot,Auto Rickshaws,29731
+2019,Punjab,Gujranwala,Sialkot,Mini Buses/Buses/Flying/Luxury Coaches,3711
+2019,Punjab,Gujranwala,Sialkot,Motor Cars/Jeeps/Station Wagons,31897
+2019,Punjab,Gujranwala,Sialkot,Motor Cycles/Scooters,610924
+2019,Punjab,Gujranwala,Sialkot,Other Vehicles,56
+2019,Punjab,Gujranwala,Sialkot,Pickups/Delivery Vans,8023
+2019,Punjab,Gujranwala,Sialkot,Taxis,820
+2019,Punjab,Gujranwala,Sialkot,Tractors,11024
+2019,Punjab,Gujranwala,Sialkot,Trucks,639
+2019,Punjab,Faisalabad,T.T.Singh,Auto Rickshaws,538
+2019,Punjab,Faisalabad,T.T.Singh,Mini Buses/Buses/Flying/Luxury Coaches,1165
+2019,Punjab,Faisalabad,T.T.Singh,Motor Cars/Jeeps/Station Wagons,7820
+2019,Punjab,Faisalabad,T.T.Singh,Motor Cycles/Scooters,200473
+2019,Punjab,Faisalabad,T.T.Singh,Other Vehicles,16
+2019,Punjab,Faisalabad,T.T.Singh,Pickups/Delivery Vans,2045
+2019,Punjab,Faisalabad,T.T.Singh,Taxis,735
+2019,Punjab,Faisalabad,T.T.Singh,Tractors,13288
+2019,Punjab,Faisalabad,T.T.Singh,Trucks,762
+2019,Punjab,Multan,Vehari,Auto Rickshaws,452
+2019,Punjab,Multan,Vehari,Mini Buses/Buses/Flying/Luxury Coaches,1393
+2019,Punjab,Multan,Vehari,Motor Cars/Jeeps/Station Wagons,10747
+2019,Punjab,Multan,Vehari,Motor Cycles/Scooters,343889
+2019,Punjab,Multan,Vehari,Other Vehicles,16
+2019,Punjab,Multan,Vehari,Pickups/Delivery Vans,2617
+2019,Punjab,Multan,Vehari,Taxis,1196
+2019,Punjab,Multan,Vehari,Tractors,16979
+2019,Punjab,Multan,Vehari,Trucks,966
+2020,Punjab,Rawalpindi,Attock,Auto Rickshaws,22250
+2020,Punjab,Rawalpindi,Attock,Mini Buses/Buses/Flying/Luxury Coaches,2593
+2020,Punjab,Rawalpindi,Attock,Motor Cars/Jeeps/Station Wagons,12685
+2020,Punjab,Rawalpindi,Attock,Motor Cycles/Scooters,129331
+2020,Punjab,Rawalpindi,Attock,Other Vehicles,79
+2020,Punjab,Rawalpindi,Attock,Pickups/Delivery Vans,5444
+2020,Punjab,Rawalpindi,Attock,Taxis,487
+2020,Punjab,Rawalpindi,Attock,Tractors,11113
+2020,Punjab,Rawalpindi,Attock,Trucks,1093
+2020,Punjab,Bahawalpur,Bahawalnagar,Auto Rickshaws,547
+2020,Punjab,Bahawalpur,Bahawalnagar,Mini Buses/Buses/Flying/Luxury Coaches,171
+2020,Punjab,Bahawalpur,Bahawalnagar,Motor Cars/Jeeps/Station Wagons,1611
+2020,Punjab,Bahawalpur,Bahawalnagar,Motor Cycles/Scooters,348853
+2020,Punjab,Bahawalpur,Bahawalnagar,Other Vehicles,25
+2020,Punjab,Bahawalpur,Bahawalnagar,Pickups/Delivery Vans,1946
+2020,Punjab,Bahawalpur,Bahawalnagar,Taxis,351
+2020,Punjab,Bahawalpur,Bahawalnagar,Tractors,21543
+2020,Punjab,Bahawalpur,Bahawalnagar,Trucks,100
+2020,Punjab,Bahawalpur,Bahawalpur,Auto Rickshaws,8588
+2020,Punjab,Bahawalpur,Bahawalpur,Mini Buses/Buses/Flying/Luxury Coaches,943
+2020,Punjab,Bahawalpur,Bahawalpur,Motor Cars/Jeeps/Station Wagons,21372
+2020,Punjab,Bahawalpur,Bahawalpur,Motor Cycles/Scooters,549343
+2020,Punjab,Bahawalpur,Bahawalpur,Other Vehicles,52
+2020,Punjab,Bahawalpur,Bahawalpur,Pickups/Delivery Vans,4608
+2020,Punjab,Bahawalpur,Bahawalpur,Taxis,3166
+2020,Punjab,Bahawalpur,Bahawalpur,Tractors,13940
+2020,Punjab,Bahawalpur,Bahawalpur,Trucks,708
+2020,Punjab,Sargodha,Bhakkar,Auto Rickshaws,27193
+2020,Punjab,Sargodha,Bhakkar,Mini Buses/Buses/Flying/Luxury Coaches,286
+2020,Punjab,Sargodha,Bhakkar,Motor Cars/Jeeps/Station Wagons,941
+2020,Punjab,Sargodha,Bhakkar,Motor Cycles/Scooters,144552
+2020,Punjab,Sargodha,Bhakkar,Other Vehicles,10
+2020,Punjab,Sargodha,Bhakkar,Pickups/Delivery Vans,749
+2020,Punjab,Sargodha,Bhakkar,Taxis,84
+2020,Punjab,Sargodha,Bhakkar,Tractors,9363
+2020,Punjab,Sargodha,Bhakkar,Trucks,119
+2020,Punjab,Rawalpindi,Chakwal,Auto Rickshaws,17815
+2020,Punjab,Rawalpindi,Chakwal,Mini Buses/Buses/Flying/Luxury Coaches,534
+2020,Punjab,Rawalpindi,Chakwal,Motor Cars/Jeeps/Station Wagons,1733
+2020,Punjab,Rawalpindi,Chakwal,Motor Cycles/Scooters,149777
+2020,Punjab,Rawalpindi,Chakwal,Other Vehicles,26
+2020,Punjab,Rawalpindi,Chakwal,Pickups/Delivery Vans,2110
+2020,Punjab,Rawalpindi,Chakwal,Taxis,105
+2020,Punjab,Rawalpindi,Chakwal,Tractors,7257
+2020,Punjab,Rawalpindi,Chakwal,Trucks,125
+2020,Punjab,Faisalabad,Chiniot,Auto Rickshaws,12704
+2020,Punjab,Faisalabad,Chiniot,Mini Buses/Buses/Flying/Luxury Coaches,18
+2020,Punjab,Faisalabad,Chiniot,Motor Cars/Jeeps/Station Wagons,219
+2020,Punjab,Faisalabad,Chiniot,Motor Cycles/Scooters,79503
+2020,Punjab,Faisalabad,Chiniot,Other Vehicles,9
+2020,Punjab,Faisalabad,Chiniot,Pickups/Delivery Vans,1093
+2020,Punjab,Faisalabad,Chiniot,Taxis,10
+2020,Punjab,Faisalabad,Chiniot,Tractors,1377
+2020,Punjab,Faisalabad,Chiniot,Trucks,33
+2020,Punjab,D.G.Khan,D.G.Khan,Auto Rickshaws,654
+2020,Punjab,D.G.Khan,D.G.Khan,Mini Buses/Buses/Flying/Luxury Coaches,984
+2020,Punjab,D.G.Khan,D.G.Khan,Motor Cars/Jeeps/Station Wagons,4886
+2020,Punjab,D.G.Khan,D.G.Khan,Motor Cycles/Scooters,554170
+2020,Punjab,D.G.Khan,D.G.Khan,Other Vehicles,59
+2020,Punjab,D.G.Khan,D.G.Khan,Pickups/Delivery Vans,1839
+2020,Punjab,D.G.Khan,D.G.Khan,Taxis,1530
+2020,Punjab,D.G.Khan,D.G.Khan,Tractors,25820
+2020,Punjab,D.G.Khan,D.G.Khan,Trucks,771
+2020,Punjab,Faisalabad,Faisalabad,Auto Rickshaws,23135
+2020,Punjab,Faisalabad,Faisalabad,Mini Buses/Buses/Flying/Luxury Coaches,3493
+2020,Punjab,Faisalabad,Faisalabad,Motor Cars/Jeeps/Station Wagons,71687
+2020,Punjab,Faisalabad,Faisalabad,Motor Cycles/Scooters,1373987
+2020,Punjab,Faisalabad,Faisalabad,Other Vehicles,166
+2020,Punjab,Faisalabad,Faisalabad,Pickups/Delivery Vans,16718
+2020,Punjab,Faisalabad,Faisalabad,Taxis,5050
+2020,Punjab,Faisalabad,Faisalabad,Tractors,13527
+2020,Punjab,Faisalabad,Faisalabad,Trucks,5773
+2020,Punjab,Gujranwala,Gujranwala,Auto Rickshaws,15146
+2020,Punjab,Gujranwala,Gujranwala,Mini Buses/Buses/Flying/Luxury Coaches,1733
+2020,Punjab,Gujranwala,Gujranwala,Motor Cars/Jeeps/Station Wagons,17619
+2020,Punjab,Gujranwala,Gujranwala,Motor Cycles/Scooters,818085
+2020,Punjab,Gujranwala,Gujranwala,Other Vehicles,692
+2020,Punjab,Gujranwala,Gujranwala,Pickups/Delivery Vans,7871
+2020,Punjab,Gujranwala,Gujranwala,Taxis,3441
+2020,Punjab,Gujranwala,Gujranwala,Tractors,19657
+2020,Punjab,Gujranwala,Gujranwala,Trucks,1427
+2020,Punjab,Gujranwala,Gujrat,Auto Rickshaws,12035
+2020,Punjab,Gujranwala,Gujrat,Mini Buses/Buses/Flying/Luxury Coaches,995
+2020,Punjab,Gujranwala,Gujrat,Motor Cars/Jeeps/Station Wagons,4946
+2020,Punjab,Gujranwala,Gujrat,Motor Cycles/Scooters,429949
+2020,Punjab,Gujranwala,Gujrat,Other Vehicles,69
+2020,Punjab,Gujranwala,Gujrat,Pickups/Delivery Vans,3386
+2020,Punjab,Gujranwala,Gujrat,Taxis,442
+2020,Punjab,Gujranwala,Gujrat,Tractors,10012
+2020,Punjab,Gujranwala,Gujrat,Trucks,817
+2020,Punjab,Gujranwala,Hafizabad,Auto Rickshaws,325
+2020,Punjab,Gujranwala,Hafizabad,Mini Buses/Buses/Flying/Luxury Coaches,215
+2020,Punjab,Gujranwala,Hafizabad,Motor Cars/Jeeps/Station Wagons,856
+2020,Punjab,Gujranwala,Hafizabad,Motor Cycles/Scooters,102118
+2020,Punjab,Gujranwala,Hafizabad,Other Vehicles,9
+2020,Punjab,Gujranwala,Hafizabad,Pickups/Delivery Vans,439
+2020,Punjab,Gujranwala,Hafizabad,Taxis,204
+2020,Punjab,Gujranwala,Hafizabad,Tractors,4178
+2020,Punjab,Gujranwala,Hafizabad,Trucks,107
+2020,Punjab,Faisalabad,Jhang,Auto Rickshaws,19183
+2020,Punjab,Faisalabad,Jhang,Mini Buses/Buses/Flying/Luxury Coaches,930
+2020,Punjab,Faisalabad,Jhang,Motor Cars/Jeeps/Station Wagons,2199
+2020,Punjab,Faisalabad,Jhang,Motor Cycles/Scooters,219232
+2020,Punjab,Faisalabad,Jhang,Other Vehicles,23
+2020,Punjab,Faisalabad,Jhang,Pickups/Delivery Vans,1246
+2020,Punjab,Faisalabad,Jhang,Taxis,435
+2020,Punjab,Faisalabad,Jhang,Tractors,11910
+2020,Punjab,Faisalabad,Jhang,Trucks,1183
+2020,Punjab,Rawalpindi,Jhelum,Auto Rickshaws,19239
+2020,Punjab,Rawalpindi,Jhelum,Mini Buses/Buses/Flying/Luxury Coaches,604
+2020,Punjab,Rawalpindi,Jhelum,Motor Cars/Jeeps/Station Wagons,6509
+2020,Punjab,Rawalpindi,Jhelum,Motor Cycles/Scooters,222709
+2020,Punjab,Rawalpindi,Jhelum,Other Vehicles,40
+2020,Punjab,Rawalpindi,Jhelum,Pickups/Delivery Vans,2814
+2020,Punjab,Rawalpindi,Jhelum,Taxis,294
+2020,Punjab,Rawalpindi,Jhelum,Tractors,4931
+2020,Punjab,Rawalpindi,Jhelum,Trucks,301
+2020,Punjab,Lahore,Kasur,Auto Rickshaws,412
+2020,Punjab,Lahore,Kasur,Mini Buses/Buses/Flying/Luxury Coaches,294
+2020,Punjab,Lahore,Kasur,Motor Cars/Jeeps/Station Wagons,770
+2020,Punjab,Lahore,Kasur,Motor Cycles/Scooters,21613
+2020,Punjab,Lahore,Kasur,Other Vehicles,30
+2020,Punjab,Lahore,Kasur,Pickups/Delivery Vans,1398
+2020,Punjab,Lahore,Kasur,Taxis,274
+2020,Punjab,Lahore,Kasur,Tractors,18053
+2020,Punjab,Lahore,Kasur,Trucks,500
+2020,Punjab,Multan,Khanewal,Auto Rickshaws,588
+2020,Punjab,Multan,Khanewal,Mini Buses/Buses/Flying/Luxury Coaches,84
+2020,Punjab,Multan,Khanewal,Motor Cars/Jeeps/Station Wagons,2138
+2020,Punjab,Multan,Khanewal,Motor Cycles/Scooters,256579
+2020,Punjab,Multan,Khanewal,Other Vehicles,17
+2020,Punjab,Multan,Khanewal,Pickups/Delivery Vans,451
+2020,Punjab,Multan,Khanewal,Taxis,367
+2020,Punjab,Multan,Khanewal,Tractors,11791
+2020,Punjab,Multan,Khanewal,Trucks,87
+2020,Punjab,Sargodha,Khushab,Auto Rickshaws,14558
+2020,Punjab,Sargodha,Khushab,Mini Buses/Buses/Flying/Luxury Coaches,623
+2020,Punjab,Sargodha,Khushab,Motor Cars/Jeeps/Station Wagons,644
+2020,Punjab,Sargodha,Khushab,Motor Cycles/Scooters,120117
+2020,Punjab,Sargodha,Khushab,Other Vehicles,21
+2020,Punjab,Sargodha,Khushab,Pickups/Delivery Vans,724
+2020,Punjab,Sargodha,Khushab,Taxis,19
+2020,Punjab,Sargodha,Khushab,Tractors,6637
+2020,Punjab,Sargodha,Khushab,Trucks,518
+2020,Punjab,Lahore,Lahore,Auto Rickshaws,215835
+2020,Punjab,Lahore,Lahore,Mini Buses/Buses/Flying/Luxury Coaches,63478
+2020,Punjab,Lahore,Lahore,Motor Cars/Jeeps/Station Wagons,1437602
+2020,Punjab,Lahore,Lahore,Motor Cycles/Scooters,4326173
+2020,Punjab,Lahore,Lahore,Other Vehicles,5560
+2020,Punjab,Lahore,Lahore,Pickups/Delivery Vans,121654
+2020,Punjab,Lahore,Lahore,Taxis,27590
+2020,Punjab,Lahore,Lahore,Tractors,57396
+2020,Punjab,Lahore,Lahore,Trucks,43425
+2020,Punjab,D.G.Khan,Layyah,Auto Rickshaws,9961
+2020,Punjab,D.G.Khan,Layyah,Mini Buses/Buses/Flying/Luxury Coaches,276
+2020,Punjab,D.G.Khan,Layyah,Motor Cars/Jeeps/Station Wagons,1343
+2020,Punjab,D.G.Khan,Layyah,Motor Cycles/Scooters,179217
+2020,Punjab,D.G.Khan,Layyah,Other Vehicles,32
+2020,Punjab,D.G.Khan,Layyah,Pickups/Delivery Vans,564
+2020,Punjab,D.G.Khan,Layyah,Taxis,134
+2020,Punjab,D.G.Khan,Layyah,Tractors,13123
+2020,Punjab,D.G.Khan,Layyah,Trucks,105
+2020,Punjab,Multan,Lodhran,Auto Rickshaws,483
+2020,Punjab,Multan,Lodhran,Mini Buses/Buses/Flying/Luxury Coaches,174
+2020,Punjab,Multan,Lodhran,Motor Cars/Jeeps/Station Wagons,2873
+2020,Punjab,Multan,Lodhran,Motor Cycles/Scooters,65737
+2020,Punjab,Multan,Lodhran,Other Vehicles,17
+2020,Punjab,Multan,Lodhran,Pickups/Delivery Vans,559
+2020,Punjab,Multan,Lodhran,Taxis,356
+2020,Punjab,Multan,Lodhran,Tractors,7572
+2020,Punjab,Multan,Lodhran,Trucks,256
+2020,Punjab,Gujranwala,M.B.Din,Auto Rickshaws,3786
+2020,Punjab,Gujranwala,M.B.Din,Mini Buses/Buses/Flying/Luxury Coaches,363
+2020,Punjab,Gujranwala,M.B.Din,Motor Cars/Jeeps/Station Wagons,2001
+2020,Punjab,Gujranwala,M.B.Din,Motor Cycles/Scooters,154874
+2020,Punjab,Gujranwala,M.B.Din,Other Vehicles,28
+2020,Punjab,Gujranwala,M.B.Din,Pickups/Delivery Vans,1411
+2020,Punjab,Gujranwala,M.B.Din,Taxis,220
+2020,Punjab,Gujranwala,M.B.Din,Tractors,6779
+2020,Punjab,Gujranwala,M.B.Din,Trucks,169
+2020,Punjab,Sargodha,Mianwali,Auto Rickshaws,8391
+2020,Punjab,Sargodha,Mianwali,Mini Buses/Buses/Flying/Luxury Coaches,762
+2020,Punjab,Sargodha,Mianwali,Motor Cars/Jeeps/Station Wagons,1177
+2020,Punjab,Sargodha,Mianwali,Motor Cycles/Scooters,185543
+2020,Punjab,Sargodha,Mianwali,Other Vehicles,43
+2020,Punjab,Sargodha,Mianwali,Pickups/Delivery Vans,3276
+2020,Punjab,Sargodha,Mianwali,Taxis,262
+2020,Punjab,Sargodha,Mianwali,Tractors,9298
+2020,Punjab,Sargodha,Mianwali,Trucks,750
+2020,Punjab,Multan,Multan,Auto Rickshaws,20989
+2020,Punjab,Multan,Multan,Mini Buses/Buses/Flying/Luxury Coaches,5733
+2020,Punjab,Multan,Multan,Motor Cars/Jeeps/Station Wagons,112987
+2020,Punjab,Multan,Multan,Motor Cycles/Scooters,1268382
+2020,Punjab,Multan,Multan,Other Vehicles,145
+2020,Punjab,Multan,Multan,Pickups/Delivery Vans,20150
+2020,Punjab,Multan,Multan,Taxis,10405
+2020,Punjab,Multan,Multan,Tractors,20100
+2020,Punjab,Multan,Multan,Trucks,6717
+2020,Punjab,D.G.Khan,Muzaffargarh,Auto Rickshaws,709
+2020,Punjab,D.G.Khan,Muzaffargarh,Mini Buses/Buses/Flying/Luxury Coaches,210
+2020,Punjab,D.G.Khan,Muzaffargarh,Motor Cars/Jeeps/Station Wagons,1779
+2020,Punjab,D.G.Khan,Muzaffargarh,Motor Cycles/Scooters,147557
+2020,Punjab,D.G.Khan,Muzaffargarh,Other Vehicles,34
+2020,Punjab,D.G.Khan,Muzaffargarh,Pickups/Delivery Vans,555
+2020,Punjab,D.G.Khan,Muzaffargarh,Taxis,129
+2020,Punjab,D.G.Khan,Muzaffargarh,Tractors,10868
+2020,Punjab,D.G.Khan,Muzaffargarh,Trucks,523
+2020,Punjab,Lahore,Nankana Sahib,Auto Rickshaws,47
+2020,Punjab,Lahore,Nankana Sahib,Mini Buses/Buses/Flying/Luxury Coaches,31
+2020,Punjab,Lahore,Nankana Sahib,Motor Cars/Jeeps/Station Wagons,190
+2020,Punjab,Lahore,Nankana Sahib,Motor Cycles/Scooters,31155
+2020,Punjab,Lahore,Nankana Sahib,Other Vehicles,18
+2020,Punjab,Lahore,Nankana Sahib,Pickups/Delivery Vans,124
+2020,Punjab,Lahore,Nankana Sahib,Taxis,1
+2020,Punjab,Lahore,Nankana Sahib,Tractors,1997
+2020,Punjab,Lahore,Nankana Sahib,Trucks,21
+2020,Punjab,Gujranwala,Narowal,Auto Rickshaws,2522
+2020,Punjab,Gujranwala,Narowal,Mini Buses/Buses/Flying/Luxury Coaches,44
+2020,Punjab,Gujranwala,Narowal,Motor Cars/Jeeps/Station Wagons,239
+2020,Punjab,Gujranwala,Narowal,Motor Cycles/Scooters,48890
+2020,Punjab,Gujranwala,Narowal,Other Vehicles,17
+2020,Punjab,Gujranwala,Narowal,Pickups/Delivery Vans,307
+2020,Punjab,Gujranwala,Narowal,Taxis,1
+2020,Punjab,Gujranwala,Narowal,Tractors,10370
+2020,Punjab,Gujranwala,Narowal,Trucks,16
+2020,Punjab,Sahiwal,Okara,Auto Rickshaws,3339
+2020,Punjab,Sahiwal,Okara,Mini Buses/Buses/Flying/Luxury Coaches,260
+2020,Punjab,Sahiwal,Okara,Motor Cars/Jeeps/Station Wagons,2772
+2020,Punjab,Sahiwal,Okara,Motor Cycles/Scooters,318733
+2020,Punjab,Sahiwal,Okara,Other Vehicles,45
+2020,Punjab,Sahiwal,Okara,Pickups/Delivery Vans,1440
+2020,Punjab,Sahiwal,Okara,Taxis,165
+2020,Punjab,Sahiwal,Okara,Tractors,14770
+2020,Punjab,Sahiwal,Okara,Trucks,580
+2020,Punjab,Sahiwal,Pakpattan,Auto Rickshaws,247
+2020,Punjab,Sahiwal,Pakpattan,Mini Buses/Buses/Flying/Luxury Coaches,122
+2020,Punjab,Sahiwal,Pakpattan,Motor Cars/Jeeps/Station Wagons,898
+2020,Punjab,Sahiwal,Pakpattan,Motor Cycles/Scooters,111160
+2020,Punjab,Sahiwal,Pakpattan,Other Vehicles,23
+2020,Punjab,Sahiwal,Pakpattan,Pickups/Delivery Vans,490
+2020,Punjab,Sahiwal,Pakpattan,Taxis,9
+2020,Punjab,Sahiwal,Pakpattan,Tractors,10421
+2020,Punjab,Sahiwal,Pakpattan,Trucks,38
+2020,Punjab,Bahawalpur,R.Y.Khan,Auto Rickshaws,489
+2020,Punjab,Bahawalpur,R.Y.Khan,Mini Buses/Buses/Flying/Luxury Coaches,1143
+2020,Punjab,Bahawalpur,R.Y.Khan,Motor Cars/Jeeps/Station Wagons,15080
+2020,Punjab,Bahawalpur,R.Y.Khan,Motor Cycles/Scooters,770413
+2020,Punjab,Bahawalpur,R.Y.Khan,Other Vehicles,65
+2020,Punjab,Bahawalpur,R.Y.Khan,Pickups/Delivery Vans,3873
+2020,Punjab,Bahawalpur,R.Y.Khan,Taxis,425
+2020,Punjab,Bahawalpur,R.Y.Khan,Tractors,26780
+2020,Punjab,Bahawalpur,R.Y.Khan,Trucks,779
+2020,Punjab,D.G.Khan,Rajanpur,Auto Rickshaws,4
+2020,Punjab,D.G.Khan,Rajanpur,Mini Buses/Buses/Flying/Luxury Coaches,99
+2020,Punjab,D.G.Khan,Rajanpur,Motor Cars/Jeeps/Station Wagons,513
+2020,Punjab,D.G.Khan,Rajanpur,Motor Cycles/Scooters,27146
+2020,Punjab,D.G.Khan,Rajanpur,Other Vehicles,22
+2020,Punjab,D.G.Khan,Rajanpur,Pickups/Delivery Vans,323
+2020,Punjab,D.G.Khan,Rajanpur,Taxis,190
+2020,Punjab,D.G.Khan,Rajanpur,Tractors,3746
+2020,Punjab,D.G.Khan,Rajanpur,Trucks,37
+2020,Punjab,Rawalpindi,Rawalpindi,Auto Rickshaws,31959
+2020,Punjab,Rawalpindi,Rawalpindi,Mini Buses/Buses/Flying/Luxury Coaches,14395
+2020,Punjab,Rawalpindi,Rawalpindi,Motor Cars/Jeeps/Station Wagons,105238
+2020,Punjab,Rawalpindi,Rawalpindi,Motor Cycles/Scooters,884107
+2020,Punjab,Rawalpindi,Rawalpindi,Other Vehicles,454
+2020,Punjab,Rawalpindi,Rawalpindi,Pickups/Delivery Vans,55430
+2020,Punjab,Rawalpindi,Rawalpindi,Taxis,8122
+2020,Punjab,Rawalpindi,Rawalpindi,Tractors,3814
+2020,Punjab,Rawalpindi,Rawalpindi,Trucks,9183
+2020,Punjab,Sahiwal,Sahiwal,Auto Rickshaws,1092
+2020,Punjab,Sahiwal,Sahiwal,Mini Buses/Buses/Flying/Luxury Coaches,528
+2020,Punjab,Sahiwal,Sahiwal,Motor Cars/Jeeps/Station Wagons,9111
+2020,Punjab,Sahiwal,Sahiwal,Motor Cycles/Scooters,417076
+2020,Punjab,Sahiwal,Sahiwal,Other Vehicles,40
+2020,Punjab,Sahiwal,Sahiwal,Pickups/Delivery Vans,2840
+2020,Punjab,Sahiwal,Sahiwal,Taxis,1955
+2020,Punjab,Sahiwal,Sahiwal,Tractors,34109
+2020,Punjab,Sahiwal,Sahiwal,Trucks,1065
+2020,Punjab,Sargodha,Sargodha,Auto Rickshaws,43600
+2020,Punjab,Sargodha,Sargodha,Mini Buses/Buses/Flying/Luxury Coaches,1799
+2020,Punjab,Sargodha,Sargodha,Motor Cars/Jeeps/Station Wagons,7868
+2020,Punjab,Sargodha,Sargodha,Motor Cycles/Scooters,493409
+2020,Punjab,Sargodha,Sargodha,Other Vehicles,73
+2020,Punjab,Sargodha,Sargodha,Pickups/Delivery Vans,4238
+2020,Punjab,Sargodha,Sargodha,Taxis,1843
+2020,Punjab,Sargodha,Sargodha,Tractors,18199
+2020,Punjab,Sargodha,Sargodha,Trucks,2744
+2020,Punjab,Lahore,Sheikhupura,Auto Rickshaws,2084
+2020,Punjab,Lahore,Sheikhupura,Mini Buses/Buses/Flying/Luxury Coaches,481
+2020,Punjab,Lahore,Sheikhupura,Motor Cars/Jeeps/Station Wagons,1938
+2020,Punjab,Lahore,Sheikhupura,Motor Cycles/Scooters,32166
+2020,Punjab,Lahore,Sheikhupura,Other Vehicles,45
+2020,Punjab,Lahore,Sheikhupura,Pickups/Delivery Vans,948
+2020,Punjab,Lahore,Sheikhupura,Taxis,342
+2020,Punjab,Lahore,Sheikhupura,Tractors,13147
+2020,Punjab,Lahore,Sheikhupura,Trucks,1177
+2020,Punjab,Gujranwala,Sialkot,Auto Rickshaws,30813
+2020,Punjab,Gujranwala,Sialkot,Mini Buses/Buses/Flying/Luxury Coaches,2032
+2020,Punjab,Gujranwala,Sialkot,Motor Cars/Jeeps/Station Wagons,25063
+2020,Punjab,Gujranwala,Sialkot,Motor Cycles/Scooters,655452
+2020,Punjab,Gujranwala,Sialkot,Other Vehicles,62
+2020,Punjab,Gujranwala,Sialkot,Pickups/Delivery Vans,7463
+2020,Punjab,Gujranwala,Sialkot,Taxis,449
+2020,Punjab,Gujranwala,Sialkot,Tractors,12095
+2020,Punjab,Gujranwala,Sialkot,Trucks,427
+2020,Punjab,Faisalabad,T.T.Singh,Auto Rickshaws,390
+2020,Punjab,Faisalabad,T.T.Singh,Mini Buses/Buses/Flying/Luxury Coaches,185
+2020,Punjab,Faisalabad,T.T.Singh,Motor Cars/Jeeps/Station Wagons,1291
+2020,Punjab,Faisalabad,T.T.Singh,Motor Cycles/Scooters,210786
+2020,Punjab,Faisalabad,T.T.Singh,Other Vehicles,17
+2020,Punjab,Faisalabad,T.T.Singh,Pickups/Delivery Vans,535
+2020,Punjab,Faisalabad,T.T.Singh,Taxis,125
+2020,Punjab,Faisalabad,T.T.Singh,Tractors,12449
+2020,Punjab,Faisalabad,T.T.Singh,Trucks,105
+2020,Punjab,Multan,Vehari,Auto Rickshaws,479
+2020,Punjab,Multan,Vehari,Mini Buses/Buses/Flying/Luxury Coaches,315
+2020,Punjab,Multan,Vehari,Motor Cars/Jeeps/Station Wagons,3474
+2020,Punjab,Multan,Vehari,Motor Cycles/Scooters,360788
+2020,Punjab,Multan,Vehari,Other Vehicles,8
+2020,Punjab,Multan,Vehari,Pickups/Delivery Vans,641
+2020,Punjab,Multan,Vehari,Taxis,801
+2020,Punjab,Multan,Vehari,Tractors,17964
+2020,Punjab,Multan,Vehari,Trucks,196
+2021,Punjab,Rawalpindi,Attock,Auto Rickshaws,22666
+2021,Punjab,Rawalpindi,Attock,Mini Buses/Buses/Flying/Luxury Coaches,2597
+2021,Punjab,Rawalpindi,Attock,Motor Cars/Jeeps/Station Wagons,12741
+2021,Punjab,Rawalpindi,Attock,Motor Cycles/Scooters,140325
+2021,Punjab,Rawalpindi,Attock,Other Vehicles,79
+2021,Punjab,Rawalpindi,Attock,Pickups/Delivery Vans,5460
+2021,Punjab,Rawalpindi,Attock,Taxis,487
+2021,Punjab,Rawalpindi,Attock,Tractors,11458
+2021,Punjab,Rawalpindi,Attock,Trucks,1093
+2021,Punjab,Bahawalpur,Bahawalnagar,Auto Rickshaws,549
+2021,Punjab,Bahawalpur,Bahawalnagar,Mini Buses/Buses/Flying/Luxury Coaches,171
+2021,Punjab,Bahawalpur,Bahawalnagar,Motor Cars/Jeeps/Station Wagons,2285
+2021,Punjab,Bahawalpur,Bahawalnagar,Motor Cycles/Scooters,379501
+2021,Punjab,Bahawalpur,Bahawalnagar,Other Vehicles,25
+2021,Punjab,Bahawalpur,Bahawalnagar,Pickups/Delivery Vans,1958
+2021,Punjab,Bahawalpur,Bahawalnagar,Taxis,351
+2021,Punjab,Bahawalpur,Bahawalnagar,Tractors,23062
+2021,Punjab,Bahawalpur,Bahawalnagar,Trucks,102
+2021,Punjab,Bahawalpur,Bahawalpur,Auto Rickshaws,9182
+2021,Punjab,Bahawalpur,Bahawalpur,Mini Buses/Buses/Flying/Luxury Coaches,948
+2021,Punjab,Bahawalpur,Bahawalpur,Motor Cars/Jeeps/Station Wagons,22479
+2021,Punjab,Bahawalpur,Bahawalpur,Motor Cycles/Scooters,597339
+2021,Punjab,Bahawalpur,Bahawalpur,Other Vehicles,52
+2021,Punjab,Bahawalpur,Bahawalpur,Pickups/Delivery Vans,4698
+2021,Punjab,Bahawalpur,Bahawalpur,Taxis,3166
+2021,Punjab,Bahawalpur,Bahawalpur,Tractors,14500
+2021,Punjab,Bahawalpur,Bahawalpur,Trucks,716
+2021,Punjab,Sargodha,Bhakkar,Auto Rickshaws,27261
+2021,Punjab,Sargodha,Bhakkar,Mini Buses/Buses/Flying/Luxury Coaches,287
+2021,Punjab,Sargodha,Bhakkar,Motor Cars/Jeeps/Station Wagons,1019
+2021,Punjab,Sargodha,Bhakkar,Motor Cycles/Scooters,155134
+2021,Punjab,Sargodha,Bhakkar,Other Vehicles,10
+2021,Punjab,Sargodha,Bhakkar,Pickups/Delivery Vans,754
+2021,Punjab,Sargodha,Bhakkar,Taxis,84
+2021,Punjab,Sargodha,Bhakkar,Tractors,9661
+2021,Punjab,Sargodha,Bhakkar,Trucks,119
+2021,Punjab,Rawalpindi,Chakwal,Auto Rickshaws,19322
+2021,Punjab,Rawalpindi,Chakwal,Mini Buses/Buses/Flying/Luxury Coaches,542
+2021,Punjab,Rawalpindi,Chakwal,Motor Cars/Jeeps/Station Wagons,1798
+2021,Punjab,Rawalpindi,Chakwal,Motor Cycles/Scooters,160513
+2021,Punjab,Rawalpindi,Chakwal,Other Vehicles,28
+2021,Punjab,Rawalpindi,Chakwal,Pickups/Delivery Vans,2200
+2021,Punjab,Rawalpindi,Chakwal,Taxis,105
+2021,Punjab,Rawalpindi,Chakwal,Tractors,7978
+2021,Punjab,Rawalpindi,Chakwal,Trucks,128
+2021,Punjab,Faisalabad,Chiniot,Auto Rickshaws,15373
+2021,Punjab,Faisalabad,Chiniot,Mini Buses/Buses/Flying/Luxury Coaches,29
+2021,Punjab,Faisalabad,Chiniot,Motor Cars/Jeeps/Station Wagons,587
+2021,Punjab,Faisalabad,Chiniot,Motor Cycles/Scooters,95057
+2021,Punjab,Faisalabad,Chiniot,Other Vehicles,13
+2021,Punjab,Faisalabad,Chiniot,Pickups/Delivery Vans,1270
+2021,Punjab,Faisalabad,Chiniot,Taxis,10
+2021,Punjab,Faisalabad,Chiniot,Tractors,1613
+2021,Punjab,Faisalabad,Chiniot,Trucks,61
+2021,Punjab,D.G.Khan,D.G.Khan,Auto Rickshaws,654
+2021,Punjab,D.G.Khan,D.G.Khan,Mini Buses/Buses/Flying/Luxury Coaches,987
+2021,Punjab,D.G.Khan,D.G.Khan,Motor Cars/Jeeps/Station Wagons,5723
+2021,Punjab,D.G.Khan,D.G.Khan,Motor Cycles/Scooters,584173
+2021,Punjab,D.G.Khan,D.G.Khan,Other Vehicles,59
+2021,Punjab,D.G.Khan,D.G.Khan,Pickups/Delivery Vans,1896
+2021,Punjab,D.G.Khan,D.G.Khan,Taxis,1530
+2021,Punjab,D.G.Khan,D.G.Khan,Tractors,26710
+2021,Punjab,D.G.Khan,D.G.Khan,Trucks,774
+2021,Punjab,Faisalabad,Faisalabad,Auto Rickshaws,23568
+2021,Punjab,Faisalabad,Faisalabad,Mini Buses/Buses/Flying/Luxury Coaches,3527
+2021,Punjab,Faisalabad,Faisalabad,Motor Cars/Jeeps/Station Wagons,75579
+2021,Punjab,Faisalabad,Faisalabad,Motor Cycles/Scooters,1488684
+2021,Punjab,Faisalabad,Faisalabad,Other Vehicles,168
+2021,Punjab,Faisalabad,Faisalabad,Pickups/Delivery Vans,17038
+2021,Punjab,Faisalabad,Faisalabad,Taxis,5055
+2021,Punjab,Faisalabad,Faisalabad,Tractors,13850
+2021,Punjab,Faisalabad,Faisalabad,Trucks,5788
+2021,Punjab,Gujranwala,Gujranwala,Auto Rickshaws,15164
+2021,Punjab,Gujranwala,Gujranwala,Mini Buses/Buses/Flying/Luxury Coaches,1737
+2021,Punjab,Gujranwala,Gujranwala,Motor Cars/Jeeps/Station Wagons,19295
+2021,Punjab,Gujranwala,Gujranwala,Motor Cycles/Scooters,876284
+2021,Punjab,Gujranwala,Gujranwala,Other Vehicles,693
+2021,Punjab,Gujranwala,Gujranwala,Pickups/Delivery Vans,8030
+2021,Punjab,Gujranwala,Gujranwala,Taxis,3441
+2021,Punjab,Gujranwala,Gujranwala,Tractors,19923
+2021,Punjab,Gujranwala,Gujranwala,Trucks,1464
+2021,Punjab,Gujranwala,Gujrat,Auto Rickshaws,12187
+2021,Punjab,Gujranwala,Gujrat,Mini Buses/Buses/Flying/Luxury Coaches,998
+2021,Punjab,Gujranwala,Gujrat,Motor Cars/Jeeps/Station Wagons,5528
+2021,Punjab,Gujranwala,Gujrat,Motor Cycles/Scooters,477949
+2021,Punjab,Gujranwala,Gujrat,Other Vehicles,69
+2021,Punjab,Gujranwala,Gujrat,Pickups/Delivery Vans,3494
+2021,Punjab,Gujranwala,Gujrat,Taxis,442
+2021,Punjab,Gujranwala,Gujrat,Tractors,10585
+2021,Punjab,Gujranwala,Gujrat,Trucks,821
+2021,Punjab,Gujranwala,Hafizabad,Auto Rickshaws,331
+2021,Punjab,Gujranwala,Hafizabad,Mini Buses/Buses/Flying/Luxury Coaches,218
+2021,Punjab,Gujranwala,Hafizabad,Motor Cars/Jeeps/Station Wagons,1009
+2021,Punjab,Gujranwala,Hafizabad,Motor Cycles/Scooters,122108
+2021,Punjab,Gujranwala,Hafizabad,Other Vehicles,9
+2021,Punjab,Gujranwala,Hafizabad,Pickups/Delivery Vans,443
+2021,Punjab,Gujranwala,Hafizabad,Taxis,204
+2021,Punjab,Gujranwala,Hafizabad,Tractors,4379
+2021,Punjab,Gujranwala,Hafizabad,Trucks,108
+2021,Punjab,Faisalabad,Jhang,Auto Rickshaws,20243
+2021,Punjab,Faisalabad,Jhang,Mini Buses/Buses/Flying/Luxury Coaches,937
+2021,Punjab,Faisalabad,Jhang,Motor Cars/Jeeps/Station Wagons,2491
+2021,Punjab,Faisalabad,Jhang,Motor Cycles/Scooters,246493
+2021,Punjab,Faisalabad,Jhang,Other Vehicles,23
+2021,Punjab,Faisalabad,Jhang,Pickups/Delivery Vans,1302
+2021,Punjab,Faisalabad,Jhang,Taxis,435
+2021,Punjab,Faisalabad,Jhang,Tractors,12528
+2021,Punjab,Faisalabad,Jhang,Trucks,1186
+2021,Punjab,Rawalpindi,Jhelum,Auto Rickshaws,20149
+2021,Punjab,Rawalpindi,Jhelum,Mini Buses/Buses/Flying/Luxury Coaches,606
+2021,Punjab,Rawalpindi,Jhelum,Motor Cars/Jeeps/Station Wagons,6617
+2021,Punjab,Rawalpindi,Jhelum,Motor Cycles/Scooters,243516
+2021,Punjab,Rawalpindi,Jhelum,Other Vehicles,40
+2021,Punjab,Rawalpindi,Jhelum,Pickups/Delivery Vans,2916
+2021,Punjab,Rawalpindi,Jhelum,Taxis,294
+2021,Punjab,Rawalpindi,Jhelum,Tractors,5448
+2021,Punjab,Rawalpindi,Jhelum,Trucks,302
+2021,Punjab,Lahore,Kasur,Auto Rickshaws,414
+2021,Punjab,Lahore,Kasur,Mini Buses/Buses/Flying/Luxury Coaches,294
+2021,Punjab,Lahore,Kasur,Motor Cars/Jeeps/Station Wagons,889
+2021,Punjab,Lahore,Kasur,Motor Cycles/Scooters,29939
+2021,Punjab,Lahore,Kasur,Other Vehicles,31
+2021,Punjab,Lahore,Kasur,Pickups/Delivery Vans,1447
+2021,Punjab,Lahore,Kasur,Taxis,274
+2021,Punjab,Lahore,Kasur,Tractors,18488
+2021,Punjab,Lahore,Kasur,Trucks,546
+2021,Punjab,Multan,Khanewal,Auto Rickshaws,590
+2021,Punjab,Multan,Khanewal,Mini Buses/Buses/Flying/Luxury Coaches,87
+2021,Punjab,Multan,Khanewal,Motor Cars/Jeeps/Station Wagons,2387
+2021,Punjab,Multan,Khanewal,Motor Cycles/Scooters,281801
+2021,Punjab,Multan,Khanewal,Other Vehicles,17
+2021,Punjab,Multan,Khanewal,Pickups/Delivery Vans,458
+2021,Punjab,Multan,Khanewal,Taxis,367
+2021,Punjab,Multan,Khanewal,Tractors,12170
+2021,Punjab,Multan,Khanewal,Trucks,89
+2021,Punjab,Sargodha,Khushab,Auto Rickshaws,15246
+2021,Punjab,Sargodha,Khushab,Mini Buses/Buses/Flying/Luxury Coaches,627
+2021,Punjab,Sargodha,Khushab,Motor Cars/Jeeps/Station Wagons,760
+2021,Punjab,Sargodha,Khushab,Motor Cycles/Scooters,132323
+2021,Punjab,Sargodha,Khushab,Other Vehicles,21
+2021,Punjab,Sargodha,Khushab,Pickups/Delivery Vans,782
+2021,Punjab,Sargodha,Khushab,Taxis,19
+2021,Punjab,Sargodha,Khushab,Tractors,6915
+2021,Punjab,Sargodha,Khushab,Trucks,519
+2021,Punjab,Lahore,Lahore,Auto Rickshaws,220210
+2021,Punjab,Lahore,Lahore,Mini Buses/Buses/Flying/Luxury Coaches,64511
+2021,Punjab,Lahore,Lahore,Motor Cars/Jeeps/Station Wagons,1499217
+2021,Punjab,Lahore,Lahore,Motor Cycles/Scooters,4619091
+2021,Punjab,Lahore,Lahore,Other Vehicles,5876
+2021,Punjab,Lahore,Lahore,Pickups/Delivery Vans,124299
+2021,Punjab,Lahore,Lahore,Taxis,27627
+2021,Punjab,Lahore,Lahore,Tractors,58965
+2021,Punjab,Lahore,Lahore,Trucks,43807
+2021,Punjab,D.G.Khan,Layyah,Auto Rickshaws,10893
+2021,Punjab,D.G.Khan,Layyah,Mini Buses/Buses/Flying/Luxury Coaches,277
+2021,Punjab,D.G.Khan,Layyah,Motor Cars/Jeeps/Station Wagons,1595
+2021,Punjab,D.G.Khan,Layyah,Motor Cycles/Scooters,194016
+2021,Punjab,D.G.Khan,Layyah,Other Vehicles,32
+2021,Punjab,D.G.Khan,Layyah,Pickups/Delivery Vans,593
+2021,Punjab,D.G.Khan,Layyah,Taxis,134
+2021,Punjab,D.G.Khan,Layyah,Tractors,13667
+2021,Punjab,D.G.Khan,Layyah,Trucks,110
+2021,Punjab,Multan,Lodhran,Auto Rickshaws,603
+2021,Punjab,Multan,Lodhran,Mini Buses/Buses/Flying/Luxury Coaches,174
+2021,Punjab,Multan,Lodhran,Motor Cars/Jeeps/Station Wagons,3048
+2021,Punjab,Multan,Lodhran,Motor Cycles/Scooters,74128
+2021,Punjab,Multan,Lodhran,Other Vehicles,17
+2021,Punjab,Multan,Lodhran,Pickups/Delivery Vans,566
+2021,Punjab,Multan,Lodhran,Taxis,356
+2021,Punjab,Multan,Lodhran,Tractors,7847
+2021,Punjab,Multan,Lodhran,Trucks,256
+2021,Punjab,Gujranwala,M.B.Din,Auto Rickshaws,3843
+2021,Punjab,Gujranwala,M.B.Din,Mini Buses/Buses/Flying/Luxury Coaches,369
+2021,Punjab,Gujranwala,M.B.Din,Motor Cars/Jeeps/Station Wagons,2170
+2021,Punjab,Gujranwala,M.B.Din,Motor Cycles/Scooters,171199
+2021,Punjab,Gujranwala,M.B.Din,Other Vehicles,28
+2021,Punjab,Gujranwala,M.B.Din,Pickups/Delivery Vans,1431
+2021,Punjab,Gujranwala,M.B.Din,Taxis,220
+2021,Punjab,Gujranwala,M.B.Din,Tractors,7197
+2021,Punjab,Gujranwala,M.B.Din,Trucks,173
+2021,Punjab,Sargodha,Mianwali,Auto Rickshaws,8400
+2021,Punjab,Sargodha,Mianwali,Mini Buses/Buses/Flying/Luxury Coaches,764
+2021,Punjab,Sargodha,Mianwali,Motor Cars/Jeeps/Station Wagons,1229
+2021,Punjab,Sargodha,Mianwali,Motor Cycles/Scooters,196552
+2021,Punjab,Sargodha,Mianwali,Other Vehicles,43
+2021,Punjab,Sargodha,Mianwali,Pickups/Delivery Vans,3278
+2021,Punjab,Sargodha,Mianwali,Taxis,262
+2021,Punjab,Sargodha,Mianwali,Tractors,9600
+2021,Punjab,Sargodha,Mianwali,Trucks,750
+2021,Punjab,Multan,Multan,Auto Rickshaws,22000
+2021,Punjab,Multan,Multan,Mini Buses/Buses/Flying/Luxury Coaches,5746
+2021,Punjab,Multan,Multan,Motor Cars/Jeeps/Station Wagons,119656
+2021,Punjab,Multan,Multan,Motor Cycles/Scooters,1366805
+2021,Punjab,Multan,Multan,Other Vehicles,148
+2021,Punjab,Multan,Multan,Pickups/Delivery Vans,21168
+2021,Punjab,Multan,Multan,Taxis,10699
+2021,Punjab,Multan,Multan,Tractors,20539
+2021,Punjab,Multan,Multan,Trucks,6761
+2021,Punjab,D.G.Khan,Muzaffargarh,Auto Rickshaws,755
+2021,Punjab,D.G.Khan,Muzaffargarh,Mini Buses/Buses/Flying/Luxury Coaches,213
+2021,Punjab,D.G.Khan,Muzaffargarh,Motor Cars/Jeeps/Station Wagons,2033
+2021,Punjab,D.G.Khan,Muzaffargarh,Motor Cycles/Scooters,159368
+2021,Punjab,D.G.Khan,Muzaffargarh,Other Vehicles,34
+2021,Punjab,D.G.Khan,Muzaffargarh,Pickups/Delivery Vans,592
+2021,Punjab,D.G.Khan,Muzaffargarh,Taxis,136
+2021,Punjab,D.G.Khan,Muzaffargarh,Tractors,11193
+2021,Punjab,D.G.Khan,Muzaffargarh,Trucks,524
+2021,Punjab,Lahore,Nankana Sahib,Auto Rickshaws,47
+2021,Punjab,Lahore,Nankana Sahib,Mini Buses/Buses/Flying/Luxury Coaches,31
+2021,Punjab,Lahore,Nankana Sahib,Motor Cars/Jeeps/Station Wagons,308
+2021,Punjab,Lahore,Nankana Sahib,Motor Cycles/Scooters,37202
+2021,Punjab,Lahore,Nankana Sahib,Other Vehicles,18
+2021,Punjab,Lahore,Nankana Sahib,Pickups/Delivery Vans,126
+2021,Punjab,Lahore,Nankana Sahib,Taxis,1
+2021,Punjab,Lahore,Nankana Sahib,Tractors,2154
+2021,Punjab,Lahore,Nankana Sahib,Trucks,23
+2021,Punjab,Gujranwala,Narowal,Auto Rickshaws,2651
+2021,Punjab,Gujranwala,Narowal,Mini Buses/Buses/Flying/Luxury Coaches,44
+2021,Punjab,Gujranwala,Narowal,Motor Cars/Jeeps/Station Wagons,389
+2021,Punjab,Gujranwala,Narowal,Motor Cycles/Scooters,62741
+2021,Punjab,Gujranwala,Narowal,Other Vehicles,17
+2021,Punjab,Gujranwala,Narowal,Pickups/Delivery Vans,327
+2021,Punjab,Gujranwala,Narowal,Taxis,1
+2021,Punjab,Gujranwala,Narowal,Tractors,10879
+2021,Punjab,Gujranwala,Narowal,Trucks,16
+2021,Punjab,Sahiwal,Okara,Auto Rickshaws,3443
+2021,Punjab,Sahiwal,Okara,Mini Buses/Buses/Flying/Luxury Coaches,267
+2021,Punjab,Sahiwal,Okara,Motor Cars/Jeeps/Station Wagons,3059
+2021,Punjab,Sahiwal,Okara,Motor Cycles/Scooters,337316
+2021,Punjab,Sahiwal,Okara,Other Vehicles,46
+2021,Punjab,Sahiwal,Okara,Pickups/Delivery Vans,1478
+2021,Punjab,Sahiwal,Okara,Taxis,166
+2021,Punjab,Sahiwal,Okara,Tractors,15293
+2021,Punjab,Sahiwal,Okara,Trucks,585
+2021,Punjab,Sahiwal,Pakpattan,Auto Rickshaws,250
+2021,Punjab,Sahiwal,Pakpattan,Mini Buses/Buses/Flying/Luxury Coaches,122
+2021,Punjab,Sahiwal,Pakpattan,Motor Cars/Jeeps/Station Wagons,1055
+2021,Punjab,Sahiwal,Pakpattan,Motor Cycles/Scooters,124229
+2021,Punjab,Sahiwal,Pakpattan,Other Vehicles,23
+2021,Punjab,Sahiwal,Pakpattan,Pickups/Delivery Vans,493
+2021,Punjab,Sahiwal,Pakpattan,Taxis,9
+2021,Punjab,Sahiwal,Pakpattan,Tractors,10841
+2021,Punjab,Sahiwal,Pakpattan,Trucks,38
+2021,Punjab,Bahawalpur,R.Y.Khan,Auto Rickshaws,503
+2021,Punjab,Bahawalpur,R.Y.Khan,Mini Buses/Buses/Flying/Luxury Coaches,1157
+2021,Punjab,Bahawalpur,R.Y.Khan,Motor Cars/Jeeps/Station Wagons,15969
+2021,Punjab,Bahawalpur,R.Y.Khan,Motor Cycles/Scooters,826790
+2021,Punjab,Bahawalpur,R.Y.Khan,Other Vehicles,65
+2021,Punjab,Bahawalpur,R.Y.Khan,Pickups/Delivery Vans,3928
+2021,Punjab,Bahawalpur,R.Y.Khan,Taxis,426
+2021,Punjab,Bahawalpur,R.Y.Khan,Tractors,27690
+2021,Punjab,Bahawalpur,R.Y.Khan,Trucks,785
+2021,Punjab,D.G.Khan,Rajanpur,Auto Rickshaws,4
+2021,Punjab,D.G.Khan,Rajanpur,Mini Buses/Buses/Flying/Luxury Coaches,99
+2021,Punjab,D.G.Khan,Rajanpur,Motor Cars/Jeeps/Station Wagons,591
+2021,Punjab,D.G.Khan,Rajanpur,Motor Cycles/Scooters,30639
+2021,Punjab,D.G.Khan,Rajanpur,Other Vehicles,22
+2021,Punjab,D.G.Khan,Rajanpur,Pickups/Delivery Vans,343
+2021,Punjab,D.G.Khan,Rajanpur,Taxis,191
+2021,Punjab,D.G.Khan,Rajanpur,Tractors,3947
+2021,Punjab,D.G.Khan,Rajanpur,Trucks,37
+2021,Punjab,Rawalpindi,Rawalpindi,Auto Rickshaws,33061
+2021,Punjab,Rawalpindi,Rawalpindi,Mini Buses/Buses/Flying/Luxury Coaches,14471
+2021,Punjab,Rawalpindi,Rawalpindi,Motor Cars/Jeeps/Station Wagons,106604
+2021,Punjab,Rawalpindi,Rawalpindi,Motor Cycles/Scooters,937612
+2021,Punjab,Rawalpindi,Rawalpindi,Other Vehicles,475
+2021,Punjab,Rawalpindi,Rawalpindi,Pickups/Delivery Vans,57237
+2021,Punjab,Rawalpindi,Rawalpindi,Taxis,8145
+2021,Punjab,Rawalpindi,Rawalpindi,Tractors,3928
+2021,Punjab,Rawalpindi,Rawalpindi,Trucks,9225
+2021,Punjab,Sahiwal,Sahiwal,Auto Rickshaws,1101
+2021,Punjab,Sahiwal,Sahiwal,Mini Buses/Buses/Flying/Luxury Coaches,528
+2021,Punjab,Sahiwal,Sahiwal,Motor Cars/Jeeps/Station Wagons,9880
+2021,Punjab,Sahiwal,Sahiwal,Motor Cycles/Scooters,446126
+2021,Punjab,Sahiwal,Sahiwal,Other Vehicles,40
+2021,Punjab,Sahiwal,Sahiwal,Pickups/Delivery Vans,2858
+2021,Punjab,Sahiwal,Sahiwal,Taxis,1955
+2021,Punjab,Sahiwal,Sahiwal,Tractors,34900
+2021,Punjab,Sahiwal,Sahiwal,Trucks,1067
+2021,Punjab,Sargodha,Sargodha,Auto Rickshaws,46010
+2021,Punjab,Sargodha,Sargodha,Mini Buses/Buses/Flying/Luxury Coaches,1811
+2021,Punjab,Sargodha,Sargodha,Motor Cars/Jeeps/Station Wagons,8445
+2021,Punjab,Sargodha,Sargodha,Motor Cycles/Scooters,529643
+2021,Punjab,Sargodha,Sargodha,Other Vehicles,73
+2021,Punjab,Sargodha,Sargodha,Pickups/Delivery Vans,4298
+2021,Punjab,Sargodha,Sargodha,Taxis,1843
+2021,Punjab,Sargodha,Sargodha,Tractors,18613
+2021,Punjab,Sargodha,Sargodha,Trucks,2758
+2021,Punjab,Lahore,Sheikhupura,Auto Rickshaws,2084
+2021,Punjab,Lahore,Sheikhupura,Mini Buses/Buses/Flying/Luxury Coaches,483
+2021,Punjab,Lahore,Sheikhupura,Motor Cars/Jeeps/Station Wagons,2194
+2021,Punjab,Lahore,Sheikhupura,Motor Cycles/Scooters,54019
+2021,Punjab,Lahore,Sheikhupura,Other Vehicles,45
+2021,Punjab,Lahore,Sheikhupura,Pickups/Delivery Vans,992
+2021,Punjab,Lahore,Sheikhupura,Taxis,342
+2021,Punjab,Lahore,Sheikhupura,Tractors,13737
+2021,Punjab,Lahore,Sheikhupura,Trucks,1181
+2021,Punjab,Gujranwala,Sialkot,Auto Rickshaws,33709
+2021,Punjab,Gujranwala,Sialkot,Mini Buses/Buses/Flying/Luxury Coaches,2038
+2021,Punjab,Gujranwala,Sialkot,Motor Cars/Jeeps/Station Wagons,27569
+2021,Punjab,Gujranwala,Sialkot,Motor Cycles/Scooters,703223
+2021,Punjab,Gujranwala,Sialkot,Other Vehicles,62
+2021,Punjab,Gujranwala,Sialkot,Pickups/Delivery Vans,7602
+2021,Punjab,Gujranwala,Sialkot,Taxis,449
+2021,Punjab,Gujranwala,Sialkot,Tractors,12578
+2021,Punjab,Gujranwala,Sialkot,Trucks,433
+2021,Punjab,Faisalabad,T.T.Singh,Auto Rickshaws,401
+2021,Punjab,Faisalabad,T.T.Singh,Mini Buses/Buses/Flying/Luxury Coaches,190
+2021,Punjab,Faisalabad,T.T.Singh,Motor Cars/Jeeps/Station Wagons,1467
+2021,Punjab,Faisalabad,T.T.Singh,Motor Cycles/Scooters,230233
+2021,Punjab,Faisalabad,T.T.Singh,Other Vehicles,17
+2021,Punjab,Faisalabad,T.T.Singh,Pickups/Delivery Vans,555
+2021,Punjab,Faisalabad,T.T.Singh,Taxis,125
+2021,Punjab,Faisalabad,T.T.Singh,Tractors,12972
+2021,Punjab,Faisalabad,T.T.Singh,Trucks,105
+2021,Punjab,Multan,Vehari,Auto Rickshaws,479
+2021,Punjab,Multan,Vehari,Mini Buses/Buses/Flying/Luxury Coaches,317
+2021,Punjab,Multan,Vehari,Motor Cars/Jeeps/Station Wagons,4082
+2021,Punjab,Multan,Vehari,Motor Cycles/Scooters,387482
+2021,Punjab,Multan,Vehari,Other Vehicles,8
+2021,Punjab,Multan,Vehari,Pickups/Delivery Vans,649
+2021,Punjab,Multan,Vehari,Taxis,801
+2021,Punjab,Multan,Vehari,Tractors,18419
+2021,Punjab,Multan,Vehari,Trucks,197
+2022,Punjab,Rawalpindi,Attock,Auto Rickshaws,22704
+2022,Punjab,Rawalpindi,Attock,Mini Buses/Buses/Flying/Luxury Coaches,2598
+2022,Punjab,Rawalpindi,Attock,Motor Cars/Jeeps/Station Wagons,12749
+2022,Punjab,Rawalpindi,Attock,Motor Cycles/Scooters,144086
+2022,Punjab,Rawalpindi,Attock,Other Vehicles,80
+2022,Punjab,Rawalpindi,Attock,Pickups/Delivery Vans,5468
+2022,Punjab,Rawalpindi,Attock,Taxis,487
+2022,Punjab,Rawalpindi,Attock,Tractors,11518
+2022,Punjab,Rawalpindi,Attock,Trucks,1094
+2022,Punjab,Bahawalpur,Bahawalnagar,Auto Rickshaws,550
+2022,Punjab,Bahawalpur,Bahawalnagar,Mini Buses/Buses/Flying/Luxury Coaches,176
+2022,Punjab,Bahawalpur,Bahawalnagar,Motor Cars/Jeeps/Station Wagons,2880
+2022,Punjab,Bahawalpur,Bahawalnagar,Motor Cycles/Scooters,393362
+2022,Punjab,Bahawalpur,Bahawalnagar,Other Vehicles,25
+2022,Punjab,Bahawalpur,Bahawalnagar,Pickups/Delivery Vans,1962
+2022,Punjab,Bahawalpur,Bahawalnagar,Taxis,353
+2022,Punjab,Bahawalpur,Bahawalnagar,Tractors,23642
+2022,Punjab,Bahawalpur,Bahawalnagar,Trucks,102
+2022,Punjab,Bahawalpur,Bahawalpur,Auto Rickshaws,9332
+2022,Punjab,Bahawalpur,Bahawalpur,Mini Buses/Buses/Flying/Luxury Coaches,956
+2022,Punjab,Bahawalpur,Bahawalpur,Motor Cars/Jeeps/Station Wagons,23132
+2022,Punjab,Bahawalpur,Bahawalpur,Motor Cycles/Scooters,611794
+2022,Punjab,Bahawalpur,Bahawalpur,Other Vehicles,52
+2022,Punjab,Bahawalpur,Bahawalpur,Pickups/Delivery Vans,4739
+2022,Punjab,Bahawalpur,Bahawalpur,Taxis,3168
+2022,Punjab,Bahawalpur,Bahawalpur,Tractors,14820
+2022,Punjab,Bahawalpur,Bahawalpur,Trucks,718
+2022,Punjab,Sargodha,Bhakkar,Auto Rickshaws,27268
+2022,Punjab,Sargodha,Bhakkar,Mini Buses/Buses/Flying/Luxury Coaches,286
+2022,Punjab,Sargodha,Bhakkar,Motor Cars/Jeeps/Station Wagons,1092
+2022,Punjab,Sargodha,Bhakkar,Motor Cycles/Scooters,158684
+2022,Punjab,Sargodha,Bhakkar,Other Vehicles,10
+2022,Punjab,Sargodha,Bhakkar,Pickups/Delivery Vans,752
+2022,Punjab,Sargodha,Bhakkar,Taxis,84
+2022,Punjab,Sargodha,Bhakkar,Tractors,9772
+2022,Punjab,Sargodha,Bhakkar,Trucks,120
+2022,Punjab,Rawalpindi,Chakwal,Auto Rickshaws,19591
+2022,Punjab,Rawalpindi,Chakwal,Mini Buses/Buses/Flying/Luxury Coaches,544
+2022,Punjab,Rawalpindi,Chakwal,Motor Cars/Jeeps/Station Wagons,1822
+2022,Punjab,Rawalpindi,Chakwal,Motor Cycles/Scooters,163979
+2022,Punjab,Rawalpindi,Chakwal,Other Vehicles,28
+2022,Punjab,Rawalpindi,Chakwal,Pickups/Delivery Vans,2284
+2022,Punjab,Rawalpindi,Chakwal,Taxis,105
+2022,Punjab,Rawalpindi,Chakwal,Tractors,8178
+2022,Punjab,Rawalpindi,Chakwal,Trucks,128
+2022,Punjab,Faisalabad,Chiniot,Auto Rickshaws,15526
+2022,Punjab,Faisalabad,Chiniot,Mini Buses/Buses/Flying/Luxury Coaches,30
+2022,Punjab,Faisalabad,Chiniot,Motor Cars/Jeeps/Station Wagons,994
+2022,Punjab,Faisalabad,Chiniot,Motor Cycles/Scooters,101216
+2022,Punjab,Faisalabad,Chiniot,Other Vehicles,13
+2022,Punjab,Faisalabad,Chiniot,Pickups/Delivery Vans,1336
+2022,Punjab,Faisalabad,Chiniot,Taxis,10
+2022,Punjab,Faisalabad,Chiniot,Tractors,1709
+2022,Punjab,Faisalabad,Chiniot,Trucks,82
+2022,Punjab,D.G.Khan,D.G.Khan,Auto Rickshaws,654
+2022,Punjab,D.G.Khan,D.G.Khan,Mini Buses/Buses/Flying/Luxury Coaches,993
+2022,Punjab,D.G.Khan,D.G.Khan,Motor Cars/Jeeps/Station Wagons,6440
+2022,Punjab,D.G.Khan,D.G.Khan,Motor Cycles/Scooters,600749
+2022,Punjab,D.G.Khan,D.G.Khan,Other Vehicles,60
+2022,Punjab,D.G.Khan,D.G.Khan,Pickups/Delivery Vans,1904
+2022,Punjab,D.G.Khan,D.G.Khan,Taxis,1530
+2022,Punjab,D.G.Khan,D.G.Khan,Tractors,26988
+2022,Punjab,D.G.Khan,D.G.Khan,Trucks,774
+2022,Punjab,Faisalabad,Faisalabad,Auto Rickshaws,24086
+2022,Punjab,Faisalabad,Faisalabad,Mini Buses/Buses/Flying/Luxury Coaches,3554
+2022,Punjab,Faisalabad,Faisalabad,Motor Cars/Jeeps/Station Wagons,77554
+2022,Punjab,Faisalabad,Faisalabad,Motor Cycles/Scooters,1520809
+2022,Punjab,Faisalabad,Faisalabad,Other Vehicles,170
+2022,Punjab,Faisalabad,Faisalabad,Pickups/Delivery Vans,17170
+2022,Punjab,Faisalabad,Faisalabad,Taxis,5056
+2022,Punjab,Faisalabad,Faisalabad,Tractors,14078
+2022,Punjab,Faisalabad,Faisalabad,Trucks,5804
+2022,Punjab,Gujranwala,Gujranwala,Auto Rickshaws,15164
+2022,Punjab,Gujranwala,Gujranwala,Mini Buses/Buses/Flying/Luxury Coaches,1744
+2022,Punjab,Gujranwala,Gujranwala,Motor Cars/Jeeps/Station Wagons,20806
+2022,Punjab,Gujranwala,Gujranwala,Motor Cycles/Scooters,900631
+2022,Punjab,Gujranwala,Gujranwala,Other Vehicles,694
+2022,Punjab,Gujranwala,Gujranwala,Pickups/Delivery Vans,8202
+2022,Punjab,Gujranwala,Gujranwala,Taxis,3456
+2022,Punjab,Gujranwala,Gujranwala,Tractors,20025
+2022,Punjab,Gujranwala,Gujranwala,Trucks,1482
+2022,Punjab,Gujranwala,Gujrat,Auto Rickshaws,12205
+2022,Punjab,Gujranwala,Gujrat,Mini Buses/Buses/Flying/Luxury Coaches,1000
+2022,Punjab,Gujranwala,Gujrat,Motor Cars/Jeeps/Station Wagons,5754
+2022,Punjab,Gujranwala,Gujrat,Motor Cycles/Scooters,493040
+2022,Punjab,Gujranwala,Gujrat,Other Vehicles,69
+2022,Punjab,Gujranwala,Gujrat,Pickups/Delivery Vans,3519
+2022,Punjab,Gujranwala,Gujrat,Taxis,442
+2022,Punjab,Gujranwala,Gujrat,Tractors,10807
+2022,Punjab,Gujranwala,Gujrat,Trucks,822
+2022,Punjab,Gujranwala,Hafizabad,Auto Rickshaws,331
+2022,Punjab,Gujranwala,Hafizabad,Mini Buses/Buses/Flying/Luxury Coaches,222
+2022,Punjab,Gujranwala,Hafizabad,Motor Cars/Jeeps/Station Wagons,1228
+2022,Punjab,Gujranwala,Hafizabad,Motor Cycles/Scooters,126780
+2022,Punjab,Gujranwala,Hafizabad,Other Vehicles,9
+2022,Punjab,Gujranwala,Hafizabad,Pickups/Delivery Vans,447
+2022,Punjab,Gujranwala,Hafizabad,Taxis,204
+2022,Punjab,Gujranwala,Hafizabad,Tractors,4498
+2022,Punjab,Gujranwala,Hafizabad,Trucks,108
+2022,Punjab,Faisalabad,Jhang,Auto Rickshaws,20300
+2022,Punjab,Faisalabad,Jhang,Mini Buses/Buses/Flying/Luxury Coaches,948
+2022,Punjab,Faisalabad,Jhang,Motor Cars/Jeeps/Station Wagons,2673
+2022,Punjab,Faisalabad,Jhang,Motor Cycles/Scooters,255438
+2022,Punjab,Faisalabad,Jhang,Other Vehicles,24
+2022,Punjab,Faisalabad,Jhang,Pickups/Delivery Vans,1322
+2022,Punjab,Faisalabad,Jhang,Taxis,435
+2022,Punjab,Faisalabad,Jhang,Tractors,12723
+2022,Punjab,Faisalabad,Jhang,Trucks,1188
+2022,Punjab,Rawalpindi,Jhelum,Auto Rickshaws,20336
+2022,Punjab,Rawalpindi,Jhelum,Mini Buses/Buses/Flying/Luxury Coaches,608
+2022,Punjab,Rawalpindi,Jhelum,Motor Cars/Jeeps/Station Wagons,6711
+2022,Punjab,Rawalpindi,Jhelum,Motor Cycles/Scooters,251971
+2022,Punjab,Rawalpindi,Jhelum,Other Vehicles,40
+2022,Punjab,Rawalpindi,Jhelum,Pickups/Delivery Vans,2941
+2022,Punjab,Rawalpindi,Jhelum,Taxis,295
+2022,Punjab,Rawalpindi,Jhelum,Tractors,5642
+2022,Punjab,Rawalpindi,Jhelum,Trucks,304
+2022,Punjab,Lahore,Kasur,Auto Rickshaws,414
+2022,Punjab,Lahore,Kasur,Mini Buses/Buses/Flying/Luxury Coaches,294
+2022,Punjab,Lahore,Kasur,Motor Cars/Jeeps/Station Wagons,965
+2022,Punjab,Lahore,Kasur,Motor Cycles/Scooters,32546
+2022,Punjab,Lahore,Kasur,Other Vehicles,32
+2022,Punjab,Lahore,Kasur,Pickups/Delivery Vans,1449
+2022,Punjab,Lahore,Kasur,Taxis,274
+2022,Punjab,Lahore,Kasur,Tractors,18660
+2022,Punjab,Lahore,Kasur,Trucks,547
+2022,Punjab,Multan,Khanewal,Auto Rickshaws,590
+2022,Punjab,Multan,Khanewal,Mini Buses/Buses/Flying/Luxury Coaches,87
+2022,Punjab,Multan,Khanewal,Motor Cars/Jeeps/Station Wagons,2568
+2022,Punjab,Multan,Khanewal,Motor Cycles/Scooters,291072
+2022,Punjab,Multan,Khanewal,Other Vehicles,17
+2022,Punjab,Multan,Khanewal,Pickups/Delivery Vans,466
+2022,Punjab,Multan,Khanewal,Taxis,368
+2022,Punjab,Multan,Khanewal,Tractors,12346
+2022,Punjab,Multan,Khanewal,Trucks,90
+2022,Punjab,Sargodha,Khushab,Auto Rickshaws,15524
+2022,Punjab,Sargodha,Khushab,Mini Buses/Buses/Flying/Luxury Coaches,628
+2022,Punjab,Sargodha,Khushab,Motor Cars/Jeeps/Station Wagons,1018
+2022,Punjab,Sargodha,Khushab,Motor Cycles/Scooters,137825
+2022,Punjab,Sargodha,Khushab,Other Vehicles,21
+2022,Punjab,Sargodha,Khushab,Pickups/Delivery Vans,832
+2022,Punjab,Sargodha,Khushab,Taxis,20
+2022,Punjab,Sargodha,Khushab,Tractors,7092
+2022,Punjab,Sargodha,Khushab,Trucks,520
+2022,Punjab,Lahore,Lahore,Auto Rickshaws,221960
+2022,Punjab,Lahore,Lahore,Mini Buses/Buses/Flying/Luxury Coaches,65279
+2022,Punjab,Lahore,Lahore,Motor Cars/Jeeps/Station Wagons,1530302
+2022,Punjab,Lahore,Lahore,Motor Cycles/Scooters,4720926
+2022,Punjab,Lahore,Lahore,Other Vehicles,6012
+2022,Punjab,Lahore,Lahore,Pickups/Delivery Vans,125804
+2022,Punjab,Lahore,Lahore,Taxis,27686
+2022,Punjab,Lahore,Lahore,Tractors,60451
+2022,Punjab,Lahore,Lahore,Trucks,44095
+2022,Punjab,D.G.Khan,Layyah,Auto Rickshaws,11007
+2022,Punjab,D.G.Khan,Layyah,Mini Buses/Buses/Flying/Luxury Coaches,280
+2022,Punjab,D.G.Khan,Layyah,Motor Cars/Jeeps/Station Wagons,1781
+2022,Punjab,D.G.Khan,Layyah,Motor Cycles/Scooters,200505
+2022,Punjab,D.G.Khan,Layyah,Other Vehicles,32
+2022,Punjab,D.G.Khan,Layyah,Pickups/Delivery Vans,605
+2022,Punjab,D.G.Khan,Layyah,Taxis,134
+2022,Punjab,D.G.Khan,Layyah,Tractors,13894
+2022,Punjab,D.G.Khan,Layyah,Trucks,110
+2022,Punjab,Multan,Lodhran,Auto Rickshaws,674
+2022,Punjab,Multan,Lodhran,Mini Buses/Buses/Flying/Luxury Coaches,175
+2022,Punjab,Multan,Lodhran,Motor Cars/Jeeps/Station Wagons,3177
+2022,Punjab,Multan,Lodhran,Motor Cycles/Scooters,79268
+2022,Punjab,Multan,Lodhran,Other Vehicles,17
+2022,Punjab,Multan,Lodhran,Pickups/Delivery Vans,569
+2022,Punjab,Multan,Lodhran,Taxis,356
+2022,Punjab,Multan,Lodhran,Tractors,8020
+2022,Punjab,Multan,Lodhran,Trucks,256
+2022,Punjab,Gujranwala,M.B.Din,Auto Rickshaws,3846
+2022,Punjab,Gujranwala,M.B.Din,Mini Buses/Buses/Flying/Luxury Coaches,375
+2022,Punjab,Gujranwala,M.B.Din,Motor Cars/Jeeps/Station Wagons,2278
+2022,Punjab,Gujranwala,M.B.Din,Motor Cycles/Scooters,176173
+2022,Punjab,Gujranwala,M.B.Din,Other Vehicles,29
+2022,Punjab,Gujranwala,M.B.Din,Pickups/Delivery Vans,1436
+2022,Punjab,Gujranwala,M.B.Din,Taxis,220
+2022,Punjab,Gujranwala,M.B.Din,Tractors,7332
+2022,Punjab,Gujranwala,M.B.Din,Trucks,174
+2022,Punjab,Sargodha,Mianwali,Auto Rickshaws,8400
+2022,Punjab,Sargodha,Mianwali,Mini Buses/Buses/Flying/Luxury Coaches,766
+2022,Punjab,Sargodha,Mianwali,Motor Cars/Jeeps/Station Wagons,1275
+2022,Punjab,Sargodha,Mianwali,Motor Cycles/Scooters,204228
+2022,Punjab,Sargodha,Mianwali,Other Vehicles,44
+2022,Punjab,Sargodha,Mianwali,Pickups/Delivery Vans,3284
+2022,Punjab,Sargodha,Mianwali,Taxis,262
+2022,Punjab,Sargodha,Mianwali,Tractors,9773
+2022,Punjab,Sargodha,Mianwali,Trucks,750
+2022,Punjab,Multan,Multan,Auto Rickshaws,22414
+2022,Punjab,Multan,Multan,Mini Buses/Buses/Flying/Luxury Coaches,5760
+2022,Punjab,Multan,Multan,Motor Cars/Jeeps/Station Wagons,123734
+2022,Punjab,Multan,Multan,Motor Cycles/Scooters,1395757
+2022,Punjab,Multan,Multan,Other Vehicles,151
+2022,Punjab,Multan,Multan,Pickups/Delivery Vans,21404
+2022,Punjab,Multan,Multan,Taxis,10710
+2022,Punjab,Multan,Multan,Tractors,20816
+2022,Punjab,Multan,Multan,Trucks,6788
+2022,Punjab,D.G.Khan,Muzaffargarh,Auto Rickshaws,773
+2022,Punjab,D.G.Khan,Muzaffargarh,Mini Buses/Buses/Flying/Luxury Coaches,215
+2022,Punjab,D.G.Khan,Muzaffargarh,Motor Cars/Jeeps/Station Wagons,2392
+2022,Punjab,D.G.Khan,Muzaffargarh,Motor Cycles/Scooters,169295
+2022,Punjab,D.G.Khan,Muzaffargarh,Other Vehicles,34
+2022,Punjab,D.G.Khan,Muzaffargarh,Pickups/Delivery Vans,624
+2022,Punjab,D.G.Khan,Muzaffargarh,Taxis,147
+2022,Punjab,D.G.Khan,Muzaffargarh,Tractors,11373
+2022,Punjab,D.G.Khan,Muzaffargarh,Trucks,528
+2022,Punjab,Lahore,Nankana Sahib,Auto Rickshaws,47
+2022,Punjab,Lahore,Nankana Sahib,Mini Buses/Buses/Flying/Luxury Coaches,35
+2022,Punjab,Lahore,Nankana Sahib,Motor Cars/Jeeps/Station Wagons,427
+2022,Punjab,Lahore,Nankana Sahib,Motor Cycles/Scooters,40562
+2022,Punjab,Lahore,Nankana Sahib,Other Vehicles,18
+2022,Punjab,Lahore,Nankana Sahib,Pickups/Delivery Vans,128
+2022,Punjab,Lahore,Nankana Sahib,Taxis,1
+2022,Punjab,Lahore,Nankana Sahib,Tractors,2276
+2022,Punjab,Lahore,Nankana Sahib,Trucks,24
+2022,Punjab,Gujranwala,Narowal,Auto Rickshaws,2660
+2022,Punjab,Gujranwala,Narowal,Mini Buses/Buses/Flying/Luxury Coaches,45
+2022,Punjab,Gujranwala,Narowal,Motor Cars/Jeeps/Station Wagons,454
+2022,Punjab,Gujranwala,Narowal,Motor Cycles/Scooters,68374
+2022,Punjab,Gujranwala,Narowal,Other Vehicles,17
+2022,Punjab,Gujranwala,Narowal,Pickups/Delivery Vans,332
+2022,Punjab,Gujranwala,Narowal,Taxis,1
+2022,Punjab,Gujranwala,Narowal,Tractors,11035
+2022,Punjab,Gujranwala,Narowal,Trucks,17
+2022,Punjab,Lahore,Okara,Auto Rickshaws,3446
+2022,Punjab,Lahore,Okara,Mini Buses/Buses/Flying/Luxury Coaches,269
+2022,Punjab,Lahore,Okara,Motor Cars/Jeeps/Station Wagons,3333
+2022,Punjab,Lahore,Okara,Motor Cycles/Scooters,346506
+2022,Punjab,Lahore,Okara,Other Vehicles,46
+2022,Punjab,Lahore,Okara,Pickups/Delivery Vans,1490
+2022,Punjab,Lahore,Okara,Taxis,166
+2022,Punjab,Lahore,Okara,Tractors,15618
+2022,Punjab,Lahore,Okara,Trucks,586
+2022,Punjab,Multan,Pakpattan,Auto Rickshaws,251
+2022,Punjab,Multan,Pakpattan,Mini Buses/Buses/Flying/Luxury Coaches,125
+2022,Punjab,Multan,Pakpattan,Motor Cars/Jeeps/Station Wagons,1150
+2022,Punjab,Multan,Pakpattan,Motor Cycles/Scooters,129308
+2022,Punjab,Multan,Pakpattan,Other Vehicles,23
+2022,Punjab,Multan,Pakpattan,Pickups/Delivery Vans,494
+2022,Punjab,Multan,Pakpattan,Taxis,9
+2022,Punjab,Multan,Pakpattan,Tractors,11050
+2022,Punjab,Multan,Pakpattan,Trucks,38
+2022,Punjab,Bahawalpur,R.Y.Khan,Auto Rickshaws,506
+2022,Punjab,Bahawalpur,R.Y.Khan,Mini Buses/Buses/Flying/Luxury Coaches,1166
+2022,Punjab,Bahawalpur,R.Y.Khan,Motor Cars/Jeeps/Station Wagons,16582
+2022,Punjab,Bahawalpur,R.Y.Khan,Motor Cycles/Scooters,848186
+2022,Punjab,Bahawalpur,R.Y.Khan,Other Vehicles,66
+2022,Punjab,Bahawalpur,R.Y.Khan,Pickups/Delivery Vans,3949
+2022,Punjab,Bahawalpur,R.Y.Khan,Taxis,426
+2022,Punjab,Bahawalpur,R.Y.Khan,Tractors,28072
+2022,Punjab,Bahawalpur,R.Y.Khan,Trucks,788
+2022,Punjab,D.G.Khan,Rajanpur,Auto Rickshaws,4
+2022,Punjab,D.G.Khan,Rajanpur,Mini Buses/Buses/Flying/Luxury Coaches,99
+2022,Punjab,D.G.Khan,Rajanpur,Motor Cars/Jeeps/Station Wagons,630
+2022,Punjab,D.G.Khan,Rajanpur,Motor Cycles/Scooters,34170
+2022,Punjab,D.G.Khan,Rajanpur,Other Vehicles,26
+2022,Punjab,D.G.Khan,Rajanpur,Pickups/Delivery Vans,344
+2022,Punjab,D.G.Khan,Rajanpur,Taxis,192
+2022,Punjab,D.G.Khan,Rajanpur,Tractors,4034
+2022,Punjab,D.G.Khan,Rajanpur,Trucks,37
+2022,Punjab,Rawalpindi,Rawalpindi,Auto Rickshaws,33146
+2022,Punjab,Rawalpindi,Rawalpindi,Mini Buses/Buses/Flying/Luxury Coaches,14506
+2022,Punjab,Rawalpindi,Rawalpindi,Motor Cars/Jeeps/Station Wagons,107048
+2022,Punjab,Rawalpindi,Rawalpindi,Motor Cycles/Scooters,951450
+2022,Punjab,Rawalpindi,Rawalpindi,Other Vehicles,478
+2022,Punjab,Rawalpindi,Rawalpindi,Pickups/Delivery Vans,58008
+2022,Punjab,Rawalpindi,Rawalpindi,Taxis,8145
+2022,Punjab,Rawalpindi,Rawalpindi,Tractors,3992
+2022,Punjab,Rawalpindi,Rawalpindi,Trucks,9269
+2022,Punjab,Multan,Sahiwal,Auto Rickshaws,1108
+2022,Punjab,Multan,Sahiwal,Mini Buses/Buses/Flying/Luxury Coaches,540
+2022,Punjab,Multan,Sahiwal,Motor Cars/Jeeps/Station Wagons,10498
+2022,Punjab,Multan,Sahiwal,Motor Cycles/Scooters,458182
+2022,Punjab,Multan,Sahiwal,Other Vehicles,40
+2022,Punjab,Multan,Sahiwal,Pickups/Delivery Vans,2869
+2022,Punjab,Multan,Sahiwal,Taxis,1962
+2022,Punjab,Multan,Sahiwal,Tractors,35249
+2022,Punjab,Multan,Sahiwal,Trucks,1075
+2022,Punjab,Sargodha,Sargodha,Auto Rickshaws,46038
+2022,Punjab,Sargodha,Sargodha,Mini Buses/Buses/Flying/Luxury Coaches,1823
+2022,Punjab,Sargodha,Sargodha,Motor Cars/Jeeps/Station Wagons,8656
+2022,Punjab,Sargodha,Sargodha,Motor Cycles/Scooters,540563
+2022,Punjab,Sargodha,Sargodha,Other Vehicles,74
+2022,Punjab,Sargodha,Sargodha,Pickups/Delivery Vans,4334
+2022,Punjab,Sargodha,Sargodha,Taxis,1843
+2022,Punjab,Sargodha,Sargodha,Tractors,18816
+2022,Punjab,Sargodha,Sargodha,Trucks,2758
+2022,Punjab,Lahore,Sheikhupura,Auto Rickshaws,2084
+2022,Punjab,Lahore,Sheikhupura,Mini Buses/Buses/Flying/Luxury Coaches,486
+2022,Punjab,Lahore,Sheikhupura,Motor Cars/Jeeps/Station Wagons,2331
+2022,Punjab,Lahore,Sheikhupura,Motor Cycles/Scooters,56804
+2022,Punjab,Lahore,Sheikhupura,Other Vehicles,45
+2022,Punjab,Lahore,Sheikhupura,Pickups/Delivery Vans,994
+2022,Punjab,Lahore,Sheikhupura,Taxis,342
+2022,Punjab,Lahore,Sheikhupura,Tractors,13879
+2022,Punjab,Lahore,Sheikhupura,Trucks,1183
+2022,Punjab,Gujranwala,Sialkot,Auto Rickshaws,34101
+2022,Punjab,Gujranwala,Sialkot,Mini Buses/Buses/Flying/Luxury Coaches,2046
+2022,Punjab,Gujranwala,Sialkot,Motor Cars/Jeeps/Station Wagons,29539
+2022,Punjab,Gujranwala,Sialkot,Motor Cycles/Scooters,726743
+2022,Punjab,Gujranwala,Sialkot,Other Vehicles,62
+2022,Punjab,Gujranwala,Sialkot,Pickups/Delivery Vans,7680
+2022,Punjab,Gujranwala,Sialkot,Taxis,450
+2022,Punjab,Gujranwala,Sialkot,Tractors,12758
+2022,Punjab,Gujranwala,Sialkot,Trucks,444
+2022,Punjab,Faisalabad,T.T.Singh,Auto Rickshaws,402
+2022,Punjab,Faisalabad,T.T.Singh,Mini Buses/Buses/Flying/Luxury Coaches,192
+2022,Punjab,Faisalabad,T.T.Singh,Motor Cars/Jeeps/Station Wagons,1586
+2022,Punjab,Faisalabad,T.T.Singh,Motor Cycles/Scooters,236400
+2022,Punjab,Faisalabad,T.T.Singh,Other Vehicles,17
+2022,Punjab,Faisalabad,T.T.Singh,Pickups/Delivery Vans,561
+2022,Punjab,Faisalabad,T.T.Singh,Taxis,125
+2022,Punjab,Faisalabad,T.T.Singh,Tractors,13150
+2022,Punjab,Faisalabad,T.T.Singh,Trucks,106
+2022,Punjab,Multan,Vehari,Auto Rickshaws,479
+2022,Punjab,Multan,Vehari,Mini Buses/Buses/Flying/Luxury Coaches,319
+2022,Punjab,Multan,Vehari,Motor Cars/Jeeps/Station Wagons,4550
+2022,Punjab,Multan,Vehari,Motor Cycles/Scooters,399429
+2022,Punjab,Multan,Vehari,Other Vehicles,8
+2022,Punjab,Multan,Vehari,Pickups/Delivery Vans,656
+2022,Punjab,Multan,Vehari,Taxis,802
+2022,Punjab,Multan,Vehari,Tractors,18704
+2022,Punjab,Multan,Vehari,Trucks,199
+2023,Punjab,Rawalpindi,Attock,Auto Rickshaws,22743
+2023,Punjab,Rawalpindi,Attock,Mini Buses/Buses/Flying/Luxury Coaches,2599
+2023,Punjab,Rawalpindi,Attock,Motor Cars/Jeeps/Station Wagons,12757
+2023,Punjab,Rawalpindi,Attock,Motor Cycles/Scooters,147847
+2023,Punjab,Rawalpindi,Attock,Other Vehicles,81
+2023,Punjab,Rawalpindi,Attock,Pickups/Delivery Vans,5476
+2023,Punjab,Rawalpindi,Attock,Taxis,487
+2023,Punjab,Rawalpindi,Attock,Tractors,11577
+2023,Punjab,Rawalpindi,Attock,Trucks,1094
+2023,Punjab,Bahawalpur,Bahawalnagar,Auto Rickshaws,550
+2023,Punjab,Bahawalpur,Bahawalnagar,Mini Buses/Buses/Flying/Luxury Coaches,180
+2023,Punjab,Bahawalpur,Bahawalnagar,Motor Cars/Jeeps/Station Wagons,3474
+2023,Punjab,Bahawalpur,Bahawalnagar,Motor Cycles/Scooters,407223
+2023,Punjab,Bahawalpur,Bahawalnagar,Other Vehicles,25
+2023,Punjab,Bahawalpur,Bahawalnagar,Pickups/Delivery Vans,1965
+2023,Punjab,Bahawalpur,Bahawalnagar,Taxis,355
+2023,Punjab,Bahawalpur,Bahawalnagar,Tractors,24223
+2023,Punjab,Bahawalpur,Bahawalnagar,Trucks,103
+2023,Punjab,Bahawalpur,Bahawalpur,Auto Rickshaws,9482
+2023,Punjab,Bahawalpur,Bahawalpur,Mini Buses/Buses/Flying/Luxury Coaches,963
+2023,Punjab,Bahawalpur,Bahawalpur,Motor Cars/Jeeps/Station Wagons,23786
+2023,Punjab,Bahawalpur,Bahawalpur,Motor Cycles/Scooters,626250
+2023,Punjab,Bahawalpur,Bahawalpur,Other Vehicles,52
+2023,Punjab,Bahawalpur,Bahawalpur,Pickups/Delivery Vans,4780
+2023,Punjab,Bahawalpur,Bahawalpur,Taxis,3170
+2023,Punjab,Bahawalpur,Bahawalpur,Tractors,15141
+2023,Punjab,Bahawalpur,Bahawalpur,Trucks,719
+2023,Punjab,Sargodha,Bhakkar,Auto Rickshaws,27275
+2023,Punjab,Sargodha,Bhakkar,Mini Buses/Buses/Flying/Luxury Coaches,286
+2023,Punjab,Sargodha,Bhakkar,Motor Cars/Jeeps/Station Wagons,1164
+2023,Punjab,Sargodha,Bhakkar,Motor Cycles/Scooters,162233
+2023,Punjab,Sargodha,Bhakkar,Other Vehicles,10
+2023,Punjab,Sargodha,Bhakkar,Pickups/Delivery Vans,749
+2023,Punjab,Sargodha,Bhakkar,Taxis,84
+2023,Punjab,Sargodha,Bhakkar,Tractors,9883
+2023,Punjab,Sargodha,Bhakkar,Trucks,120
+2023,Punjab,Rawalpindi,Chakwal,Auto Rickshaws,19860
+2023,Punjab,Rawalpindi,Chakwal,Mini Buses/Buses/Flying/Luxury Coaches,546
+2023,Punjab,Rawalpindi,Chakwal,Motor Cars/Jeeps/Station Wagons,1847
+2023,Punjab,Rawalpindi,Chakwal,Motor Cycles/Scooters,167445
+2023,Punjab,Rawalpindi,Chakwal,Other Vehicles,29
+2023,Punjab,Rawalpindi,Chakwal,Pickups/Delivery Vans,2367
+2023,Punjab,Rawalpindi,Chakwal,Taxis,105
+2023,Punjab,Rawalpindi,Chakwal,Tractors,8378
+2023,Punjab,Rawalpindi,Chakwal,Trucks,129
+2023,Punjab,Faisalabad,Chiniot,Auto Rickshaws,15680
+2023,Punjab,Faisalabad,Chiniot,Mini Buses/Buses/Flying/Luxury Coaches,30
+2023,Punjab,Faisalabad,Chiniot,Motor Cars/Jeeps/Station Wagons,1401
+2023,Punjab,Faisalabad,Chiniot,Motor Cycles/Scooters,107375
+2023,Punjab,Faisalabad,Chiniot,Other Vehicles,13
+2023,Punjab,Faisalabad,Chiniot,Pickups/Delivery Vans,1403
+2023,Punjab,Faisalabad,Chiniot,Taxis,10
+2023,Punjab,Faisalabad,Chiniot,Tractors,1805
+2023,Punjab,Faisalabad,Chiniot,Trucks,103
+2023,Punjab,D.G.Khan,D.G.Khan,Auto Rickshaws,654
+2023,Punjab,D.G.Khan,D.G.Khan,Mini Buses/Buses/Flying/Luxury Coaches,999
+2023,Punjab,D.G.Khan,D.G.Khan,Motor Cars/Jeeps/Station Wagons,7156
+2023,Punjab,D.G.Khan,D.G.Khan,Motor Cycles/Scooters,617325
+2023,Punjab,D.G.Khan,D.G.Khan,Other Vehicles,62
+2023,Punjab,D.G.Khan,D.G.Khan,Pickups/Delivery Vans,1912
+2023,Punjab,D.G.Khan,D.G.Khan,Taxis,1530
+2023,Punjab,D.G.Khan,D.G.Khan,Tractors,27267
+2023,Punjab,D.G.Khan,D.G.Khan,Trucks,774
+2023,Punjab,Faisalabad,Faisalabad,Auto Rickshaws,24605
+2023,Punjab,Faisalabad,Faisalabad,Mini Buses/Buses/Flying/Luxury Coaches,3582
+2023,Punjab,Faisalabad,Faisalabad,Motor Cars/Jeeps/Station Wagons,79529
+2023,Punjab,Faisalabad,Faisalabad,Motor Cycles/Scooters,1552934
+2023,Punjab,Faisalabad,Faisalabad,Other Vehicles,172
+2023,Punjab,Faisalabad,Faisalabad,Pickups/Delivery Vans,17301
+2023,Punjab,Faisalabad,Faisalabad,Taxis,5057
+2023,Punjab,Faisalabad,Faisalabad,Tractors,14306
+2023,Punjab,Faisalabad,Faisalabad,Trucks,5821
+2023,Punjab,Gujranwala,Gujranwala,Auto Rickshaws,15164
+2023,Punjab,Gujranwala,Gujranwala,Mini Buses/Buses/Flying/Luxury Coaches,1751
+2023,Punjab,Gujranwala,Gujranwala,Motor Cars/Jeeps/Station Wagons,22318
+2023,Punjab,Gujranwala,Gujranwala,Motor Cycles/Scooters,924978
+2023,Punjab,Gujranwala,Gujranwala,Other Vehicles,695
+2023,Punjab,Gujranwala,Gujranwala,Pickups/Delivery Vans,8373
+2023,Punjab,Gujranwala,Gujranwala,Taxis,3471
+2023,Punjab,Gujranwala,Gujranwala,Tractors,20127
+2023,Punjab,Gujranwala,Gujranwala,Trucks,1501
+2023,Punjab,Gujranwala,Gujrat,Auto Rickshaws,12223
+2023,Punjab,Gujranwala,Gujrat,Mini Buses/Buses/Flying/Luxury Coaches,1003
+2023,Punjab,Gujranwala,Gujrat,Motor Cars/Jeeps/Station Wagons,5980
+2023,Punjab,Gujranwala,Gujrat,Motor Cycles/Scooters,508132
+2023,Punjab,Gujranwala,Gujrat,Other Vehicles,69
+2023,Punjab,Gujranwala,Gujrat,Pickups/Delivery Vans,3544
+2023,Punjab,Gujranwala,Gujrat,Taxis,442
+2023,Punjab,Gujranwala,Gujrat,Tractors,11029
+2023,Punjab,Gujranwala,Gujrat,Trucks,824
+2023,Punjab,Gujranwala,Hafizabad,Auto Rickshaws,331
+2023,Punjab,Gujranwala,Hafizabad,Mini Buses/Buses/Flying/Luxury Coaches,225
+2023,Punjab,Gujranwala,Hafizabad,Motor Cars/Jeeps/Station Wagons,1447
+2023,Punjab,Gujranwala,Hafizabad,Motor Cycles/Scooters,131451
+2023,Punjab,Gujranwala,Hafizabad,Other Vehicles,9
+2023,Punjab,Gujranwala,Hafizabad,Pickups/Delivery Vans,451
+2023,Punjab,Gujranwala,Hafizabad,Taxis,204
+2023,Punjab,Gujranwala,Hafizabad,Tractors,4616
+2023,Punjab,Gujranwala,Hafizabad,Trucks,109
+2023,Punjab,Faisalabad,Jhang,Auto Rickshaws,20358
+2023,Punjab,Faisalabad,Jhang,Mini Buses/Buses/Flying/Luxury Coaches,960
+2023,Punjab,Faisalabad,Jhang,Motor Cars/Jeeps/Station Wagons,2855
+2023,Punjab,Faisalabad,Jhang,Motor Cycles/Scooters,264384
+2023,Punjab,Faisalabad,Jhang,Other Vehicles,24
+2023,Punjab,Faisalabad,Jhang,Pickups/Delivery Vans,1342
+2023,Punjab,Faisalabad,Jhang,Taxis,435
+2023,Punjab,Faisalabad,Jhang,Tractors,12918
+2023,Punjab,Faisalabad,Jhang,Trucks,1189
+2023,Punjab,Rawalpindi,Jhelum,Auto Rickshaws,20523
+2023,Punjab,Rawalpindi,Jhelum,Mini Buses/Buses/Flying/Luxury Coaches,609
+2023,Punjab,Rawalpindi,Jhelum,Motor Cars/Jeeps/Station Wagons,6805
+2023,Punjab,Rawalpindi,Jhelum,Motor Cycles/Scooters,260426
+2023,Punjab,Rawalpindi,Jhelum,Other Vehicles,40
+2023,Punjab,Rawalpindi,Jhelum,Pickups/Delivery Vans,2966
+2023,Punjab,Rawalpindi,Jhelum,Taxis,296
+2023,Punjab,Rawalpindi,Jhelum,Tractors,5835
+2023,Punjab,Rawalpindi,Jhelum,Trucks,307
+2023,Punjab,Lahore,Kasur,Auto Rickshaws,415
+2023,Punjab,Lahore,Kasur,Mini Buses/Buses/Flying/Luxury Coaches,295
+2023,Punjab,Lahore,Kasur,Motor Cars/Jeeps/Station Wagons,1041
+2023,Punjab,Lahore,Kasur,Motor Cycles/Scooters,35154
+2023,Punjab,Lahore,Kasur,Other Vehicles,32
+2023,Punjab,Lahore,Kasur,Pickups/Delivery Vans,1451
+2023,Punjab,Lahore,Kasur,Taxis,274
+2023,Punjab,Lahore,Kasur,Tractors,18832
+2023,Punjab,Lahore,Kasur,Trucks,548
+2023,Punjab,Multan,Khanewal,Auto Rickshaws,590
+2023,Punjab,Multan,Khanewal,Mini Buses/Buses/Flying/Luxury Coaches,87
+2023,Punjab,Multan,Khanewal,Motor Cars/Jeeps/Station Wagons,2750
+2023,Punjab,Multan,Khanewal,Motor Cycles/Scooters,300344
+2023,Punjab,Multan,Khanewal,Other Vehicles,17
+2023,Punjab,Multan,Khanewal,Pickups/Delivery Vans,473
+2023,Punjab,Multan,Khanewal,Taxis,369
+2023,Punjab,Multan,Khanewal,Tractors,12521
+2023,Punjab,Multan,Khanewal,Trucks,91
+2023,Punjab,Sargodha,Khushab,Auto Rickshaws,15802
+2023,Punjab,Sargodha,Khushab,Mini Buses/Buses/Flying/Luxury Coaches,630
+2023,Punjab,Sargodha,Khushab,Motor Cars/Jeeps/Station Wagons,1275
+2023,Punjab,Sargodha,Khushab,Motor Cycles/Scooters,143327
+2023,Punjab,Sargodha,Khushab,Other Vehicles,21
+2023,Punjab,Sargodha,Khushab,Pickups/Delivery Vans,881
+2023,Punjab,Sargodha,Khushab,Taxis,20
+2023,Punjab,Sargodha,Khushab,Tractors,7269
+2023,Punjab,Sargodha,Khushab,Trucks,520
+2023,Punjab,Lahore,Lahore,Auto Rickshaws,223711
+2023,Punjab,Lahore,Lahore,Mini Buses/Buses/Flying/Luxury Coaches,66047
+2023,Punjab,Lahore,Lahore,Motor Cars/Jeeps/Station Wagons,1561386
+2023,Punjab,Lahore,Lahore,Motor Cycles/Scooters,4822762
+2023,Punjab,Lahore,Lahore,Other Vehicles,6147
+2023,Punjab,Lahore,Lahore,Pickups/Delivery Vans,127310
+2023,Punjab,Lahore,Lahore,Taxis,27745
+2023,Punjab,Lahore,Lahore,Tractors,61937
+2023,Punjab,Lahore,Lahore,Trucks,44383
+2023,Punjab,D.G.Khan,Layyah,Auto Rickshaws,11121
+2023,Punjab,D.G.Khan,Layyah,Mini Buses/Buses/Flying/Luxury Coaches,283
+2023,Punjab,D.G.Khan,Layyah,Motor Cars/Jeeps/Station Wagons,1967
+2023,Punjab,D.G.Khan,Layyah,Motor Cycles/Scooters,206994
+2023,Punjab,D.G.Khan,Layyah,Other Vehicles,33
+2023,Punjab,D.G.Khan,Layyah,Pickups/Delivery Vans,617
+2023,Punjab,D.G.Khan,Layyah,Taxis,134
+2023,Punjab,D.G.Khan,Layyah,Tractors,14120
+2023,Punjab,D.G.Khan,Layyah,Trucks,111
+2023,Punjab,Multan,Lodhran,Auto Rickshaws,746
+2023,Punjab,Multan,Lodhran,Mini Buses/Buses/Flying/Luxury Coaches,176
+2023,Punjab,Multan,Lodhran,Motor Cars/Jeeps/Station Wagons,3306
+2023,Punjab,Multan,Lodhran,Motor Cycles/Scooters,84408
+2023,Punjab,Multan,Lodhran,Other Vehicles,17
+2023,Punjab,Multan,Lodhran,Pickups/Delivery Vans,572
+2023,Punjab,Multan,Lodhran,Taxis,356
+2023,Punjab,Multan,Lodhran,Tractors,8194
+2023,Punjab,Multan,Lodhran,Trucks,256
+2023,Punjab,Gujranwala,M.B.Din,Auto Rickshaws,3849
+2023,Punjab,Gujranwala,M.B.Din,Mini Buses/Buses/Flying/Luxury Coaches,381
+2023,Punjab,Gujranwala,M.B.Din,Motor Cars/Jeeps/Station Wagons,2386
+2023,Punjab,Gujranwala,M.B.Din,Motor Cycles/Scooters,181147
+2023,Punjab,Gujranwala,M.B.Din,Other Vehicles,30
+2023,Punjab,Gujranwala,M.B.Din,Pickups/Delivery Vans,1441
+2023,Punjab,Gujranwala,M.B.Din,Taxis,220
+2023,Punjab,Gujranwala,M.B.Din,Tractors,7468
+2023,Punjab,Gujranwala,M.B.Din,Trucks,174
+2023,Punjab,Sargodha,Mianwali,Auto Rickshaws,8400
+2023,Punjab,Sargodha,Mianwali,Mini Buses/Buses/Flying/Luxury Coaches,767
+2023,Punjab,Sargodha,Mianwali,Motor Cars/Jeeps/Station Wagons,1321
+2023,Punjab,Sargodha,Mianwali,Motor Cycles/Scooters,211904
+2023,Punjab,Sargodha,Mianwali,Other Vehicles,44
+2023,Punjab,Sargodha,Mianwali,Pickups/Delivery Vans,3289
+2023,Punjab,Sargodha,Mianwali,Taxis,262
+2023,Punjab,Sargodha,Mianwali,Tractors,9946
+2023,Punjab,Sargodha,Mianwali,Trucks,751
+2023,Punjab,Multan,Multan,Auto Rickshaws,22828
+2023,Punjab,Multan,Multan,Mini Buses/Buses/Flying/Luxury Coaches,5773
+2023,Punjab,Multan,Multan,Motor Cars/Jeeps/Station Wagons,127812
+2023,Punjab,Multan,Multan,Motor Cycles/Scooters,1424709
+2023,Punjab,Multan,Multan,Other Vehicles,154
+2023,Punjab,Multan,Multan,Pickups/Delivery Vans,21640
+2023,Punjab,Multan,Multan,Taxis,10722
+2023,Punjab,Multan,Multan,Tractors,21092
+2023,Punjab,Multan,Multan,Trucks,6816
+2023,Punjab,D.G.Khan,Muzaffargarh,Auto Rickshaws,791
+2023,Punjab,D.G.Khan,Muzaffargarh,Mini Buses/Buses/Flying/Luxury Coaches,217
+2023,Punjab,D.G.Khan,Muzaffargarh,Motor Cars/Jeeps/Station Wagons,2751
+2023,Punjab,D.G.Khan,Muzaffargarh,Motor Cycles/Scooters,179222
+2023,Punjab,D.G.Khan,Muzaffargarh,Other Vehicles,34
+2023,Punjab,D.G.Khan,Muzaffargarh,Pickups/Delivery Vans,655
+2023,Punjab,D.G.Khan,Muzaffargarh,Taxis,158
+2023,Punjab,D.G.Khan,Muzaffargarh,Tractors,11553
+2023,Punjab,D.G.Khan,Muzaffargarh,Trucks,533
+2023,Punjab,Lahore,Nankana Sahib,Auto Rickshaws,47
+2023,Punjab,Lahore,Nankana Sahib,Mini Buses/Buses/Flying/Luxury Coaches,39
+2023,Punjab,Lahore,Nankana Sahib,Motor Cars/Jeeps/Station Wagons,546
+2023,Punjab,Lahore,Nankana Sahib,Motor Cycles/Scooters,43921
+2023,Punjab,Lahore,Nankana Sahib,Other Vehicles,18
+2023,Punjab,Lahore,Nankana Sahib,Pickups/Delivery Vans,131
+2023,Punjab,Lahore,Nankana Sahib,Taxis,1
+2023,Punjab,Lahore,Nankana Sahib,Tractors,2397
+2023,Punjab,Lahore,Nankana Sahib,Trucks,25
+2023,Punjab,Gujranwala,Narowal,Auto Rickshaws,2670
+2023,Punjab,Gujranwala,Narowal,Mini Buses/Buses/Flying/Luxury Coaches,46
+2023,Punjab,Gujranwala,Narowal,Motor Cars/Jeeps/Station Wagons,519
+2023,Punjab,Gujranwala,Narowal,Motor Cycles/Scooters,74008
+2023,Punjab,Gujranwala,Narowal,Other Vehicles,17
+2023,Punjab,Gujranwala,Narowal,Pickups/Delivery Vans,337
+2023,Punjab,Gujranwala,Narowal,Taxis,1
+2023,Punjab,Gujranwala,Narowal,Tractors,11191
+2023,Punjab,Gujranwala,Narowal,Trucks,18
+2023,Punjab,Sahiwal,Okara,Auto Rickshaws,3448
+2023,Punjab,Sahiwal,Okara,Mini Buses/Buses/Flying/Luxury Coaches,271
+2023,Punjab,Sahiwal,Okara,Motor Cars/Jeeps/Station Wagons,3607
+2023,Punjab,Sahiwal,Okara,Motor Cycles/Scooters,355696
+2023,Punjab,Sahiwal,Okara,Other Vehicles,47
+2023,Punjab,Sahiwal,Okara,Pickups/Delivery Vans,1501
+2023,Punjab,Sahiwal,Okara,Taxis,166
+2023,Punjab,Sahiwal,Okara,Tractors,15944
+2023,Punjab,Sahiwal,Okara,Trucks,588
+2023,Punjab,Sahiwal,Pakpattan,Auto Rickshaws,252
+2023,Punjab,Sahiwal,Pakpattan,Mini Buses/Buses/Flying/Luxury Coaches,128
+2023,Punjab,Sahiwal,Pakpattan,Motor Cars/Jeeps/Station Wagons,1244
+2023,Punjab,Sahiwal,Pakpattan,Motor Cycles/Scooters,134387
+2023,Punjab,Sahiwal,Pakpattan,Other Vehicles,23
+2023,Punjab,Sahiwal,Pakpattan,Pickups/Delivery Vans,495
+2023,Punjab,Sahiwal,Pakpattan,Taxis,9
+2023,Punjab,Sahiwal,Pakpattan,Tractors,11259
+2023,Punjab,Sahiwal,Pakpattan,Trucks,38
+2023,Punjab,Bahawalpur,R.Y.Khan,Auto Rickshaws,509
+2023,Punjab,Bahawalpur,R.Y.Khan,Mini Buses/Buses/Flying/Luxury Coaches,1174
+2023,Punjab,Bahawalpur,R.Y.Khan,Motor Cars/Jeeps/Station Wagons,17194
+2023,Punjab,Bahawalpur,R.Y.Khan,Motor Cycles/Scooters,869582
+2023,Punjab,Bahawalpur,R.Y.Khan,Other Vehicles,66
+2023,Punjab,Bahawalpur,R.Y.Khan,Pickups/Delivery Vans,3970
+2023,Punjab,Bahawalpur,R.Y.Khan,Taxis,426
+2023,Punjab,Bahawalpur,R.Y.Khan,Tractors,28455
+2023,Punjab,Bahawalpur,R.Y.Khan,Trucks,791
+2023,Punjab,D.G.Khan,Rajanpur,Auto Rickshaws,4
+2023,Punjab,D.G.Khan,Rajanpur,Mini Buses/Buses/Flying/Luxury Coaches,99
+2023,Punjab,D.G.Khan,Rajanpur,Motor Cars/Jeeps/Station Wagons,668
+2023,Punjab,D.G.Khan,Rajanpur,Motor Cycles/Scooters,37702
+2023,Punjab,D.G.Khan,Rajanpur,Other Vehicles,31
+2023,Punjab,D.G.Khan,Rajanpur,Pickups/Delivery Vans,345
+2023,Punjab,D.G.Khan,Rajanpur,Taxis,192
+2023,Punjab,D.G.Khan,Rajanpur,Tractors,4121
+2023,Punjab,D.G.Khan,Rajanpur,Trucks,37
+2023,Punjab,Rawalpindi,Rawalpindi,Auto Rickshaws,33232
+2023,Punjab,Rawalpindi,Rawalpindi,Mini Buses/Buses/Flying/Luxury Coaches,14542
+2023,Punjab,Rawalpindi,Rawalpindi,Motor Cars/Jeeps/Station Wagons,107493
+2023,Punjab,Rawalpindi,Rawalpindi,Motor Cycles/Scooters,965287
+2023,Punjab,Rawalpindi,Rawalpindi,Other Vehicles,480
+2023,Punjab,Rawalpindi,Rawalpindi,Pickups/Delivery Vans,58780
+2023,Punjab,Rawalpindi,Rawalpindi,Taxis,8145
+2023,Punjab,Rawalpindi,Rawalpindi,Tractors,4055
+2023,Punjab,Rawalpindi,Rawalpindi,Trucks,9313
+2023,Punjab,Sahiwal,Sahiwal,Auto Rickshaws,1116
+2023,Punjab,Sahiwal,Sahiwal,Mini Buses/Buses/Flying/Luxury Coaches,553
+2023,Punjab,Sahiwal,Sahiwal,Motor Cars/Jeeps/Station Wagons,11117
+2023,Punjab,Sahiwal,Sahiwal,Motor Cycles/Scooters,470238
+2023,Punjab,Sahiwal,Sahiwal,Other Vehicles,40
+2023,Punjab,Sahiwal,Sahiwal,Pickups/Delivery Vans,2880
+2023,Punjab,Sahiwal,Sahiwal,Taxis,1970
+2023,Punjab,Sahiwal,Sahiwal,Tractors,35598
+2023,Punjab,Sahiwal,Sahiwal,Trucks,1083
+2023,Punjab,Sargodha,Sargodha,Auto Rickshaws,46066
+2023,Punjab,Sargodha,Sargodha,Mini Buses/Buses/Flying/Luxury Coaches,1835
+2023,Punjab,Sargodha,Sargodha,Motor Cars/Jeeps/Station Wagons,8867
+2023,Punjab,Sargodha,Sargodha,Motor Cycles/Scooters,551483
+2023,Punjab,Sargodha,Sargodha,Other Vehicles,76
+2023,Punjab,Sargodha,Sargodha,Pickups/Delivery Vans,4369
+2023,Punjab,Sargodha,Sargodha,Taxis,1843
+2023,Punjab,Sargodha,Sargodha,Tractors,19019
+2023,Punjab,Sargodha,Sargodha,Trucks,2758
+2023,Punjab,Lahore,Sheikhupura,Auto Rickshaws,2084
+2023,Punjab,Lahore,Sheikhupura,Mini Buses/Buses/Flying/Luxury Coaches,488
+2023,Punjab,Lahore,Sheikhupura,Motor Cars/Jeeps/Station Wagons,2468
+2023,Punjab,Lahore,Sheikhupura,Motor Cycles/Scooters,59589
+2023,Punjab,Lahore,Sheikhupura,Other Vehicles,45
+2023,Punjab,Lahore,Sheikhupura,Pickups/Delivery Vans,996
+2023,Punjab,Lahore,Sheikhupura,Taxis,342
+2023,Punjab,Lahore,Sheikhupura,Tractors,14021
+2023,Punjab,Lahore,Sheikhupura,Trucks,1185
+2023,Punjab,Gujranwala,Sialkot,Auto Rickshaws,34493
+2023,Punjab,Gujranwala,Sialkot,Mini Buses/Buses/Flying/Luxury Coaches,2054
+2023,Punjab,Gujranwala,Sialkot,Motor Cars/Jeeps/Station Wagons,31509
+2023,Punjab,Gujranwala,Sialkot,Motor Cycles/Scooters,750263
+2023,Punjab,Gujranwala,Sialkot,Other Vehicles,63
+2023,Punjab,Gujranwala,Sialkot,Pickups/Delivery Vans,7758
+2023,Punjab,Gujranwala,Sialkot,Taxis,450
+2023,Punjab,Gujranwala,Sialkot,Tractors,12939
+2023,Punjab,Gujranwala,Sialkot,Trucks,454
+2023,Punjab,Faisalabad,T.T.Singh,Auto Rickshaws,402
+2023,Punjab,Faisalabad,T.T.Singh,Mini Buses/Buses/Flying/Luxury Coaches,193
+2023,Punjab,Faisalabad,T.T.Singh,Motor Cars/Jeeps/Station Wagons,1706
+2023,Punjab,Faisalabad,T.T.Singh,Motor Cycles/Scooters,242566
+2023,Punjab,Faisalabad,T.T.Singh,Other Vehicles,17
+2023,Punjab,Faisalabad,T.T.Singh,Pickups/Delivery Vans,567
+2023,Punjab,Faisalabad,T.T.Singh,Taxis,125
+2023,Punjab,Faisalabad,T.T.Singh,Tractors,13327
+2023,Punjab,Faisalabad,T.T.Singh,Trucks,106
+2023,Punjab,Multan,Vehari,Auto Rickshaws,479
+2023,Punjab,Multan,Vehari,Mini Buses/Buses/Flying/Luxury Coaches,321
+2023,Punjab,Multan,Vehari,Motor Cars/Jeeps/Station Wagons,5019
+2023,Punjab,Multan,Vehari,Motor Cycles/Scooters,411376
+2023,Punjab,Multan,Vehari,Other Vehicles,8
+2023,Punjab,Multan,Vehari,Pickups/Delivery Vans,664
+2023,Punjab,Multan,Vehari,Taxis,802
+2023,Punjab,Multan,Vehari,Tractors,18988
+2023,Punjab,Multan,Vehari,Trucks,201
