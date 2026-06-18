@@ -9,16 +9,12 @@ District-level registered vehicle counts for Punjab, Pakistan, sourced from the 
 ## Files
 
 ```
-data/
-├── raw/
-│   └── pbs_vehicles_raw.csv           # Original PBS data, 2015–2023
-└── processed/
-    ├── pbs_vehicles_cleaned.csv        # After applying 7 data cleaning rules
-    ├── pbs_vehicles_classified.csv     # Mapped to 9 emission inventory classes
-    └── cleaning_audit_log.csv          # Every changed cell (old value → new value)
-
-clean_transport.py                      # Applies cleaning rules; produces Cleaned data
-classify_vehicles.py                    # Maps PBS types to vehicle classes; produces Classified data
+pbs_vehicles_raw.csv            # Original PBS data, 2015–2023
+pbs_vehicles_cleaned.csv        # After applying 7 data cleaning rules
+pbs_vehicles_classified.csv     # Mapped to 9 emission inventory classes
+cleaning_audit_log.csv          # Every changed cell (old value → new value)
+clean_transport.py              # Applies cleaning rules; produces Cleaned data
+classify_vehicles.py            # Maps PBS types to vehicle classes; produces Classified data
 ```
 
 ---
